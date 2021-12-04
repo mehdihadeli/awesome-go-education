@@ -1,0 +1,67 @@
+site_name: Awesome Go Educations
+site_url: https://github.com/mehdihadeli/awesome-go-education
+site_description: A curated list of awesome articles and resources for learning and practicing about Go and its related technologies.
+docs_dir: docs/
+repo_name: 'GitHub'
+repo_url: https://github.com/mehdihadeli/awesome-go-education
+theme: 
+  name: material 
+  palette:
+    primary: 'deep purple'
+    accent: 'indigo'  
+  prev_next_buttons_location: both
+  navigation_depth: 4
+  titles_only: False
+  sticky_navigation: True
+extra_css:
+  - static/extra.css
+markdown_extensions:
+  - smarty
+  - sane_lists
+  - fenced_code
+  - meta
+  - admonition
+  - attr_list
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  #- pymdownx.emoji:
+  #    emoji_index: !!python/name:pymdownx.emoji.twemoji
+  #    emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  #- pymdownx.emoji:
+  #    emoji_index: !!python/name:materialx.emoji.twemoji
+  #    emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed
+  - pymdownx.tilde
+  - codehilite
+  - footnotes
+  - toc:
+      permalink: true
+      #baselevel: 2
+nav:
+  - Web:
+    - gin : web/gin.md
+  - ORM: 
+    - gorm: orm/gorm.md
+  
+copyright: 2021 <a href="https://github.com/mehdihadeli">Mehdi Hadeli</a>.
+#remote_branch: gh-pages 
+#remote_name: origin
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/mehdi_hadeli
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/mehdihadeli
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/mehdihadeli
