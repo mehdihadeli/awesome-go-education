@@ -12,6 +12,11 @@ jobs:
       - name: Checkout master
         uses: actions/checkout@v2
 
+      - name: Make executeable
+        run: chmod +x ./moveFiles.sh
+      - name: move md files
+        run:  ./moveFiles.sh
+        
       - name: Deploy MkDocs
         uses: mhausenblas/mkdocs-deploy-gh-pages@1.12
         env:
