@@ -4,6 +4,7 @@ site_description: A curated list of awesome articles and resources for learning 
 docs_dir: docs/
 repo_name: 'GitHub'
 repo_url: https://github.com/mehdihadeli/awesome-go-education
+edit_uri: edit/master/docs/
 theme: 
   name: material 
   palette:
@@ -13,8 +14,6 @@ theme:
   navigation_depth: 4
   titles_only: False
   sticky_navigation: True
-extra_css:
-  - static/extra.css
 markdown_extensions:
   - smarty
   - sane_lists
@@ -47,7 +46,8 @@ markdown_extensions:
   - footnotes
   - toc:
       permalink: true
-      #baselevel: 2
+
+
 nav:
   - Web:
     - gin : web/gin.md
