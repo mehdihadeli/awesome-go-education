@@ -1,1 +1,1 @@
-sudo cp README.md docs/index.md
+# sudo cp README.md docs/index.md
