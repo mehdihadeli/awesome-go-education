@@ -4,6 +4,9 @@
 - [Github Page](https://github.com/gin-gonic/gin)
 - [Website](https://gin-gonic.com/)
 
+## Videos
+- [REST API with Go / Gin + Some Simple Tests](https://www.youtube.com/watch?v=LOn1GUsjOF4)
+
 ## Libraries
 - [xinliangnote/go-gin-api](https://github.com/xinliangnote/go-gin-api) - The API framework based on Gin's modular design encapsulates common functions, is simple to use, and is committed to rapid business research and development. For example, it supports cors cross-domain, jwt signature verification, zap log collection, panic exception capture, trace link tracking, prometheus monitoring indicators, swagger document generation, viper configuration file analysis, gorm database component, gormgen code generation tool, graphql query language, errno uniformly defines error codes, the use of gRPC, cron timing tasks, and so on
 
