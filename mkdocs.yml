@@ -47,13 +47,56 @@ markdown_extensions:
   - toc:
       permalink: true
 
-
 nav:
-  - Web:
-    - gin : web/gin.md
+  - Web / REST:
+    - WEB / REST : web/web-rest.md
+    - Gin : web/gin.md
+    - Beego : web/beego.md
+    - Echo : web/echo.md
+    - Fiber : web/fiber.md
+    - Iris : web/iris.md
+  - Go Instructions:
+    - Go: go-instructions/go.md
+    - Control Flow: go-instructions/control-flow.md
+    - Conversion: go-instructions/conversion.md
+    - Defer: go-instructions/defer.md
+    - Dep: go-instructions/dep.md
+    - File: go-instructions/file.md
+    - Function: go-instructions/function.md
+    - GOPATH: go-instructions/gopath.md
+    - Init: go-instructions/init.md
+    - Interface: go-instructions/interface.md
+    - Loops: go-instructions/loops.md
+    - Method: go-instructions/method.md
+    - Modules & Packages: go-instructions/modules-packages.md
+    - Pointer: go-instructions/pointer.md
+    - Struct: go-instructions/struct.md
+    - Switch: go-instructions/switch.md
+    - Variables: go-instructions/variables.md
+    - Data Types: 
+      - Data Types: go-instructions/data-types/data-types.md
+      - Strings: go-instructions/data-types/strings.md
+    - Collections:
+      - Array: go-instructions/collections/arrays.md
+      - Maps: go-instructions/collections/maps.md
+      - Slices: go-instructions/collections/slices.md
   - ORM: 
+    - ORM: orm.md
     - gorm: orm/gorm.md
-  
+  - Logging:
+    - Logging: logging/logging.md
+    - Zap: logging/zap.md
+  - DDD: ddd.md
+  - Clean Architecture: clean-architecture.md
+  - CQRS: cqrs.md
+  - Concurrency: concurrency.md
+  - Best Practices: best-practices.md
+  - Error Handling: error-handling.md
+  - Microservices : microservices.md
+  - OOP : oop.md
+  - Project Structure : project-structure.md
+  - Software Architecture : software-architecture.md
+
 copyright: 2021 <a href="https://github.com/mehdihadeli">Mehdi Hadeli</a>.
 #remote_branch: gh-pages 
 #remote_name: origin
