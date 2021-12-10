@@ -1,7 +1,7 @@
 # Fiber
 
 ## Resources
-- [Github Page](https://github.com/gofiber/fiber)
+- [Github Page](https://github.com/gofiber/fiber) - Express inspired web framework written in Go
 
 ## Articles
 - [Building a Basic REST API in Go using Fiber](https://tutorialedge.net/golang/basic-rest-api-go-fiber/)
