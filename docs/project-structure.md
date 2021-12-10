@@ -1,9 +1,9 @@
 # Project Structure
 
-## Resources
+## 📘 Resources
 - [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
 
-## Articles
+## 📕 Articles
 - [Go - Project Structure and Guidelines](https://dev.to/jinxankit/go-project-structure-and-guidelines-4ccm)
 - [How do I Structure my Go Project?](https://www.wolfe.id.au/2020/03/10/how-do-i-structure-my-go-project/)
 - [Go Project Structure Best Practices](https://tutorialedge.net/golang/go-project-structure-best-practices/)
@@ -19,7 +19,7 @@
 - [How to Start a Golang Project Right](https://www.youtube.com/watch?v=Ot9Em123Fz8)
 - [How To Structure Your Go App - Full Course [ Hex Arch + Tests ]](https://www.youtube.com/watch?v=MpFog2kZsHk)
 - [Go Programming - Hexagonal Architecture](https://www.youtube.com/watch?v=k3JZI-sQs2k)
-## Samples
+## 🚀 Samples
 - [ruslantsyganok/clean_arcitecture_golang_example](https://github.com/ruslantsyganok/clean_arcitecture_golang_example) - Clean Architecture Golang Example (kinda)
 - [selikapro/hexArchGoGRPC](https://github.com/selikapro/hexArchGoGRPC)
 - [codebangkok/golang](https://github.com/codebangkok/golang)

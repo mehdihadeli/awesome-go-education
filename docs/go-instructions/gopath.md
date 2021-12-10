@@ -1,6 +1,6 @@
 # GOPATH
 
-## Articles
+## 📕 Articles
 - [Understanding the GOPATH](https://www.digitalocean.com/community/tutorials/understanding-the-gopath)
 - [GOROOT and GOPATH](https://www.jetbrains.com/help/go/configuring-goroot-and-gopath.html)
 - [What is GOPATH?](https://golangr.com/what-is-gopath/)

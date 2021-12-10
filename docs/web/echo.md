@@ -1,7 +1,7 @@
 # Echo
 
-## Resources
+## 📘 Resources
 - [GitHub Page](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 
-## Samples
+## 🚀 Samples
 - [ybkuroki/go-webapp-sample](https://github.com/ybkuroki/go-webapp-sample) - golang, echo, gorm

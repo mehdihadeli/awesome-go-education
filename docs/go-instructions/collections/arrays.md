@@ -1,6 +1,6 @@
 # Arrays
 
-## Articles
+## 📕 Articles
 - [Working with Arrays in Golang](https://www.callicoder.com/golang-arrays/)
 - [Go by Example: Arrays](https://gobyexample.com/arrays)
 - [Golang Arrays](https://www.golangprograms.com/go-language/arrays.html)

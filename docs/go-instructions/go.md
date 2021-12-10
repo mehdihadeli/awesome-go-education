@@ -1,6 +1,6 @@
 # Go
 
-## Resources
+## 📘 Resources
 - [Learn Go](https://golangr.com/)
 - [Golang Tutorials](https://www.callicoder.com/categories/golang/)
 - [Go by Example](https://gobyexample.com/)
@@ -11,13 +11,13 @@
 - [Golang Comprehensive Tutorial Series](https://golangbyexample.com/golang-comprehensive-tutorial/)
 - [Go Resources](https://github.com/gophertuts/go-basics/tree/master/go-learning-resources)
 - [Golang Development - TutorialEdge.net](https://tutorialedge.net/golang/)
-## Articles
+## 📕 Articles
 
-## Videos
+## 📺 Videos
 - [Let's go with golang - Hitesh Choudhary](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa)
 - [Learning Go/Golang - Mario Carrion](https://www.youtube.com/playlist?list=PL7yAAGMOat_F7bOImcjx4ZnCtfyNEqzCy)
 
-## Samples
+## 🚀 Samples
 - [callicoder/golang-tutorials](https://github.com/callicoder/golang-tutorials)
 
-## Books
+## 📚 Books

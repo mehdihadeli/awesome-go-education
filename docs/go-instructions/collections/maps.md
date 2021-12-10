@@ -1,6 +1,6 @@
 # Maps
 
-## Articles
+## 📕 Articles
 - [Golang Maps by Example](https://www.callicoder.com/golang-maps/)
 - [Golang Maps Tutorial](https://golangbot.com/maps/)
 - [Arrays, Slices and Maps](https://www.golang-book.com/books/intro/6)

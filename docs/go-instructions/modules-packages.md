@@ -3,7 +3,7 @@
 ## References
 - [Go Module Cheat Sheet](https://encore.dev/guide/go.mod)
 
-## Articles
+## 📕 Articles
 - [Anatomy of Modules in Go](https://medium.com/rungo/anatomy-of-modules-in-go-c8274d215c16)
 - [GOLANG TUTORIAL - PACKAGES](https://www.bogotobogo.com/GoLang/GoLang_Packages.php)
 - [Go Packages](https://golangbot.com/go-packages/)
@@ -24,6 +24,6 @@
 - [Go Modules Tutorial](https://tutorialedge.net/golang/go-modules-tutorial/)
 - [How to Use Go Modules](https://www.digitalocean.com/community/tutorials/how-to-use-go-modules)
 - [How to Distribute Go Modules](https://www.digitalocean.com/community/tutorials/how-to-distribute-go-modules)
-## Videos
+## 📺 Videos
 - [Learning Golang: Dependencies, Modules and How to manage Packages](https://www.youtube.com/watch?v=20sLKEpHvvk)
 - [Packages in Go (Go Basics #6)](https://www.youtube.com/watch?v=sf7f4QGkwfE)

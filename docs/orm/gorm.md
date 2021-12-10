@@ -5,7 +5,7 @@
 ## Libraries
 - [hellokaton/gorm-paginator](https://github.com/hellokaton/gorm-paginator) - gorm pagination extension
 
-## Samples
+## 🚀 Samples
 - [gothinkster/golang-gin-realworld-example-app](https://github.com/gothinkster/golang-gin-realworld-example-app) - Exemplary real world application built with Golang + Gin
 - [ybkuroki/go-webapp-sample](https://github.com/ybkuroki/go-webapp-sample) - golang, echo, gorm
 - [caohoangnam/go-clean-architecture](https://github.com/caohoangnam/go-clean-architecture) - Write language go and using clean architecture

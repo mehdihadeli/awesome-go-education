@@ -1,6 +1,6 @@
 # OOP
 
-## Articles
+## 📕 Articles
 - [Object-oriented](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/02.5.html)
 - [OOP: Inheritance in GOLANG complete guide](https://golangbyexample.com/oop-inheritance-golang-complete/)
 - [Encapsulation in Go (Golang)](https://golangbyexample.com/encapsulation-in-go/)
@@ -13,6 +13,6 @@
 - [Well-structured Logic: A Golang OOP Tutorial](https://www.toptal.com/go/golang-oop-tutorial)
 - [Is Go an Object Oriented language?](https://medium.com/gophersland/gopher-vs-object-oriented-golang-4fa62b88c701)
 
-## Videos
+## 📺 Videos
 - [Golang Object Oriented](https://www.youtube.com/watch?v=fLvMfrSRPmQ)
 - [Go can do OOP too, sorta - Go / Golang OOP Tutorial ](https://www.youtube.com/watch?v=fTFru0Zha-c)
