@@ -9,6 +9,7 @@
 **🚀 This awesome list is available in this link:**
 **[https://mehdihadeli.github.io/awesome-go-education](https://mehdihadeli.github.io/awesome-go-education/)**
 
+<a href="https://mehdihadeli.github.io/awesome-go-education"> ![home page](assets/home.png) </a>
 
 ## Support ⭐
 
