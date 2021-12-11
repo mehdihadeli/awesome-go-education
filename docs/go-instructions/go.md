@@ -1,6 +1,8 @@
 # Go
 
 ## 📘 Resources
+- [Effective Go](https://go.dev/doc/effective_go)
+- [The Go Programming Language Specification](https://go.dev/ref/spec)
 - [Learn Go](https://golangr.com/)
 - [Golang Tutorials](https://www.callicoder.com/categories/golang/)
 - [Go by Example](https://gobyexample.com/)

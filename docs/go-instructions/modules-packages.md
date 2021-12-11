@@ -24,6 +24,8 @@
 - [Go Modules Tutorial](https://tutorialedge.net/golang/go-modules-tutorial/)
 - [How to Use Go Modules](https://www.digitalocean.com/community/tutorials/how-to-use-go-modules)
 - [How to Distribute Go Modules](https://www.digitalocean.com/community/tutorials/how-to-distribute-go-modules)
+- [Style guideline for Go packages](https://rakyll.org/style-packages/)
 ## 📺 Videos
 - [Learning Golang: Dependencies, Modules and How to manage Packages](https://www.youtube.com/watch?v=20sLKEpHvvk)
 - [Packages in Go (Go Basics #6)](https://www.youtube.com/watch?v=sf7f4QGkwfE)
+- [EVERYTHING You SHOULD know about Go Modules (Go Basics #8)](https://www.youtube.com/watch?v=Z1VhG7cf83M)

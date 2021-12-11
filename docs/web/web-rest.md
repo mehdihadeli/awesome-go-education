@@ -27,10 +27,7 @@
 - [REST API with Go / Gin + Some Simple Tests](https://www.youtube.com/watch?v=LOn1GUsjOF4)
 - [REST API with Go, Chi and Handler Testing](https://www.youtube.com/watch?v=zeme_TmXyBk)
 - [Golang Web Course - Learn To Code](https://www.youtube.com/playlist?list=PLSak_q1UXfPrba68q2afhFq4aBAPVSDbj)
-## Templates
-- [resotto/goilerplate](https://github.com/resotto/goilerplate) - Clean Boilerplate of Go, Domain-Driven Design, Clean Architecture, Gin and GORM.
-- [AkbaraliShaikh/denti](https://github.com/AkbaraliShaikh/denti) - This project is created to demonstrate Go-Lang Clean Architecture/DDD/Hexagonal Architecture, and It show the usage of popular libraries gin, gorm, zap and dig.
-- [takashabe/go-ddd-sample](https://github.com/takashabe/go-ddd-sample) - DDD like architecture sample application
+- [[Golang] Rapid Web Development In Go (aka Intro Into Buffalo)](https://www.youtube.com/watch?v=J0JnHNgPMRk)
 ## 🚀 Samples
 - [Mindinventory/Golang-Project-Structure](https://github.com/Mindinventory/Golang-Project-Structure) - Golang Skeleton With Fully Managed Versions For Kick Start GoLang Project Development
 - [gothinkster/golang-gin-realworld-example-app](https://github.com/gothinkster/golang-gin-realworld-example-app) - Exemplary real world application built with Golang + Gin

@@ -6,3 +6,6 @@
 - [What is GOPATH?](https://golangr.com/what-is-gopath/)
 - [GoLang: Why not use the GOPATH](https://medium.com/@vingarcia00/golang-why-not-use-the-gopath-87521259663a)
 - [The GOPATH environment variable](https://exlskills.com/learn-en/courses/aap-learn-go-golang--learn_golang_asap/aap-learn--asapgo/beyond-the-basics-YvUaZMowIAIo/formatting-UsbXqGaTMIzb)
+
+## Videos
+- [Demistifying GOPATH. Basic Go commands (Go Basics #1)](https://www.youtube.com/watch?v=QgHkCGkSoy4)
