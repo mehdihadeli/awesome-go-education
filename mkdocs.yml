@@ -81,7 +81,7 @@ nav:
       - Maps: go-instructions/collections/maps.md
       - Slices: go-instructions/collections/slices.md
   - ORM: 
-    - ORM: orm.md
+    - ORM: orm/orm.md
     - gorm: orm/gorm.md
   - Logging:
     - Logging: logging/logging.md
