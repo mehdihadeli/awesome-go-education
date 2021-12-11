@@ -18,6 +18,10 @@
 ## 📺 Videos
 - [Let's go with golang - Hitesh Choudhary](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa)
 - [Learning Go/Golang - Mario Carrion](https://www.youtube.com/playlist?list=PL7yAAGMOat_F7bOImcjx4ZnCtfyNEqzCy)
+- [Go: Getting Started - Pluralsight](https://www.pluralsight.com/courses/getting-started-with-go)
+- [Getting Started With Golang - Academind](https://pro.academind.com/p/golang-the-practical-guide)
+- [Go: The Complete Developer's Guide (Golang) - Stephen Grider - Udemy](https://www.udemy.com/course/go-the-complete-developers-guide/)
+- [Learn How To Code: Google's Go (golang) Programming Language - Udemy - Todd McLeod](https://www.udemy.com/course/learn-how-to-code)
 
 ## 🚀 Samples
 - [callicoder/golang-tutorials](https://github.com/callicoder/golang-tutorials)

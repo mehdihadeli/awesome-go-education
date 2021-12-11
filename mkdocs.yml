@@ -71,7 +71,7 @@ nav:
     - Modules & Packages: go-instructions/modules-packages.md
     - Pointer: go-instructions/pointer.md
     - Struct: go-instructions/struct.md
-    - Switch: go-instructions/switch.md
+    - Switch: go-instructions/switch.md  
     - Variables: go-instructions/variables.md
     - Data Types: 
       - Data Types: go-instructions/data-types/data-types.md
@@ -89,12 +89,18 @@ nav:
   - DDD: ddd.md
   - Clean Architecture: clean-architecture.md
   - CQRS: cqrs.md
-  - Concurrency: concurrency.md
+  - Concurrency: 
+    - Concurrency: concurrency/concurrency.md
+    - Goroutines: concurrency/goroutines.md
+    - Channel: concurrency/channel.md
+    - Select: concurrency/select.md
+    - Mutex: concurrency/mutex.md
   - Best Practices: best-practices.md
   - Error Handling: error-handling.md
   - Microservices : microservices.md
   - OOP : oop.md
   - Project Structure : project-structure.md
+  - Reflection: reflection.md
   - Software Architecture : software-architecture.md
 
 copyright: 2021 <a href="https://github.com/mehdihadeli">Mehdi Hadeli</a>.

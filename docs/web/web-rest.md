@@ -28,6 +28,10 @@
 - [REST API with Go, Chi and Handler Testing](https://www.youtube.com/watch?v=zeme_TmXyBk)
 - [Golang Web Course - Learn To Code](https://www.youtube.com/playlist?list=PLSak_q1UXfPrba68q2afhFq4aBAPVSDbj)
 - [[Golang] Rapid Web Development In Go (aka Intro Into Buffalo)](https://www.youtube.com/watch?v=J0JnHNgPMRk)
+- [Web Development w/ Google’s Go (golang) Programming Language - Todd McLeod - Udemy](https://www.udemy.com/course/go-programming-language/)
+- [Building Modern Web Applications with Go (Golang) - Udemy](https://www.udemy.com/course/building-modern-web-applications-with-go/)
+- [REST based microservices API development in Golang - Udemy](https://www.udemy.com/course/rest-based-microservices-api-development-in-go-lang/)
+- [Creating Web Applications with Go - Pluralsight](https://www.pluralsight.com/courses/creating-web-applications-go-update)
 ## 🚀 Samples
 - [Mindinventory/Golang-Project-Structure](https://github.com/Mindinventory/Golang-Project-Structure) - Golang Skeleton With Fully Managed Versions For Kick Start GoLang Project Development
 - [gothinkster/golang-gin-realworld-example-app](https://github.com/gothinkster/golang-gin-realworld-example-app) - Exemplary real world application built with Golang + Gin
