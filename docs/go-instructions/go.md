@@ -27,3 +27,4 @@
 - [callicoder/golang-tutorials](https://github.com/callicoder/golang-tutorials)
 
 ## 📚 Books
+- [LET'S GO PROFESSIONAL](https://lets-go.alexedwards.net/)

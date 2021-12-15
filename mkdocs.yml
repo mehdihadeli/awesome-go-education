@@ -73,6 +73,7 @@ nav:
     - Struct: go-instructions/struct.md
     - Switch: go-instructions/switch.md  
     - Variables: go-instructions/variables.md
+    - Enums: go-instructions/enum.md
     - Data Types: 
       - Data Types: go-instructions/data-types/data-types.md
       - Strings: go-instructions/data-types/strings.md
@@ -83,9 +84,7 @@ nav:
   - ORM: 
     - ORM: orm.md
     - gorm: orm/gorm.md
-  - Logging:
-    - Logging: logging/logging.md
-    - Zap: logging/zap.md
+  - Logging: logging.md
   - DDD: ddd.md
   - Clean Architecture: clean-architecture.md
   - CQRS: cqrs.md
@@ -100,7 +99,11 @@ nav:
   - Microservices : microservices.md
   - OOP : oop.md
   - Project Structure : project-structure.md
+  - API Documentation: api-documentation.md
+  - Debugging: debugging.md
   - Reflection: reflection.md
+  - Anti Patterns: anti-patterns.md
+  - Test: test.md
   - Software Architecture : software-architecture.md
 
 copyright: 2021 <a href="https://github.com/mehdihadeli">Mehdi Hadeli</a>.
