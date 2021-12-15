@@ -21,6 +21,7 @@
 - [Concurrency in modern programming languages: Introduction](https://deepu.tech/concurrency-in-modern-languages/)
 - [Concurrency in modern programming languages: Golang](https://deepu.tech/concurrency-in-modern-languages-go/)
 ## 📺 Videos
+- [Deadlocks: The Dark Side of Concurrency - Nick Craig-Wood](https://youtu.be/9j0oQkqzhAE)v
 - [Learning Go/Golang Concurrency Patterns - Mario Carrion](https://www.youtube.com/playlist?list=PL7yAAGMOat_Fhj_px_DzNzTsXs-mRwv1t)
 - [Google I/O 2012 - Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs)
 - [Concurrency in Go](https://www.youtube.com/watch?v=LvgVSSpwND8)

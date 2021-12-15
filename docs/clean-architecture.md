@@ -12,6 +12,7 @@
 - [Go Programming - Hexagonal Architecture](https://www.youtube.com/watch?v=k3JZI-sQs2k)
 - [Golang / Go Crash Course 03 | Implementing Clean Architecture principles in our REST API](https://www.youtube.com/watch?v=Yg_ae0UvCv4)
 ## 🚀 Samples
+- [percybolmer/ddd-go/tree/clean-architecture](https://github.com/percybolmer/ddd-go/tree/clean-architecture)
 - [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring
 - [caohoangnam/go-clean-architecture](https://github.com/caohoangnam/go-clean-architecture) - Write language go and using clean architecture
 - [AkbaraliShaikh/denti](https://github.com/AkbaraliShaikh/denti) - This project is created to demonstrate Go-Lang Clean Architecture/DDD/Hexagonal Architecture, and It show the usage of popular libraries gin, gorm, zap and dig.
@@ -21,6 +22,5 @@
 - [codebangkok/golang](https://github.com/codebangkok/golang)
 - [MBvisti/weight-tracker-article](https://github.com/MBvisti/weight-tracker-article)
 - [s1s1ty/go-mysql-crud](https://github.com/s1s1ty/go-mysql-crud)
-- [percybolmer/ddd-go/clean-architecture](https://github.com/percybolmer/ddd-go/tree/clean-architecture)
 - [ThreeDotsLabs/monolith-microservice-shop](https://github.com/ThreeDotsLabs/monolith-microservice-shop)
 - [8treenet/freedom](https://github.com/8treenet/freedom) - Freedom is a framework based on a hexagonal architecture that can support the congested domain model paradigm. 
