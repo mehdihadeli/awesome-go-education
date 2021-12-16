@@ -29,11 +29,7 @@
 - [REST API with Go, Chi and Handler Testing](https://www.youtube.com/watch?v=zeme_TmXyBk)
 - [Golang Web Course - Learn To Code](https://www.youtube.com/playlist?list=PLSak_q1UXfPrba68q2afhFq4aBAPVSDbj)
 - [[Golang] Rapid Web Development In Go (aka Intro Into Buffalo)](https://www.youtube.com/watch?v=J0JnHNgPMRk)
-- [Web Development w/ Google’s Go (golang) Programming Language - Todd McLeod - Udemy](https://www.udemy.com/course/go-programming-language/)
-- [Building Modern Web Applications with Go (Golang) - Udemy](https://www.udemy.com/course/building-modern-web-applications-with-go/)
-- [REST based microservices API development in Golang - Udemy](https://www.udemy.com/course/rest-based-microservices-api-development-in-go-lang/)
-- [Creating Web Applications with Go - Pluralsight](https://www.pluralsight.com/courses/creating-web-applications-go-update)
-
+- [Develop A Production Ready REST API in Go](https://tutorialedge.net/courses/go-rest-api-course/)
 ## Libraries
 - [gocondor/gocondor](https://github.com/gocondor/gocondor) - A golang framework for building modern APIs
 
@@ -49,8 +45,5 @@
 - [melardev/GoGonicEcommerceApi](https://github.com/melardev/GoGonicEcommerceApi) - Ecommerce Rest API application built in Go with Gin Gonic + Gorm
 - [5olitude/ecommerce](https://github.com/5olitude/ecommerce) - A fully functional Ecommerce API in GO GIN Framework and mongoDB with JWT Authentication
 - [vardius/go-api-boilerplate](https://github.com/vardius/go-api-boilerplate) - Go Server/API boilerplate using best practices DDD CQRS ES gRPC
-## 📚 Books
-- [Go Web Programming](https://www.manning.com/books/go-web-programming)
-- [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/) 
-- [LET'S GO PROFESSIONAL](https://lets-go.alexedwards.net/)
-- [Go With The Domain](https://threedots.tech/go-with-the-domain)
+- [sagikazarmark/modern-go-application](https://github.com/sagikazarmark/modern-go-application) - Modern Go Application example
+- [Starter code for writing web services in Go using Kubernetes.](https://github.com/ardanlabs/service) - Starter code for writing web services in Go using Kubernetes.

@@ -3,12 +3,11 @@
 ## Articles
 - [Why using Microservices or Monolith can be just a detail?](https://threedots.tech/post/microservices-or-monolith-its-detail/)
 ## 📺 Videos
+- [Building Microservices with Go - Nic Jackson - Playlist](https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_)
 - [Golang Microservices: Project Layout and Domain Driven Design](https://www.youtube.com/watch?v=LUvid5TJ81Y)
 - [Building Microservices in Golang/Go - Mario Carrion](https://www.youtube.com/playlist?list=PL7yAAGMOat_Fn8sAXIk0WyBfK_sT1pohu)
 - [How I Built Microservices In Go In 30 Minutes](https://www.youtube.com/watch?v=bM6N-vgPlyQ)
-- [Building Distributed Applications with Go](https://www.pluralsight.com/courses/building-distributed-applications-go)
-- [REST based microservices API development in Golang - Udemy](https://www.udemy.com/course/rest-based-microservices-api-development-in-go-lang/)
-
+- [Building gRPC Microservices in Go](https://tutorialedge.net/courses/go-grpc-services-course/)
 ## Libraries
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [asim/go-micro](https://github.com/asim/go-micro) - A pluggable Go framework for distributed systems development
@@ -21,3 +20,4 @@
 - [qin-jd/shopping](https://github.com/qin-jd/shopping)
 - [ThreeDotsLabs/monolith-microservice-shop](https://github.com/ThreeDotsLabs/monolith-microservice-shop)
 - [ThreeDotsLabs/event-driven-example](https://github.com/ThreeDotsLabs/event-driven-example) - An example Event-Driven application in Go built with Watermill library.
+- [ardanlabs/service](https://github.com/ardanlabs/service) - Starter code for writing web services in Go using Kubernetes.
