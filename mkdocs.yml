@@ -105,6 +105,7 @@ nav:
   - Anti Patterns: anti-patterns.md
   - Test: test.md
   - Software Architecture : software-architecture.md
+  - Resources: resources.md
 
 copyright: 2021 <a href="https://github.com/mehdihadeli">Mehdi Hadeli</a>.
 #remote_branch: gh-pages 
