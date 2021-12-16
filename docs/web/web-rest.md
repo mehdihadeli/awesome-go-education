@@ -1,10 +1,13 @@
 # Web / REST
 
 ## 📘 Resources
+- [Writing Web Applications](https://go.dev/doc/articles/wiki/)
 - [Learn Web Programming in Go by Examples](https://gowebexamples.com/)
 - [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/) - A golang ebook intro how to build a web with golang
-
+- [Web & API Development](https://github.com/golang/go/wiki/Articles#web--api-development)
 ## 📕 Articles
+- [Tutorial: Developing a RESTful API with Go and Gin](https://go.dev/doc/tutorial/web-service-gin)
+- [Writing Web Applications](https://go.dev/doc/articles/wiki/)
 - [Golang Skeleton With Fully Managed Versions For Kick Start GoLang Project Development](https://www.mindinventory.com/blog/golang-project-structure/)
 - [GOLANG TUTORIAL - WEB APP PART 0](https://www.bogotobogo.com/GoLang/GoLang_Web.php)
 - [GOLANG TUTORIAL - WEB APP PART 1](https://www.bogotobogo.com/GoLang/GoLang_Web_Application_1.php)
@@ -18,6 +21,9 @@
 - [Creating a RESTful API With Golang](https://tutorialedge.net/golang/creating-restful-api-with-golang/)
 - [Consuming A RESTful API With Go](https://tutorialedge.net/golang/consuming-restful-api-with-go/)
 - [Building a Basic REST API in Go using Fiber](https://tutorialedge.net/golang/basic-rest-api-go-fiber/)
+- [Creating a simple “Hello World!” HTTP Server in Go](https://medium.com/rungo/creating-a-simple-hello-world-http-server-in-go-31c7fd70466e)
+- [Beginners guide to serving files using HTTP servers in Go](https://medium.com/rungo/beginners-guide-to-serving-files-using-http-servers-in-go-4e542e628eac)
+- [Making external HTTP requests in Go](https://medium.com/rungo/making-external-http-requests-in-go-eb4c015f8839)
 ## 📺 Videos
 - [Let's go with golang - Hitesh Choudhary - Playlist](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa)
 - [Golang Crash Course - Pragmatic Reviews - Playlist](https://www.youtube.com/playlist?list=PL3eAkoh7fypqUQUQPn-bXtfiYT_ZSVKmB)

@@ -12,3 +12,6 @@
 - [Arrays and Slices](https://golangbot.com/arrays-and-slices/)
 - [Understanding Arrays and Slices in Go](https://www.digitalocean.com/community/tutorials/understanding-arrays-and-slices-in-go)
 - [Getting the Size of an Array or Slice in Go](https://tutorialedge.net/golang/snippets/getting-size-of-array-slice-go/)
+- [The internals of slice](https://nanxiao.gitbooks.io/golang-101-hacks/content/posts/the-internals-of-slice.html)
+- [Conversion between array and slice](https://nanxiao.gitbooks.io/golang-101-hacks/content/posts/conversion-between-array-and-slice.html)
+- [The anatomy of Slices in Go](https://medium.com/rungo/the-anatomy-of-slices-in-go-6450e3bb2b94)

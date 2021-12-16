@@ -2,6 +2,7 @@
 
 ## Resources
 - [lotusirous/go-concurrency-patterns](https://github.com/lotusirous/go-concurrency-patterns) - Concurrency patterns in Go
+- [Concurrency / Channels](https://github.com/golang/go/wiki/Articles#concurrency--channels)
 ## 📕 Articles
 - [Concurrency With Golang Goroutines](https://tutorialedge.net/golang/concurrency-with-golang-goroutines/)
 - [Concurrency](https://www.golang-book.com/books/intro/10)
@@ -20,6 +21,7 @@
 - [Introduction to Concurrency](https://golangbot.com/concurrency/)
 - [Concurrency in modern programming languages: Introduction](https://deepu.tech/concurrency-in-modern-languages/)
 - [Concurrency in modern programming languages: Golang](https://deepu.tech/concurrency-in-modern-languages-go/)
+- [Achieving concurrency in Go](https://medium.com/rungo/achieving-concurrency-in-go-3f84cbf870ca)
 ## 📺 Videos
 - [Deadlocks: The Dark Side of Concurrency - Nick Craig-Wood](https://youtu.be/9j0oQkqzhAE)v
 - [Learning Go/Golang Concurrency Patterns - Mario Carrion](https://www.youtube.com/playlist?list=PL7yAAGMOat_Fhj_px_DzNzTsXs-mRwv1t)
@@ -30,5 +32,4 @@
 - [Concurrency Made Easy (Practical Tips For Effective Concurrency In Go)](https://www.youtube.com/watch?v=DqHb5KBe7qI)
 - [Concurrency in Go - Steve Hook](https://www.youtube.com/playlist?list=PLsc-VaxfZl4do3Etp_xQ0aQBoC-x5BIgJ)
 - [Concurrent Programming with Go - Pluralsight](https://www.pluralsight.com/courses/go-concurrent-programming)
-## Books
-- [Concurrency in Go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/)
+

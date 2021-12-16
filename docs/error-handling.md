@@ -9,3 +9,6 @@
 - [Golang Error Handling — Best Practice in 2020](https://itnext.io/golang-error-handling-best-practice-a36f47b0b94c)
 - [Handling Errors in Go](https://www.digitalocean.com/community/tutorials/handling-errors-in-go)
 - [Creating Custom Errors in Go](https://www.digitalocean.com/community/tutorials/creating-custom-errors-in-go)
+- [Returning Errors](https://npf.io/2015/10/errors/)
+- [Inspecting errors](https://dave.cheney.net/2014/12/24/inspecting-errors)
+- [Handling Panics in Go](https://www.digitalocean.com/community/tutorials/handling-panics-in-go)

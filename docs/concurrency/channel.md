@@ -6,3 +6,4 @@
 - [How to use Go channels](https://blog.logrocket.com/how-use-go-channels/)
 - [Channels](https://golangbot.com/channels/)
 - [Buffered Channels and Worker Pools](https://golangbot.com/buffered-channels-worker-pools/)
+- [Anatomy of Channels in Go - Concurrency in Go](https://medium.com/rungo/anatomy-of-channels-in-go-concurrency-in-go-1ec336086adb)

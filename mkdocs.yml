@@ -61,9 +61,7 @@ nav:
     - Conversion: go-instructions/conversion.md
     - Defer: go-instructions/defer.md
     - Dep: go-instructions/dep.md
-    - File: go-instructions/file.md
     - Function: go-instructions/function.md
-    - GOPATH: go-instructions/gopath.md
     - Init: go-instructions/init.md
     - Interface: go-instructions/interface.md
     - Loops: go-instructions/loops.md
@@ -72,7 +70,9 @@ nav:
     - Pointer: go-instructions/pointer.md
     - Struct: go-instructions/struct.md
     - Switch: go-instructions/switch.md  
+    - Generics: go-instructions/generics.md
     - Variables: go-instructions/variables.md
+    - New & Make: go-instructions/new-make.md
     - Enums: go-instructions/enum.md
     - Data Types: 
       - Data Types: go-instructions/data-types/data-types.md
@@ -96,6 +96,7 @@ nav:
     - Mutex: concurrency/mutex.md
   - Best Practices: best-practices.md
   - Error Handling: error-handling.md
+  - File: file.md
   - Microservices : microservices.md
   - OOP : oop.md
   - Project Structure : project-structure.md
@@ -104,7 +105,10 @@ nav:
   - Reflection: reflection.md
   - Anti Patterns: anti-patterns.md
   - Test: test.md
+  - Docker:docker.md
   - Software Architecture : software-architecture.md
+  - Build & Install: build-install.md
+  - Workspace OR GOPATH: workspace-gopath.md
   - Resources: resources.md
 
 copyright: 2021 <a href="https://github.com/mehdihadeli">Mehdi Hadeli</a>.

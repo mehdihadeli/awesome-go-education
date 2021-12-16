@@ -9,3 +9,5 @@
 - [Understanding Arrays and Slices in Go](https://www.digitalocean.com/community/tutorials/understanding-arrays-and-slices-in-go)
 - [Adding Values to an Array in Go](https://tutorialedge.net/golang/snippets/adding-values-array-slice-go/)
 - [Getting the Size of an Array or Slice in Go](https://tutorialedge.net/golang/snippets/getting-size-of-array-slice-go/)
+- [Array](https://nanxiao.gitbooks.io/golang-101-hacks/content/posts/array.html)
+- [The anatomy of Arrays in Go](https://medium.com/rungo/the-anatomy-of-arrays-in-go-24429e4491b7)

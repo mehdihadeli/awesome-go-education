@@ -9,6 +9,7 @@
 - [Types](https://www.golang-book.com/books/intro/3)
 - [Go Basic Types Tutorial](https://tutorialedge.net/golang/go-basic-types-tutorial/)
 - [Go Composite Types Tutorial](https://tutorialedge.net/golang/go-complex-types-tutorial/)
+- [Data Types and Variables in Go](https://medium.com/rungo/variables-and-constants-in-go-programming-c715443fa788)
 
 ## Vidoes
 - [Go Basic Types (Golang basic types) (Go Basics #4)](https://www.youtube.com/watch?v=YIW-0dtrDLY)

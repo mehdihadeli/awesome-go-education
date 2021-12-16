@@ -1,8 +1,11 @@
 # Resources
 
 ## 📘 Resources
-- [Effective Go](https://go.dev/doc/effective_go)
 - [The Go Programming Language Specification](https://go.dev/ref/spec)
+- [Effective Go](https://go.dev/doc/effective_go)
+- [Writing Web Applications](https://go.dev/doc/articles/wiki/)
+- [Managing dependencies](https://go.dev/doc/modules/managing-dependencies)
+- [Developing and publishing modules](https://go.dev/doc/modules/developing)
 - [Learn Go](https://golangr.com/)
 - [Golang Tutorials](https://www.callicoder.com/categories/golang/)
 - [Go by Example](https://gobyexample.com/)
@@ -43,3 +46,5 @@
 - [Go Web Programming](https://www.manning.com/books/go-web-programming)
 - [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/) 
 - [Go With The Domain](https://threedots.tech/go-with-the-domain)
+- [Golang 101 hacks](https://nanxiao.gitbooks.io/golang-101-hacks/content/)
+- [Concurrency in Go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/)

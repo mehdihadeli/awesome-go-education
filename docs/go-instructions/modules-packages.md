@@ -1,9 +1,16 @@
 # Modules & Packages
 
 ## References
-- [Go Module Cheat Sheet](https://encore.dev/guide/go.mod)
+- [Go Modules Reference](https://go.dev/ref/mod)
+- [Managing dependencies](https://go.dev/doc/modules/managing-dependencies)
+- [Developing and publishing modules](https://go.dev/doc/modules/developing)
 
 ## 📕 Articles
+- [Part 1 — Using Go Modules ](https://go.dev/blog/using-go-modules)
+- [Part 2 — Migrating To Go Modules](https://go.dev/blog/migrating-to-go-modules)
+- [Part 3 — Publishing Go Modules](https://go.dev/blog/publishing-go-modules)
+- [Part 4 — Go Modules: v2 and Beyond](https://go.dev/blog/v2-go-modules)
+- [Part 5 — Keeping Your Modules Compatible](https://go.dev/blog/module-compatibility)
 - [Everything you need to know about Packages in Go](https://medium.com/rungo/everything-you-need-to-know-about-packages-in-go-b8bac62b74cc)
 - [Anatomy of Modules in Go](https://medium.com/rungo/anatomy-of-modules-in-go-c8274d215c16)
 - [GOLANG TUTORIAL - PACKAGES](https://www.bogotobogo.com/GoLang/GoLang_Packages.php)
@@ -29,10 +36,20 @@
 - [Avoid package names like base, util, or common](https://dave.cheney.net/2019/01/08/avoid-package-names-like-base-util-or-common)
 - [Using Go Modules for Golang Dependency Management](https://www.whitesourcesoftware.com/free-developer-tools/blog/golang-dependency-management/)
 - [Evaluating Go's Package Management and Module Systems](https://www.honeybadger.io/blog/golang-go-package-management/)
-- [Go Modules Reference](https://go.dev/ref/mod)
 - [What does go mod tidy do in Go (Golang)](https://golangbyexample.com/go-mod-tidy/)
 - [Package Management with Go Modules](https://blogs.halodoc.io/go-modules-implementation/)
+- [Playing With Go Modules](https://roberto.selbach.ca/playing-with-go-modules/)
+- [Introduction to Go Modules](https://roberto.selbach.ca/intro-to-go-modules/)
+- ["go get" command](https://nanxiao.gitbooks.io/golang-101-hacks/content/posts/go-get-command.html)
+- [Package](https://nanxiao.gitbooks.io/golang-101-hacks/content/posts/package.html)
+- [Golang Installation and Getting started guide](https://www.callicoder.com/golang-installation-setup-gopath-workspace/)
+- [Getting started with Go modules](https://medium.com/@fonseka.live/getting-started-with-go-modules-b3dac652066d)
+- [Tutorial: Create a Go module](https://go.dev/doc/tutorial/create-module)
+- [Packages and Modules in Go (Golang) – Part 1](https://golangbyexample.com/packages-modules-go-first/)
+- [Packages and Modules in Go (Golang) – Part 2](https://golangbyexample.com/packages-modules-go-second/)
+- [Dependency and Package Management in GoLang Microservices Apps](https://www.xenonstack.com/blog/dependency-management-golang)
 ## 📺 Videos
 - [Learning Golang: Dependencies, Modules and How to manage Packages](https://www.youtube.com/watch?v=20sLKEpHvvk)
 - [Packages in Go (Go Basics #6)](https://www.youtube.com/watch?v=sf7f4QGkwfE)
 - [EVERYTHING You SHOULD know about Go Modules (Go Basics #8)](https://www.youtube.com/watch?v=Z1VhG7cf83M)
+- [Go Modules: Dependency Management the Right Way](https://www.youtube.com/watch?v=-BIDXOp6_LA)
