@@ -1,6 +1,7 @@
 # Error Handling
 
 ## 📕 Articles
+- [Errors - Practical Go Lessons](https://www.practical-go-lessons.com/chap-23-errors)
 - [Error handling in Golang](https://gabrieltanner.org/blog/golang-error-handling-definitive-guide)
 - [Error handling in Go](https://medium.com/rungo/error-handling-in-go-f0125de052f0)
 - [Error Handling](https://golangbot.com/error-handling/)

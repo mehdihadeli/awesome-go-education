@@ -59,9 +59,14 @@ nav:
     - Go: go-instructions/go.md
     - Control Flow: go-instructions/control-flow.md
     - Conversion: go-instructions/conversion.md
-    - Defer: go-instructions/defer.md
     - Dep: go-instructions/dep.md
-    - Function: go-instructions/function.md
+    - Function: 
+      - Function: go-instructions/functions/function.md
+      - Anonymouse Functions: go-instructions/functions/anonymouse-functions.md
+      - Closures: go-instructions/functions/closures.md
+      - First Class Functions: go-instructions/functions/first-class-functions.md
+      - Variadic Functions: go-instructions/functions/variadic-functions.md
+      - Defer: go-instructions/functions/defer.md
     - Init: go-instructions/init.md
     - Interface: go-instructions/interface.md
     - Loops: go-instructions/loops.md
@@ -95,8 +100,13 @@ nav:
     - Select: concurrency/select.md
     - Mutex: concurrency/mutex.md
   - Best Practices: best-practices.md
-  - Error Handling: error-handling.md
+  - Error Handling:
+    - Error Handling: error/error-handling.md
+    - Panic: error/panic.md
   - File: file.md
+  - Json: json.md
+  - HTTP: http.md
+  - Context: context.md
   - Microservices : microservices.md
   - OOP : oop.md
   - Project Structure : project-structure.md

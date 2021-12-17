@@ -1,6 +1,7 @@
 # Struct
 
 ## 📕 Articles
+- [Types - Practical Go Lessons}(https://www.practical-go-lessons.com/chap-13-types)
 - [Golang Structs Tutorial with Examples](https://www.callicoder.com/golang-structs/)
 - [Structs](https://golangbot.com/structs/)
 - [Golang Struct](https://www.golangprograms.com/go-language/struct.html)

@@ -7,3 +7,4 @@
 - [Variables](https://www.golang-book.com/books/intro/4)
 - [Variables](https://golangbot.com/variables/)
 - [Constants and Variables](https://go101.org/article/constants-and-variables.html)
+- [Learn Go Variables — A Visual Guide](https://blog.learngoprogramming.com/learn-go-lang-variables-visual-tutorial-and-ebook-9a061d29babe)

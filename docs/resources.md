@@ -19,7 +19,7 @@
 - [Learn Go with test-driven development](https://github.com/quii/learn-go-with-tests)
 - [Ultimate Service With Kubernetes - ardanlabs](https://courses.ardanlabs.com/courses/ultimate-service-ver-2)
 - [Ultimate Go Advanced Concepts - ardanlabs](https://courses.ardanlabs.com/courses/ultimate-go)
-
+- [Practical Go Lessons](https://www.practical-go-lessons.com/)
 ## Courses
 
 - [Go: Getting Started - Pluralsight](https://www.pluralsight.com/courses/getting-started-with-go)
@@ -48,3 +48,4 @@
 - [Go With The Domain](https://threedots.tech/go-with-the-domain)
 - [Golang 101 hacks](https://nanxiao.gitbooks.io/golang-101-hacks/content/)
 - [Concurrency in Go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/)
+- [Spaceship Go](https://blasrodri.github.io/spaceship-go-gh-pages/cover.html)

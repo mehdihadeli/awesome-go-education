@@ -1,6 +1,7 @@
 # Slices
 
 ## 📕 Articles
+- [Slices - Practical Go Lessons](https://www.practical-go-lessons.com/chap-21-slices)
 - [Introduction to Slices in Golang](https://www.callicoder.com/golang-slices/)
 - [Go by Example: Slices](https://gobyexample.com/slices)
 - [Arrays, Slices and Maps](https://www.golang-book.com/books/intro/6)

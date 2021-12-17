@@ -4,6 +4,7 @@
 - [lotusirous/go-concurrency-patterns](https://github.com/lotusirous/go-concurrency-patterns) - Concurrency patterns in Go
 - [Concurrency / Channels](https://github.com/golang/go/wiki/Articles#concurrency--channels)
 ## 📕 Articles
+- [Concurrency - Practical Go Lessons](https://www.practical-go-lessons.com/chap-30-concurrency)
 - [Concurrency With Golang Goroutines](https://tutorialedge.net/golang/concurrency-with-golang-goroutines/)
 - [Concurrency](https://www.golang-book.com/books/intro/10)
 - [Golang Concurrency](https://www.golangprograms.com/go-language/concurrency.html)

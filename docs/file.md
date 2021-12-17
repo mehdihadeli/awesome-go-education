@@ -1,6 +1,7 @@
 # File
 
 ## 📕 Articles
+- [Data storage : files and databases - Practical Go Lessons](https://www.practical-go-lessons.com/chap-29-data-storage-files-and-databases)
 - [Reading And Writing To Files in Go](https://tutorialedge.net/golang/reading-writing-files-in-go/)
 - [Reading Files](https://golangbot.com/read-files/)
 - [Writing Files](https://golangbot.com/write-files/)

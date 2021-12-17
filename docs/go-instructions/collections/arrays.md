@@ -1,6 +1,7 @@
 # Arrays
 
 ## 📕 Articles
+- [Arrays - Practical Go Lessons](https://www.practical-go-lessons.com/chap-20-arrays)
 - [Working with Arrays in Golang](https://www.callicoder.com/golang-arrays/)
 - [Go by Example: Arrays](https://gobyexample.com/arrays)
 - [Golang Arrays](https://www.golangprograms.com/go-language/arrays.html)

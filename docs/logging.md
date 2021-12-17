@@ -1,5 +1,8 @@
 # Logging
 
+## Articles
+- [Logging - Practical Go Lessons](https://www.practical-go-lessons.com/chap-31-logging)
+
 ## Libraries
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
