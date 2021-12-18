@@ -24,3 +24,6 @@
 - [s1s1ty/go-mysql-crud](https://github.com/s1s1ty/go-mysql-crud)
 - [ThreeDotsLabs/monolith-microservice-shop](https://github.com/ThreeDotsLabs/monolith-microservice-shop)
 - [8treenet/freedom](https://github.com/8treenet/freedom) - Freedom is a framework based on a hexagonal architecture that can support the congested domain model paradigm. 
+- [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
+- [AleksK1NG/Go-Clean-Architecture-REST-API](https://github.com/AleksK1NG/Go-Clean-Architecture-REST-API) - Golang Clean Architecture REST API example
+- [charly3pins/eShop](https://github.com/charly3pins/eShop) - [WIP] E-Commerce project using Hexagonal Architecture (Ports-and-adapters) as a proof-of-concept applying DDD in Go

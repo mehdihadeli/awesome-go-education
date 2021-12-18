@@ -19,6 +19,6 @@
 - [vardius/go-api-boilerplate](https://github.com/vardius/go-api-boilerplate) - Go Server/API boilerplate using best practices DDD CQRS ES gRPC
 - [8treenet/freedom](https://github.com/8treenet/freedom) - Freedom is a framework based on a hexagonal architecture that can support the congested domain model paradigm. 
 - [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - A complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
-
+- [charly3pins/eShop](https://github.com/charly3pins/eShop) - [WIP] E-Commerce project using Hexagonal Architecture (Ports-and-adapters) as a proof-of-concept applying DDD in Go
 ## 📚 Books
 - [Go with the Domain](https://threedots.tech/go-with-the-domain/) - Free e-book on Building Modern Business Software in Go

@@ -20,6 +20,8 @@
 - [Ultimate Service With Kubernetes - ardanlabs](https://courses.ardanlabs.com/courses/ultimate-service-ver-2)
 - [Ultimate Go Advanced Concepts - ardanlabs](https://courses.ardanlabs.com/courses/ultimate-go)
 - [Practical Go Lessons](https://www.practical-go-lessons.com/)
+- [Golang training GitHub](https://github.com/go-training/training)
+- [The Uber Go Style Guide](https://github.com/uber-go/guide)
 ## Courses
 
 - [Go: Getting Started - Pluralsight](https://www.pluralsight.com/courses/getting-started-with-go)
@@ -37,10 +39,12 @@
 
 ## Youtube Channel
 - [GolangCafe](https://www.youtube.com/c/GolangCafe)
+
 ## Blogs
 - [Algorithms to Go](https://yourbasic.org/)
 - [Golang Weekly](https://golangweekly.com/)
 - [Go Newsletter](https://go.libhunt.com/newsletter)
+
 ## Books
 - [LET'S GO PROFESSIONAL](https://lets-go.alexedwards.net/)
 - [Learn Go With Tests](https://github.com/quii/learn-go-with-tests/releases)
@@ -52,3 +56,4 @@
 - [Golang 101 hacks](https://nanxiao.gitbooks.io/golang-101-hacks/content/)
 - [Concurrency in Go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/)
 - [Spaceship Go](https://blasrodri.github.io/spaceship-go-gh-pages/cover.html)
+

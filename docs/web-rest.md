@@ -50,8 +50,9 @@
 - [gofiber/fiber](https://github.com/gofiber/fiber) - Express inspired web framework written in Go
 - [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance.
-- [xinliangnote/go-gin-api](https://github.com/xinliangnote/go-gin-api) - The API framework based on Gin's modular design encapsulates common functions, is simple to use, and is committed to rapid business research and development. For example, it supports cors cross-domain, jwt signature verification, zap log collection, panic exception capture, trace link tracking, prometheus monitoring indicators, swagger document generation, viper configuration file analysis, gorm database component, gormgen code generation tool, graphql query language, errno uniformly defines error codes, the use of gRPC, cron timing tasks, and so on
-
+- [xinliangnote/go-gin-api](https://github.com/xinliangnote/go-gin-api) - The API framework based on Gin's modular design encapsulates common functions
+- [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go
+- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
 ## 🚀 Samples
 - [Mindinventory/Golang-Project-Structure](https://github.com/Mindinventory/Golang-Project-Structure) - Golang Skeleton With Fully Managed Versions For Kick Start GoLang Project Development
 - [gothinkster/golang-gin-realworld-example-app](https://github.com/gothinkster/golang-gin-realworld-example-app) - Exemplary real world application built with Golang + Gin
@@ -71,3 +72,9 @@
 - [eddycjy/go-gin-example](https://github.com/eddycjy/go-gin-example) - An example of gin
 - [gothinkster/golang-gin-realworld-example-app](https://github.com/gothinkster/golang-gin-realworld-example-app) - Exemplary real world application built with Golang + Gin
 - [AkbaraliShaikh/denti](https://github.com/AkbaraliShaikh/denti) - This project is created to demonstrate Go-Lang Clean Architecture/DDD/Hexagonal Architecture, and It show the usage of popular libraries gin, 
+- [learning-cloud-native-go/myapp](https://github.com/learning-cloud-native-go/myapp) - How to build a Dockerized RESTful API application using Go.
+- [HON9LIN/go-echo-boilerplate](https://github.com/HON9LIN/go-echo-boilerplate)
+- [Massad/gin-boilerplate](https://github.com/Massad/gin-boilerplate) - Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go.
+- [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
+- [powerman/go-monolith-example](https://github.com/powerman/go-monolith-example) - Example Go monolith with embedded microservices and The Clean Architecture
+- [AleksK1NG/Go-Clean-Architecture-REST-API](https://github.com/AleksK1NG/Go-Clean-Architecture-REST-API) - Golang Clean Architecture REST API example
