@@ -17,6 +17,7 @@
 - [Go Object Oriented Design](https://nathany.com/good/)
 - [Composition not inheritance](https://talks.golang.org/2012/splash.article#TOC_15.)
 - [Loose Coupling in Go lang](https://8thlight.com/blog/javier-saldana/2015/02/06/loose-coupling-in-go-lang.html)
+
 ## 📺 Videos
 - [Golang Object Oriented](https://www.youtube.com/watch?v=fLvMfrSRPmQ)
 - [Go can do OOP too, sorta - Go / Golang OOP Tutorial ](https://www.youtube.com/watch?v=fTFru0Zha-c)

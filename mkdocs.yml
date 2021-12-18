@@ -48,13 +48,7 @@ markdown_extensions:
       permalink: true
 
 nav:
-  - Web / REST:
-    - WEB / REST : web/web-rest.md
-    - Gin : web/gin.md
-    - Beego : web/beego.md
-    - Echo : web/echo.md
-    - Fiber : web/fiber.md
-    - Iris : web/iris.md
+  - WEB / REST : web-rest.md
   - Go Instructions:
     - Go: go-instructions/go.md
     - Control Flow: go-instructions/control-flow.md

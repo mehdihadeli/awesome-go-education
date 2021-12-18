@@ -24,6 +24,9 @@
 - [Creating a simple “Hello World!” HTTP Server in Go](https://medium.com/rungo/creating-a-simple-hello-world-http-server-in-go-31c7fd70466e)
 - [Beginners guide to serving files using HTTP servers in Go](https://medium.com/rungo/beginners-guide-to-serving-files-using-http-servers-in-go-4e542e628eac)
 - [Making external HTTP requests in Go](https://medium.com/rungo/making-external-http-requests-in-go-eb4c015f8839)
+- [API design: principles and best practices](https://yourbasic.org/algorithms/your-basic-api/)
+- [4 Things to Consider When Choosing a Go API Framework](https://markphelps.me/posts/4-things-to-consider-when-choosing-a-go-api-framework/)
+- [Building a Basic REST API in Go using Fiber](https://tutorialedge.net/golang/basic-rest-api-go-fiber/)
 ## 📺 Videos
 - [Let's go with golang - Hitesh Choudhary - Playlist](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa)
 - [Golang Crash Course - Pragmatic Reviews - Playlist](https://www.youtube.com/playlist?list=PL3eAkoh7fypqUQUQPn-bXtfiYT_ZSVKmB)
@@ -36,8 +39,18 @@
 - [Golang Web Course - Learn To Code](https://www.youtube.com/playlist?list=PLSak_q1UXfPrba68q2afhFq4aBAPVSDbj)
 - [[Golang] Rapid Web Development In Go (aka Intro Into Buffalo)](https://www.youtube.com/watch?v=J0JnHNgPMRk)
 - [Develop A Production Ready REST API in Go](https://tutorialedge.net/courses/go-rest-api-course/)
+- [Introduction to Go Fiber (and why you should NOT use it)](https://www.youtube.com/watch?v=INt68SlX-LE)
+- [Building a Go REST API using Gorm and Fiber!](https://www.youtube.com/watch?v=Iq2qT0fRhAA)
+- [Go Programming - Fiber Web Framework](https://www.youtube.com/watch?v=xHvzNJzA9DQ)
+- [REST API with Go / Gin + Some Simple Tests](https://www.youtube.com/watch?v=LOn1GUsjOF4)
 ## Libraries
 - [gocondor/gocondor](https://github.com/gocondor/gocondor) - A golang framework for building modern APIs
+- [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
+- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
+- [gofiber/fiber](https://github.com/gofiber/fiber) - Express inspired web framework written in Go
+- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more
+- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance.
+- [xinliangnote/go-gin-api](https://github.com/xinliangnote/go-gin-api) - The API framework based on Gin's modular design encapsulates common functions, is simple to use, and is committed to rapid business research and development. For example, it supports cors cross-domain, jwt signature verification, zap log collection, panic exception capture, trace link tracking, prometheus monitoring indicators, swagger document generation, viper configuration file analysis, gorm database component, gormgen code generation tool, graphql query language, errno uniformly defines error codes, the use of gRPC, cron timing tasks, and so on
 
 ## 🚀 Samples
 - [Mindinventory/Golang-Project-Structure](https://github.com/Mindinventory/Golang-Project-Structure) - Golang Skeleton With Fully Managed Versions For Kick Start GoLang Project Development
@@ -52,4 +65,9 @@
 - [5olitude/ecommerce](https://github.com/5olitude/ecommerce) - A fully functional Ecommerce API in GO GIN Framework and mongoDB with JWT Authentication
 - [vardius/go-api-boilerplate](https://github.com/vardius/go-api-boilerplate) - Go Server/API boilerplate using best practices DDD CQRS ES gRPC
 - [sagikazarmark/modern-go-application](https://github.com/sagikazarmark/modern-go-application) - Modern Go Application example
-- [Starter code for writing web services in Go using Kubernetes.](https://github.com/ardanlabs/service) - Starter code for writing web services in Go using Kubernetes.
+- [ardanlabs/service](https://github.com/ardanlabs/service) - Starter code for writing web services in Go using Kubernetes.
+- [ybkuroki/go-webapp-sample](https://github.com/ybkuroki/go-webapp-sample) - golang, echo, gorm
+- [solrac97gr/goHexagonalBlog](https://github.com/solrac97gr/goHexagonalBlog)
+- [eddycjy/go-gin-example](https://github.com/eddycjy/go-gin-example) - An example of gin
+- [gothinkster/golang-gin-realworld-example-app](https://github.com/gothinkster/golang-gin-realworld-example-app) - Exemplary real world application built with Golang + Gin
+- [AkbaraliShaikh/denti](https://github.com/AkbaraliShaikh/denti) - This project is created to demonstrate Go-Lang Clean Architecture/DDD/Hexagonal Architecture, and It show the usage of popular libraries gin, 

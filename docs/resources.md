@@ -34,10 +34,13 @@
 - [Web Development w/ Google’s Go (golang) Programming Language - Todd McLeod - Udemy](https://www.udemy.com/course/go-programming-language/)
 - [Building Modern Web Applications with Go (Golang) - Udemy](https://www.udemy.com/course/building-modern-web-applications-with-go/)
 - [REST based microservices API development in Golang - Udemy](https://www.udemy.com/course/rest-based-microservices-api-development-in-go-lang/)
+
 ## Youtube Channel
-
+- [GolangCafe](https://www.youtube.com/c/GolangCafe)
 ## Blogs
-
+- [Algorithms to Go](https://yourbasic.org/)
+- [Golang Weekly](https://golangweekly.com/)
+- [Go Newsletter](https://go.libhunt.com/newsletter)
 ## Books
 - [LET'S GO PROFESSIONAL](https://lets-go.alexedwards.net/)
 - [Learn Go With Tests](https://github.com/quii/learn-go-with-tests/releases)

@@ -50,8 +50,10 @@
 - [Packages and Modules in Go (Golang) – Part 1](https://golangbyexample.com/packages-modules-go-first/)
 - [Packages and Modules in Go (Golang) – Part 2](https://golangbyexample.com/packages-modules-go-second/)
 - [Dependency and Package Management in GoLang Microservices Apps](https://www.xenonstack.com/blog/dependency-management-golang)
+- [Public vs. private](https://yourbasic.org/golang/public-private/)
 ## 📺 Videos
 - [Learning Golang: Dependencies, Modules and How to manage Packages](https://www.youtube.com/watch?v=20sLKEpHvvk)
 - [Packages in Go (Go Basics #6)](https://www.youtube.com/watch?v=sf7f4QGkwfE)
 - [EVERYTHING You SHOULD know about Go Modules (Go Basics #8)](https://www.youtube.com/watch?v=Z1VhG7cf83M)
 - [Go Modules: Dependency Management the Right Way](https://www.youtube.com/watch?v=-BIDXOp6_LA)
+- [Go (Golang) Modules Tutorial](https://www.youtube.com/watch?v=AJxKKmzRTUY)

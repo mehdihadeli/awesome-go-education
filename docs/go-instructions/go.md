@@ -11,6 +11,7 @@
 - [How To Install Go and Set Up a Local Programming Environment on Windows 10](https://www.digitalocean.com/community/tutorials/how-to-install-go-and-set-up-a-local-programming-environment-on-windows-10)
 - [About Go Language — An Overview](https://blog.learngoprogramming.com/about-go-language-an-overview-f0bee143597c)
 - [The Go Language - Practical Go Lessons](https://www.practical-go-lessons.com/chap-2-the-go-language)
+- [Why Go? – Key advantages you may have overlooked](https://yourbasic.org/golang/advantages-over-java-python/)
 ## 📺 Videos
 - [Let's go with golang - Hitesh Choudhary](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa)
 - [Learning Go/Golang - Mario Carrion](https://www.youtube.com/playlist?list=PL7yAAGMOat_F7bOImcjx4ZnCtfyNEqzCy)

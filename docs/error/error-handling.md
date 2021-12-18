@@ -13,3 +13,5 @@
 - [Returning Errors](https://npf.io/2015/10/errors/)
 - [Inspecting errors](https://dave.cheney.net/2014/12/24/inspecting-errors)
 - [Handling Panics in Go](https://www.digitalocean.com/community/tutorials/handling-panics-in-go)
+- [Error handling best practice](https://yourbasic.org/golang/errors-explained/)
+- [3 simple ways to create an error](https://yourbasic.org/golang/create-error/)

@@ -5,6 +5,7 @@
 - [Concurrency / Channels](https://github.com/golang/go/wiki/Articles#concurrency--channels)
 ## 📕 Articles
 - [Concurrency - Practical Go Lessons](https://www.practical-go-lessons.com/chap-30-concurrency)
+- [Concurrent programming](https://yourbasic.org/golang/concurrent-programming/)
 - [Concurrency With Golang Goroutines](https://tutorialedge.net/golang/concurrency-with-golang-goroutines/)
 - [Concurrency](https://www.golang-book.com/books/intro/10)
 - [Golang Concurrency](https://www.golangprograms.com/go-language/concurrency.html)
@@ -23,6 +24,7 @@
 - [Concurrency in modern programming languages: Introduction](https://deepu.tech/concurrency-in-modern-languages/)
 - [Concurrency in modern programming languages: Golang](https://deepu.tech/concurrency-in-modern-languages-go/)
 - [Achieving concurrency in Go](https://medium.com/rungo/achieving-concurrency-in-go-3f84cbf870ca)
+- [3 rules for efficient parallel computation](https://yourbasic.org/golang/efficient-parallel-computation/)
 ## 📺 Videos
 - [Deadlocks: The Dark Side of Concurrency - Nick Craig-Wood](https://youtu.be/9j0oQkqzhAE)v
 - [Learning Go/Golang Concurrency Patterns - Mario Carrion](https://www.youtube.com/playlist?list=PL7yAAGMOat_Fhj_px_DzNzTsXs-mRwv1t)
