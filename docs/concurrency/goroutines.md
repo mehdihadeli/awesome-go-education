@@ -1,7 +1,9 @@
 # Goroutines
 
 ## Articles
+- [Introduction to Concurrency](https://golangbot.com/concurrency/)
 - [Goroutines](https://golangbot.com/goroutines/)
+- [Cuncurrency - Goroutines - Practical Go Lessons](https://www.practical-go-lessons.com/chap-30-concurrency#goroutines)
 - [Concurrency With Golang Goroutines](https://tutorialedge.net/golang/concurrency-with-golang-goroutines/)
 - [Anatomy of goroutines in Go -Concurrency in Go](https://medium.com/rungo/anatomy-of-goroutines-in-go-concurrency-in-go-a4cb9272ff88)
 - [Goroutines are lightweight threads](https://yourbasic.org/golang/goroutines-explained/)

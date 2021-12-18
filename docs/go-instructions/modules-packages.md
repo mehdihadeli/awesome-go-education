@@ -6,6 +6,11 @@
 - [Developing and publishing modules](https://go.dev/doc/modules/developing)
 
 ## 📕 Articles
+- [Go Packages](https://golangbot.com/go-packages/)
+- [Packages in Go](https://golangbot.com/packages/)
+- [Go modules - Practical Go Lesson](https://www.practical-go-lessons.com/chap-17-go-modules)- [Go modules - Practical Go Lesson](https://www.practical-go-lessons.com/chap-17-go-modules)
+- [Packages and imports - Practical Go Lessons](https://www.practical-go-lessons.com/chap-11-packages-and-imports)
+- [Package Initialization - Practical Go Lessons](https://www.practical-go-lessons.com/chap-12-package-initialization)
 - [Part 1 — Using Go Modules ](https://go.dev/blog/using-go-modules)
 - [Part 2 — Migrating To Go Modules](https://go.dev/blog/migrating-to-go-modules)
 - [Part 3 — Publishing Go Modules](https://go.dev/blog/publishing-go-modules)
@@ -13,10 +18,7 @@
 - [Part 5 — Keeping Your Modules Compatible](https://go.dev/blog/module-compatibility)
 - [Everything you need to know about Packages in Go](https://medium.com/rungo/everything-you-need-to-know-about-packages-in-go-b8bac62b74cc)
 - [Anatomy of Modules in Go](https://medium.com/rungo/anatomy-of-modules-in-go-c8274d215c16)
-- [Go modules - Practical Go Lesson](https://www.practical-go-lessons.com/chap-17-go-modules)
-- [Packages and imports - Practical Go Lesson](https://www.practical-go-lessons.com/chap-11-packages-and-imports)
 - [GOLANG TUTORIAL - PACKAGES](https://www.bogotobogo.com/GoLang/GoLang_Packages.php)
-- [Go Packages](https://golangbot.com/go-packages/)
 - [GOLANG TUTORIAL - MODULES 1 (CREATING A NEW MODULE)](https://www.bogotobogo.com/GoLang/GoLang_Modules_1_Creating_a_new_module.php)
 - [GOLANG TUTORIAL - MODULES 2 (ADDING DEPENDENCIES)](https://www.bogotobogo.com/GoLang/GoLang_Modules_2_Adding_and_Updating_Dependencies.php)
 - [Package Management With Go Modules: The Pragmatic Guide](https://medium.com/@adiach3nko/package-management-with-go-modules-the-pragmatic-guide-c831b4eaaf31)

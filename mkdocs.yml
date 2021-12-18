@@ -62,7 +62,11 @@ nav:
       - Variadic Functions: go-instructions/functions/variadic-functions.md
       - Defer: go-instructions/functions/defer.md
     - Init: go-instructions/init.md
-    - Interface: go-instructions/interface.md
+    - Interface: 
+      - Interface: go-instructions/interface/interface.md
+      - Type Assertion: go-instructions/interface/type-assertion.md
+      - Type Switch: go-instructions/interface/type-switch.md
+      - Embedding: go-instructions/interface/embedding.md
     - Loops: go-instructions/loops.md
     - Method: go-instructions/method.md
     - Modules & Packages: go-instructions/modules-packages.md
@@ -91,6 +95,7 @@ nav:
     - Concurrency: concurrency/concurrency.md
     - Goroutines: concurrency/goroutines.md
     - Channel: concurrency/channel.md
+    - Range-Close: concurrency/range-close.md
     - Select: concurrency/select.md
     - Mutex: concurrency/mutex.md
   - Best Practices: best-practices.md

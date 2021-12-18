@@ -4,6 +4,7 @@
 
 - [How To Debug Go Code with Visual Studio Code](https://www.digitalocean.com/community/tutorials/debugging-go-code-with-visual-studio-code)
 - [Debugging](https://github.com/golang/vscode-go/blob/master/docs/debugging.md)
+- [Debugging Go Applications using Delve](https://golangbot.com/debugging-go-delve/)
 ## Videos
 - [VS Code: How to DEBUG a Golang application?](https://www.youtube.com/watch?v=XPjJIn71vWM)
 - [How to debug Golang application with VS Code](https://www.youtube.com/watch?v=vhviSej8b64)
