@@ -94,8 +94,11 @@ nav:
   - Concurrency: 
     - Concurrency: concurrency/concurrency.md
     - Goroutines: concurrency/goroutines.md
-    - Channel: concurrency/channel.md
+    - Channels: concurrency/channel.md
+    - Buffered Channels: concurrency/buffered-channels.md
     - Range-Close: concurrency/range-close.md
+    - Wait Group: concurrency/wait-group.md
+    - Deadlock: concurrency/deadlock.md
     - Select: concurrency/select.md
     - Mutex: concurrency/mutex.md
   - Best Practices: best-practices.md

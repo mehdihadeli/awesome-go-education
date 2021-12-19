@@ -15,3 +15,4 @@
 - [Understanding the empty interface in Go](https://dev.to/flrnd/understanding-the-empty-interface-in-go-4652)
 - [How to use interfaces in Go](https://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
 - [Go Data Structures: Interfaces](https://research.swtch.com/interfaces)
+- [Go and Interfaces](https://jeremybytes.blogspot.com/2020/07/go-and-interfaces.html)

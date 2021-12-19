@@ -10,3 +10,4 @@
 - [Anatomy of Channels in Go - Concurrency in Go](https://medium.com/rungo/anatomy-of-channels-in-go-concurrency-in-go-1ec336086adb)
 - [Channels offer synchronized communication](https://yourbasic.org/golang/channels-explained/)
 - [Broadcast a signal on a channel](https://yourbasic.org/golang/broadcast-channel/)
+- [Go (golang) Channels - Moving Data Between Concurrent Processes](https://jeremybytes.blogspot.com/2021/01/go-golang-channels-moving-data-between.html)
