@@ -48,7 +48,17 @@ markdown_extensions:
       permalink: true
 
 nav:
-  - WEB / REST : web-rest.md
+  - WEB:
+    - WEB / REST : web/web-rest.md
+    - Server: web/server.md
+    - Status Code : web/status-code.md
+    - Header : web/header.md
+    - Http Client :  web/http-client.md
+    - Http Handler :  web/http-handler.md
+    - Middleware :  web/middleware.md
+    - Mux & Router :  web/mux-router.md
+    - Rate Limiting :  web/rate-limiting.md
+    - Response :  web/response.md
   - Go Instructions:
     - Go: go-instructions/go.md
     - Control Flow: go-instructions/control-flow.md
@@ -61,6 +71,12 @@ nav:
       - First Class Functions: go-instructions/functions/first-class-functions.md
       - Variadic Functions: go-instructions/functions/variadic-functions.md
       - Defer: go-instructions/functions/defer.md
+    - Database:
+      - Database: database/database.md
+      - Migration: database/migration.md
+      - ORM: 
+        - ORM: database/orm/orm.md
+        - gorm: database/orm/gorm.md
     - Init: go-instructions/init.md
     - Interface: 
       - Interface: go-instructions/interface/interface.md
@@ -107,7 +123,6 @@ nav:
     - Panic: error/panic.md
   - File: file.md
   - Json: json.md
-  - HTTP: http.md
   - Context: context.md
   - Microservices : microservices.md
   - OOP : oop.md
@@ -120,7 +135,9 @@ nav:
   - Docker:docker.md
   - Software Architecture : software-architecture.md
   - Build & Install: build-install.md
-  - Workspace OR GOPATH: workspace-gopath.md
+  - Workspace && GOPATH: workspace-gopath.md
+  - Tools: tools.md
+  - CI/CD: ci-cd.md
   - Resources: resources.md
 
 copyright: 2021 <a href="https://github.com/mehdihadeli">Mehdi Hadeli</a>.

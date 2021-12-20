@@ -6,3 +6,4 @@
 - [Generics Part 03: Struct Types and Data Semantics](https://www.ardanlabs.com/blog/2020/09/generics-03-struct-types-and-data-semantics.html)
 - [When to Use Generics in Go?](https://teivah.medium.com/when-to-use-generics-in-go-36d49c1aeda)
 - [Trying Out Generics in Go](https://markphelps.me/posts/trying-out-generics-in-go/)
+- [How to Use Golang’s Generics](https://qvault.io/golang/how-to-use-golangs-generics/)

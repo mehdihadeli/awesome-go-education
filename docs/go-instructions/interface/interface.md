@@ -16,3 +16,7 @@
 - [How to use interfaces in Go](https://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
 - [Go Data Structures: Interfaces](https://research.swtch.com/interfaces)
 - [Go and Interfaces](https://jeremybytes.blogspot.com/2020/07/go-and-interfaces.html)
+- [Golang Interfaces Explained](https://www.alexedwards.net/blog/interfaces-explained)
+
+## Videos
+- [Golang for C# Developers - interface, struct and class](https://www.youtube.com/watch?v=MQutoEgJF8I)

@@ -32,6 +32,7 @@
 - [Expert Tips for Using Go Concurrency and Parallelism to Improve Performance](https://spiralscout.com/blog/understanding-concurrency-and-parallelism-in-golang)
 - [How Concurrency and Parallelism works in Golang [Tutorial]](https://hub.packtpub.com/concurrency-and-parallelism-in-golang-tutorial/)
 - [A Crash Course on Concurrency & Parallelism in Go](https://levelup.gitconnected.com/a-crash-course-on-concurrency-parallelism-in-go-8ea935c9b0f8)
+- [Concurrency Patterns in Go](https://dev.to/karankumarshreds/concurrency-patterns-in-go-3jfc)
 ## 📺 Videos
 - [Concurrency in Go - Steve Hook - Playlist](https://www.youtube.com/playlist?list=PLsc-VaxfZl4do3Etp_xQ0aQBoC-x5BIgJ)
 - [Deadlocks: The Dark Side of Concurrency - Nick Craig-Wood](https://youtu.be/9j0oQkqzhAE)v
@@ -44,3 +45,4 @@
 - [Concurrent Programming with Go - Pluralsight](https://www.pluralsight.com/courses/go-concurrent-programming)
 - [Concurrency vs Parallelism](https://www.youtube.com/watch?v=FChZP09Ba4E)
 - [Concurrency vs Parallelism](https://www.youtube.com/watch?v=Y1pgpn2gOSg)
+- [Golang for C# Developers - Concurrency](https://www.youtube.com/watch?v=aEI7nIfvyRU)

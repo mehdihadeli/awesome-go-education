@@ -27,6 +27,8 @@
 - [API design: principles and best practices](https://yourbasic.org/algorithms/your-basic-api/)
 - [4 Things to Consider When Choosing a Go API Framework](https://markphelps.me/posts/4-things-to-consider-when-choosing-a-go-api-framework/)
 - [Building a Basic REST API in Go using Fiber](https://tutorialedge.net/golang/basic-rest-api-go-fiber/)
+- [Using Golang to Create a RESTful JSON API](https://andela.com/insights/using-golang-to-create-a-restful-json-api/)
+- [Handling requests](https://livebook.manning.com/book/go-web-programming/chapter-3/29)
 ## 📺 Videos
 - [Let's go with golang - Hitesh Choudhary - Playlist](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa)
 - [Golang Crash Course - Pragmatic Reviews - Playlist](https://www.youtube.com/playlist?list=PL3eAkoh7fypqUQUQPn-bXtfiYT_ZSVKmB)
@@ -43,6 +45,7 @@
 - [Building a Go REST API using Gorm and Fiber!](https://www.youtube.com/watch?v=Iq2qT0fRhAA)
 - [Go Programming - Fiber Web Framework](https://www.youtube.com/watch?v=xHvzNJzA9DQ)
 - [REST API with Go / Gin + Some Simple Tests](https://www.youtube.com/watch?v=LOn1GUsjOF4)
+- [11 Golang for C# Developers - Web Api using Gorilla MUX](https://www.youtube.com/watch?v=hd5GoTjlCW4)
 ## Libraries
 - [gocondor/gocondor](https://github.com/gocondor/gocondor) - A golang framework for building modern APIs
 - [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
@@ -78,3 +81,4 @@
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
 - [powerman/go-monolith-example](https://github.com/powerman/go-monolith-example) - Example Go monolith with embedded microservices and The Clean Architecture
 - [AleksK1NG/Go-Clean-Architecture-REST-API](https://github.com/AleksK1NG/Go-Clean-Architecture-REST-API) - Golang Clean Architecture REST API example
+- [johan-lejdung/go-microservice-api-guide/](https://github.com/johan-lejdung/go-microservice-api-guide/)

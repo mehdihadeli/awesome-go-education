@@ -2,6 +2,8 @@
 
 ## Articles
 - [Logging - Practical Go Lessons](https://www.practical-go-lessons.com/chap-31-logging)
+- [Logging in Go: Choosing a System and Using it](https://www.honeybadger.io/blog/golang-logging/)
+- [Top 6 Golang Logging Best Practices](https://qvault.io/golang/golang-logging-best-practices/)
 
 ## Libraries
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.

@@ -20,3 +20,8 @@
 - [TYPE EMBEDDING IN GO](https://bitek.dev/blog/go_type_embedding/)
 - [Inheritance in GO using struct (Embedding)](https://golangbyexample.com/inheritance-go-struct/)
 - [Inheritance in GO using interface + struct](https://golangbyexample.com/inheritance-go-interface-struct/)
+
+
+## Videos
+- [Golang for C# Developers - interface, struct and class](https://www.youtube.com/watch?v=MQutoEgJF8I)
+- [Golang for C# Developers - Struct & Class](https://www.youtube.com/watch?v=b9Gfb3p0ijY)

@@ -9,3 +9,4 @@
 - [Convert between byte array/slice and string](https://yourbasic.org/golang/convert-string-to-byte-slice/)
 - [Conversions [complete list]](https://yourbasic.org/golang/conversions/)
 - [Convert between rune array/slice and string](https://yourbasic.org/golang/convert-string-to-rune-slice/)
+- [Type-casting in GoLang](https://golangdocs.com/type-casting-in-golang)

@@ -42,6 +42,7 @@
 
 ## Blogs
 - [Algorithms to Go](https://yourbasic.org/)
+- [ALEX EDWARDS](https://www.alexedwards.net/blog)
 - [Golang Weekly](https://golangweekly.com/)
 - [Go Newsletter](https://go.libhunt.com/newsletter)
 
