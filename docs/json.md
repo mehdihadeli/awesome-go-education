@@ -8,3 +8,4 @@
 - [How to use JSON with Go [best practices]](https://yourbasic.org/golang/json-example/)
 - [How to Parse a JSON Request Body in Go](https://www.alexedwards.net/blog/how-to-properly-parse-a-json-request-body)
 - [Surprises and Gotchas When Working With JSON](https://www.alexedwards.net/blog/json-surprises-and-gotchas)
+- [JSON processing with Go](https://flaviocopes.com/go-json/)

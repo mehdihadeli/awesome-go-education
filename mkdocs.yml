@@ -87,7 +87,9 @@ nav:
     - Method: go-instructions/method.md
     - Modules & Packages: go-instructions/modules-packages.md
     - Pointer: go-instructions/pointer.md
-    - Struct: go-instructions/struct.md
+    - Struct: 
+      - Struct: go-instructions/struct/struct.md
+      - Struct Tags: go-instructions/struct/struct-tags.md
     - Switch: go-instructions/switch.md  
     - Generics: go-instructions/generics.md
     - Variables: go-instructions/variables.md
