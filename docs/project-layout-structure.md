@@ -1,4 +1,4 @@
-# Project Structure
+# Project Layout & Structure
 
 ## 📘 Resources
 - [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
@@ -12,7 +12,18 @@
 - [An easy and practical approach to structuring Golang applications](https://levelup.gitconnected.com/a-practical-approach-to-structuring-go-applications-7f77d7f9c189)
 - [Beautify your Golang project](https://itnext.io/beautify-your-golang-project-f795b4b453aa)
 - [Simple Go project layout with modules](https://eli.thegreenplace.net/2019/simple-go-project-layout-with-modules/)
-# Videos
+- [Standard Package Layout](https://www.gobeyond.dev/standard-package-layout/)
+- [Go Project Layout](https://medium.com/golang-learn/go-project-layout-e5213cdcfaa2)
+- [How to structure Go code?](https://developer20.com/how-to-structure-go-code/)
+- [Understanding Golang Project Structure](https://teemukanstren.com/2020/10/27/understanding-golang-project-structure/)
+- [Structure Your Go Project Into Multiple Directories](https://www.jodylecompte.com/posts/go-structure-your-go-project/)
+- [Structuring your Golang app: Flat structure vs. layered architecture](https://blog.logrocket.com/flat-structure-vs-layered-architecture-structuring-your-go-app/)
+- [Flat Application Structure in Go](https://www.calhoun.io/flat-application-structure/)
+- [How To Structure DDD in Go](https://programmingpercy.tech/blog/how-to-structure-ddd-in-go/)
+- [Thoughts on how to structure Go code](https://changelog.com/posts/on-go-application-structure)
+- [Golang Project Layout](https://manfred.life/golang-project-layout)
+- [Go project structure, building commands and packages](https://technobeans.com/2018/12/21/go-project-structure-building-commands-and-packages/)
+## Videos
 - [GopherCon 2018: Kat Zien - How Do You Structure Your Go Apps](https://www.youtube.com/watch?v=oL6JBUk6tj0)
 - [Golang Project Structure - Getting Started with Golang](https://www.youtube.com/watch?v=a6-OHTNtsG4)
 - [Golang Microservices: Project Layout and Domain Driven Design](https://www.youtube.com/watch?v=LUvid5TJ81Y)

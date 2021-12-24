@@ -18,5 +18,6 @@
 - [Method Sets - Golang.org](https://golang.org/ref/spec#Method_sets)
 - [Interface Types - Golang.org](https://go.dev/ref/spec#Interface_types)
 - [Things about the golang | method set](https://developpaper.com/things-about-the-golang-method-set/)
+- [Methods in Go - go101.org](https://go101.org/article/method.html)
 ## 📺 Videos
 - [Go Syntax - Method Sets](https://www.youtube.com/watch?v=Z5cvLOrWlLM)

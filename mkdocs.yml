@@ -128,7 +128,7 @@ nav:
   - Context: context.md
   - Microservices : microservices.md
   - OOP : oop.md
-  - Project Structure : project-structure.md
+  - Project Layout & Structure : project-layout-structure.md
   - API Documentation: api-documentation.md
   - Debugging: debugging.md
   - Reflection: reflection.md
