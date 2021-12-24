@@ -1,15 +1,15 @@
 site_name: Awesome Go Educations
 site_url: https://github.com/mehdihadeli/awesome-go-education
 site_description: A curated list of awesome articles and resources for learning and practicing about Go and its related technologies.
-docs_dir: 
+docs_dir:
 repo_name: mehdihadeli/awesome-go-education
 repo_url: https://github.com/mehdihadeli/awesome-go-education
 edit_uri: edit/main/docs/
-theme: 
-  name: material 
+theme:
+  name: material
   palette:
     primary: 'deep purple'
-    accent: 'indigo'  
+    accent: 'indigo'
   prev_next_buttons_location: both
   navigation_depth: 4
   titles_only: False
@@ -64,7 +64,7 @@ nav:
     - Control Flow: go-instructions/control-flow.md
     - Conversion: go-instructions/conversion.md
     - Dep: go-instructions/dep.md
-    - Function: 
+    - Function:
       - Function: go-instructions/functions/function.md
       - Anonymouse Functions: go-instructions/functions/anonymouse-functions.md
       - Closures: go-instructions/functions/closures.md
@@ -74,11 +74,11 @@ nav:
     - Database:
       - Database: database/database.md
       - Migration: database/migration.md
-      - ORM: 
+      - ORM:
         - ORM: database/orm/orm.md
         - gorm: database/orm/gorm.md
     - Init: go-instructions/init.md
-    - Interface: 
+    - Interface:
       - Interface: go-instructions/interface/interface.md
       - Type Assertion: go-instructions/interface/type-assertion.md
       - Type Switch: go-instructions/interface/type-switch.md
@@ -87,29 +87,29 @@ nav:
     - Method: go-instructions/method.md
     - Modules & Packages: go-instructions/modules-packages.md
     - Pointer: go-instructions/pointer.md
-    - Struct: 
+    - Struct:
       - Struct: go-instructions/struct/struct.md
       - Struct Tags: go-instructions/struct/struct-tags.md
-    - Switch: go-instructions/switch.md  
+    - Switch: go-instructions/switch.md
     - Generics: go-instructions/generics.md
     - Variables: go-instructions/variables.md
     - New & Make: go-instructions/new-make.md
     - Enums: go-instructions/enum.md
-    - Data Types: 
+    - Data Types:
       - Data Types: go-instructions/data-types/data-types.md
       - Strings: go-instructions/data-types/strings.md
     - Collections:
       - Array: go-instructions/collections/arrays.md
       - Maps: go-instructions/collections/maps.md
       - Slices: go-instructions/collections/slices.md
-  - ORM: 
+  - ORM:
     - ORM: orm/orm.md
     - gorm: orm/gorm.md
   - Logging: logging.md
   - DDD: ddd.md
   - Clean Architecture: clean-architecture.md
   - CQRS: cqrs.md
-  - Concurrency: 
+  - Concurrency:
     - Concurrency: concurrency/concurrency.md
     - Goroutines: concurrency/goroutines.md
     - Channels: concurrency/channel.md
@@ -134,7 +134,7 @@ nav:
   - Reflection: reflection.md
   - Anti Patterns: anti-patterns.md
   - Test: test.md
-  - Docker:docker.md
+  - Docker: docker.md
   - Software Architecture : software-architecture.md
   - Build & Install: build-install.md
   - Workspace && GOPATH: workspace-gopath.md
@@ -143,7 +143,7 @@ nav:
   - Resources: resources.md
 
 copyright: 2021 <a href="https://github.com/mehdihadeli">Mehdi Hadeli</a>.
-#remote_branch: gh-pages 
+#remote_branch: gh-pages
 #remote_name: origin
 extra:
   social:
