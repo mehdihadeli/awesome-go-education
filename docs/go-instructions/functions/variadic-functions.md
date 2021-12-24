@@ -1,6 +1,6 @@
 # Variadic Functions
 
-## Articles
+## 📕 Articles
 - [Go by Example: Variadic Functions](https://gobyexample.com/variadic-functions)
 - [Variadic Functions](https://www.golangprograms.com/go-language/variadic-functions.html)
 - [Variadic Functions](https://golangbot.com/variadic-functions/)

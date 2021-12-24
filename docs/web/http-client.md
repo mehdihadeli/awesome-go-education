@@ -1,6 +1,6 @@
 # Http Client
 
-## Articles
+## 📕 Articles
 - [Build an HTTP Client - Practical Go Lessons](https://www.practical-go-lessons.com/chap-35-build-an-http-client)
 - [How to Make HTTP Requests in Golang](https://webdamn.com/how-to-make-http-requests-in-golang/)
 - [Making HTTP requests in Go](https://blog.logrocket.com/making-http-requests-in-go/)

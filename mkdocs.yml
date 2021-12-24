@@ -84,12 +84,12 @@ nav:
       - Type Switch: go-instructions/interface/type-switch.md
       - Embedding: go-instructions/interface/embedding.md
     - Loops: go-instructions/loops.md
-    - Method: go-instructions/method.md
     - Modules & Packages: go-instructions/modules-packages.md
     - Pointer: go-instructions/pointer.md
     - Struct: 
       - Struct: go-instructions/struct/struct.md
       - Struct Tags: go-instructions/struct/struct-tags.md
+      - Method: go-instructions/struct/method.md
     - Switch: go-instructions/switch.md  
     - Generics: go-instructions/generics.md
     - Variables: go-instructions/variables.md
@@ -141,6 +141,8 @@ nav:
   - Tools: tools.md
   - CI/CD: ci-cd.md
   - Resources: resources.md
+  - Others: 
+    - Flag: others/flag.md
 
 copyright: 2021 <a href="https://github.com/mehdihadeli">Mehdi Hadeli</a>.
 #remote_branch: gh-pages 

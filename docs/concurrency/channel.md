@@ -1,6 +1,6 @@
 # Channel
 
-## Articles
+## 📕 Articles
 - [Channels](https://golangbot.com/channels/)
 - [Cuncurrency - Channel - Practical Go Lessons](https://www.practical-go-lessons.com/chap-30-concurrency#channels)
 - [Channels in Go](https://go101.org/article/channel.html)

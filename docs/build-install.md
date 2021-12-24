@@ -1,6 +1,6 @@
 # Build & Install
 
-## Articles
+## 📕 Articles
 - [“go build” and “go install”](https://nanxiao.gitbooks.io/golang-101-hacks/content/posts/go-build-vs-go-install.html)
 - [Compile and install the application](https://go.dev/doc/tutorial/compile-install)
 - [Customizing Go Binaries with Build Tags](https://www.digitalocean.com/community/tutorials/customizing-go-binaries-with-build-tags)

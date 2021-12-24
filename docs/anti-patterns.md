@@ -1,6 +1,6 @@
 # Anti Patterns
 
-## Articles
+## 📕 Articles
 - [Common Anti-Patterns in Go Web Applications](https://threedots.tech/post/common-anti-patterns-in-go-web-applications/)
 
 ## Samples

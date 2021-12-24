@@ -1,6 +1,6 @@
 # Concurrency
 
-## Resources
+## 📘 Resources
 - [lotusirous/go-concurrency-patterns](https://github.com/lotusirous/go-concurrency-patterns) - Concurrency patterns in Go
 - [Concurrency / Channels](https://github.com/golang/go/wiki/Articles#concurrency--channels)
 ## 📕 Articles
