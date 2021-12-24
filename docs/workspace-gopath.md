@@ -1,6 +1,6 @@
 # Workspace OR GOPATH
 
-## Articles
+## 📕 Articles
 - [How to Write Go Code (with GOPATH)](https://go.dev/doc/gopath_code)
 - [How to Write Go Code](https://go.dev/doc/code)
 - [GOLANG TUTORIAL - WORKSPACES](https://www.bogotobogo.com/GoLang/GoLang_workspaces.php)
@@ -25,7 +25,7 @@
 - [Build](https://pkg.go.dev/go/build?utm_source=godoc)
 - [go: unknown environment setting GO111MODULE=false](https://github.com/golang/go/issues/35556)
 - [Go Modules: an Alternative to GOPATH for Package Distribution](https://insujang.github.io/2020-04-04/go-modules/)
-## Videos
+## 📺 Videos
 - [Demistifying GOPATH. Basic Go commands (Go Basics #1)](https://www.youtube.com/watch?v=QgHkCGkSoy4)
 - [Learning Golang: Dependencies, Modules and How to manage Packages](https://www.youtube.com/watch?v=20sLKEpHvvk)
 - [Golang Package Management](https://www.youtube.com/watch?v=dXS3_QFhR4g)

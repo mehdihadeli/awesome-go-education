@@ -7,7 +7,7 @@
 - [Introduction to DDD Lite: When microservices in Go are not enough](https://threedots.tech/post/ddd-lite-in-go-introduction/)
 - [Domain Driven Design in Go](https://www.citerus.se/go-ddd/)
 
-## Videos
+## 📺 Videos
 - [Building an Enterprise Service in Go at Golang UK Conference 2016](https://www.youtube.com/watch?v=twcDf_Y2gXY)
 ## 🚀 Samples
 - [AkbaraliShaikh/denti](https://github.com/AkbaraliShaikh/denti) - This project is created to demonstrate Go-Lang Clean Architecture/DDD/Hexagonal Architecture, and It show the usage of popular libraries gin, gorm, zap and dig.

@@ -1,6 +1,6 @@
 # Wait Group
 
-## Articles
+## 📕 Articles
 - [Waiting for goroutines](https://yourbasic.org/golang/wait-for-goroutines-waitgroup/)
 - [Go by Example: WaitGroups](https://gobyexample.com/waitgroups)
 - [Golang Goroutines](https://www.golangprograms.com/goroutines.html)

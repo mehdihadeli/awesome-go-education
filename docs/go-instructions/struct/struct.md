@@ -1,7 +1,7 @@
 # Struct
 
 ## 📕 Articles
-- [Types - Practical Go Lessons}(https://www.practical-go-lessons.com/chap-13-types)
+- [Types - Practical Go Lessons](https://www.practical-go-lessons.com/chap-13-types)
 - [Structs Instead of Classes - OOP in Go](https://golangbot.com/structs-instead-of-classes/)
 - [Structs](https://golangbot.com/structs/)
 - [Types Embedding - Practical Go Lessons](https://www.practical-go-lessons.com/chap-13-types#embedded-fields)
@@ -21,6 +21,6 @@
 - [Inheritance in GO using interface + struct](https://golangbyexample.com/inheritance-go-interface-struct/)
 
 
-## Videos
+## 📺 Videos
 - [Golang for C# Developers - interface, struct and class](https://www.youtube.com/watch?v=MQutoEgJF8I)
 - [Golang for C# Developers - Struct & Class](https://www.youtube.com/watch?v=b9Gfb3p0ijY)

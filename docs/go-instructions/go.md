@@ -1,6 +1,6 @@
 # Go
 
-## Resources
+## 📘 Resources
 - [The Go Programming Language Specification](https://go.dev/ref/spec)
 - [Effective Go](https://go.dev/doc/effective_go)
 

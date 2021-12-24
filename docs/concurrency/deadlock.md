@@ -1,6 +1,6 @@
 # Deadlock
 
-## Articles
+## 📕 Articles
 - [Go: Deadlock](https://programming.guide/go/detect-deadlock.html)
 - [How to debug deadlocks](https://yourbasic.org/golang/detect-deadlock/)
 - [Waiting and deadlock usage of golang coroutine](https://developpaper.com/waiting-and-deadlock-usage-of-golang-coroutine/)

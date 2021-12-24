@@ -17,6 +17,10 @@
 - [Go Data Structures: Interfaces](https://research.swtch.com/interfaces)
 - [Go and Interfaces](https://jeremybytes.blogspot.com/2020/07/go-and-interfaces.html)
 - [Golang Interfaces Explained](https://www.alexedwards.net/blog/interfaces-explained)
-
-## Videos
+- [Interface_types](https://go.dev/ref/spec#Interface_types)
+- [X does not implement Y (... method has a pointer receiver)](https://newbedev.com/x-does-not-implement-y-method-has-a-pointer-receiver)
+- [Method Pointer Receivers in Interfaces](https://sentry.io/answers/interface-pointer-receiver/)
+- [Summary to the difference between T and T* method sets in Go](https://gronskiy.com/posts/2020-04-golang-pointer-vs-value-methods/)
+- [Method Sets - Golang.org](https://go.dev/ref/spec#Method_sets)
+## 📺 Videos
 - [Golang for C# Developers - interface, struct and class](https://www.youtube.com/watch?v=MQutoEgJF8I)

@@ -1,6 +1,6 @@
 # Graceful Shutdown
 
-## Articles
+## 📕 Articles
 - [Go - graceful shutdown of worker goroutines](https://callistaenterprise.se/blogg/teknik/2019/10/05/go-worker-cancellation/)
 - [MICROSERVICES IN GO: GRACEFUL SHUTDOWN](https://mariocarrion.com/2021/05/21/golang-microservices-graceful-shutdown.html)
 - [How to handle signals with Go to graceful shutdown HTTP server](https://rafallorenz.com/go/handle-signals-to-graceful-shutdown-http-server/)

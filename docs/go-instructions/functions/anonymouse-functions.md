@@ -1,6 +1,6 @@
 # Anonymous Functions
 
-## Articles
+## 📕 Articles
 - [Anonymous functions & closures - Practical Go Lessons](https://www.practical-go-lessons.com/chap-24-anonymous-functions-and-closures)
 - [Anonymous Functions in Golang](https://www.golangprograms.com/anonymous-functions-in-golang.html)
 - [GOLANG TUTORIAL - CLOSURES AND ANONYMOUS FUNCTIONS](https://www.bogotobogo.com/GoLang/GoLang_Closures_Anonymous_Functions.php)

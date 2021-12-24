@@ -1,6 +1,6 @@
 # Server
 
-## Articles
+## 📕 Articles
 - [An Overview of Server-Side HTTP APIs in Go](https://betterprogramming.pub/overview-of-server-side-http-apis-in-go-44f052737e4b)
 - [Handling requests](https://livebook.manning.com/book/go-web-programming/chapter-3/1)
 - [Creating a web server with Golang](https://blog.logrocket.com/creating-a-web-server-with-golang/)
