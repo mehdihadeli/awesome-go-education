@@ -5,6 +5,7 @@
 - [Building Microservices with Event Sourcing/CQRS in Go using gRPC, NATS Streaming and CockroachDB](https://shijuvar.medium.com/building-microservices-with-event-sourcing-cqrs-in-go-using-grpc-nats-streaming-and-cockroachdb-983f650452aa)
 - [Go Microservices with Go kit: Introduction](https://shijuvar.medium.com/go-microservices-with-go-kit-introduction-43a757398183)
 - [Building Distributed Systems and Microservices in Go with NATS Streaming](https://shijuvar.medium.com/building-distributed-systems-and-microservices-in-go-with-nats-streaming-d8b4baa633a2)
+- [Introducing Watermill - Go event-driven applications library](https://threedots.tech/post/introducing-watermill/)
 ## 📺 Videos
 - [Building Microservices with Go - Nic Jackson - Playlist](https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_)
 - [Golang Microservices: Project Layout and Domain Driven Design](https://www.youtube.com/watch?v=LUvid5TJ81Y)
@@ -64,3 +65,4 @@
 - [obitech/micro-obs](https://github.com/obitech/micro-obs) - Microservice observability with Go
 - [laaksomavrick/twitter-go](https://github.com/laaksomavrick/twitter-go) - A high throughput, horizontally scalable microservice backend using Go, Cassandra, RabbitMQ, Kubernetes, Helm.
 - [Crizstian/cinema-microservice-in-GO](https://github.com/Crizstian/cinema-microservice-in-GO) - Example of a cinema microservice written in Golang deployed on Hashicorp Stack tools
+- [ThreeDotsLabs/nats-example](https://github.com/ThreeDotsLabs/nats-example) - An example Go project for running local development environment, with hot code reloading.

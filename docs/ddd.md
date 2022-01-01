@@ -1,5 +1,8 @@
 # DDD
 
+## Resources
+- [Awesome DDD](https://github.com/heynickc/awesome-ddd#go)
+
 ## 📕 Articles
 - [How To Implement Domain-Driven Design (DDD) in Golang](https://programmingpercy.tech/blog/how-to-domain-driven-design-ddd-golang/)
 - [How To Structure DDD in Go](https://programmingpercy.tech/blog/how-to-structure-ddd-in-go/)
@@ -20,5 +23,6 @@
 - [8treenet/freedom](https://github.com/8treenet/freedom) - Freedom is a framework based on a hexagonal architecture that can support the congested domain model paradigm. 
 - [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - A complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
 - [charly3pins/eShop](https://github.com/charly3pins/eShop) - [WIP] E-Commerce project using Hexagonal Architecture (Ports-and-adapters) as a proof-of-concept applying DDD in Go
+- [victorsteven/food-app-server](https://github.com/victorsteven/food-app-server) - Exploring Domain-Driven Design in Golang
 ## 📚 Books
 - [Go with the Domain](https://threedots.tech/go-with-the-domain/) - Free e-book on Building Modern Business Software in Go

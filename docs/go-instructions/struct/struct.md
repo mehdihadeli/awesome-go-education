@@ -19,8 +19,9 @@
 - [TYPE EMBEDDING IN GO](https://bitek.dev/blog/go_type_embedding/)
 - [Inheritance in GO using struct (Embedding)](https://golangbyexample.com/inheritance-go-struct/)
 - [Inheritance in GO using interface + struct](https://golangbyexample.com/inheritance-go-interface-struct/)
-
-
+- [10 things you (probably) don't know about Go ](https://talks.golang.org/2012/10things.slide#1)
+- [What Are Golang’s Anonymous Structs?](https://qvault.io/golang/anonymous-structs-golang/)
+- [Struct in Go (Golang)](https://golangbyexample.com/struct-in-golang-complete-guide/)
 ## 📺 Videos
 - [Golang for C# Developers - interface, struct and class](https://www.youtube.com/watch?v=MQutoEgJF8I)
 - [Golang for C# Developers - Struct & Class](https://www.youtube.com/watch?v=b9Gfb3p0ijY)

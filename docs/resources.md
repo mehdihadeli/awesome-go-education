@@ -22,6 +22,7 @@
 - [Practical Go Lessons](https://www.practical-go-lessons.com/)
 - [Golang training GitHub](https://github.com/go-training/training)
 - [The Uber Go Style Guide](https://github.com/uber-go/guide)
+
 ## Courses
 
 - [Go: Getting Started - Pluralsight](https://www.pluralsight.com/courses/getting-started-with-go)
@@ -39,12 +40,25 @@
 
 ## Youtube Channel
 - [GolangCafe](https://www.youtube.com/c/GolangCafe)
-
+- [justforfunc: Programming in Go](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw)
+- [GopherCon UK](https://www.youtube.com/channel/UC9ZNrGdT2aAdrNbX78lbNlQ)
+- [Mario Carrion](https://www.youtube.com/user/mariocarrion)
+- [Donald Feury](https://www.youtube.com/user/Dak4251)
+- [TutorialEdge](https://www.youtube.com/c/Tutorialedge/videos)
 ## Blogs
+
 - [Algorithms to Go](https://yourbasic.org/)
 - [ALEX EDWARDS](https://www.alexedwards.net/blog)
 - [Golang Weekly](https://golangweekly.com/)
 - [Go Newsletter](https://go.libhunt.com/newsletter)
+- [Ardanlabs Blog](https://www.ardanlabs.com/blog/)
+- [Go blogs to follow](https://www.reddit.com/r/golang/comments/rsk49x/go_blogs_to_follow/)
+- [The World of Go](https://appliedgo.com/blog)
+- [research!rsc](https://research.swtch.com/)
+- [Three Dots Labs](https://threedots.tech/)
+- [Eli Bendersky's website](https://eli.thegreenplace.net/)
+- [GopherAcademy Blog](https://blog.gopheracademy.com/)
+- []()
 
 ## Books
 - [LET'S GO PROFESSIONAL](https://lets-go.alexedwards.net/)

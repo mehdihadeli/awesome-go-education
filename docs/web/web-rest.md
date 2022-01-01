@@ -29,6 +29,7 @@
 - [Building a Basic REST API in Go using Fiber](https://tutorialedge.net/golang/basic-rest-api-go-fiber/)
 - [Using Golang to Create a RESTful JSON API](https://andela.com/insights/using-golang-to-create-a-restful-json-api/)
 - [Handling requests](https://livebook.manning.com/book/go-web-programming/chapter-3/29)
+- [CRUD RESTful API with Go, GORM, JWT, Postgres, Mysql, and Testing](https://levelup.gitconnected.com/crud-restful-api-with-go-gorm-jwt-postgres-mysql-and-testing-460a85ab7121)
 ## 📺 Videos
 - [Let's go with golang - Hitesh Choudhary - Playlist](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa)
 - [Golang Crash Course - Pragmatic Reviews - Playlist](https://www.youtube.com/playlist?list=PL3eAkoh7fypqUQUQPn-bXtfiYT_ZSVKmB)
@@ -82,3 +83,4 @@
 - [powerman/go-monolith-example](https://github.com/powerman/go-monolith-example) - Example Go monolith with embedded microservices and The Clean Architecture
 - [AleksK1NG/Go-Clean-Architecture-REST-API](https://github.com/AleksK1NG/Go-Clean-Architecture-REST-API) - Golang Clean Architecture REST API example
 - [johan-lejdung/go-microservice-api-guide/](https://github.com/johan-lejdung/go-microservice-api-guide/)
+- [victorsteven/Go-JWT-Postgres-Mysql-Restful-API](https://github.com/victorsteven/Go-JWT-Postgres-Mysql-Restful-API) - This is an API built with golang, jwt, gorm, postgresql, mysql

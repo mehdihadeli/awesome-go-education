@@ -2,8 +2,9 @@
 
 ## 📘 Resources
 - [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
-
+- [Package Oriented Design](https://github.com/ardanlabs/gotraining/tree/master/topics/go/design/packaging)
 ## 📕 Articles
+- [Package Oriented Design](https://www.ardanlabs.com/blog/2017/02/package-oriented-design.html)
 - [Go - Project Structure and Guidelines](https://dev.to/jinxankit/go-project-structure-and-guidelines-4ccm)
 - [How do I Structure my Go Project?](https://www.wolfe.id.au/2020/03/10/how-do-i-structure-my-go-project/)
 - [Go Project Structure Best Practices](https://tutorialedge.net/golang/go-project-structure-best-practices/)
@@ -23,6 +24,7 @@
 - [Thoughts on how to structure Go code](https://changelog.com/posts/on-go-application-structure)
 - [Golang Project Layout](https://manfred.life/golang-project-layout)
 - [Go project structure, building commands and packages](https://technobeans.com/2018/12/21/go-project-structure-building-commands-and-packages/)
+- [Go and a Package Focused Design](https://blog.gopheracademy.com/advent-2016/go-and-package-focused-design/)
 ## Videos
 - [GopherCon 2018: Kat Zien - How Do You Structure Your Go Apps](https://www.youtube.com/watch?v=oL6JBUk6tj0)
 - [Golang Project Structure - Getting Started with Golang](https://www.youtube.com/watch?v=a6-OHTNtsG4)
@@ -33,6 +35,7 @@
 - [Go Programming - Hexagonal Architecture](https://www.youtube.com/watch?v=k3JZI-sQs2k)
 - [How Do You Structure Your Go Apps?](https://www.youtube.com/watch?v=1rxDzs0zgcE)
 - [Go Program Anatomy (Go Basics #3)](https://www.youtube.com/watch?v=MSB8LXuUjFc)
+- [Go Programming Package Oriented Design](https://www.youtube.com/watch?v=raWGeSom5bE)
 ## 🚀 Samples
 - [ruslantsyganok/clean_arcitecture_golang_example](https://github.com/ruslantsyganok/clean_arcitecture_golang_example) - Clean Architecture Golang Example (kinda)
 - [selikapro/hexArchGoGRPC](https://github.com/selikapro/hexArchGoGRPC)
