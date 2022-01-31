@@ -12,6 +12,7 @@
 - [How To Structure Your Go App - Full Course [ Hex Arch + Tests ]](https://www.youtube.com/watch?v=MpFog2kZsHk)
 - [Go Programming - Hexagonal Architecture](https://www.youtube.com/watch?v=k3JZI-sQs2k)
 - [Golang / Go Crash Course 03 | Implementing Clean Architecture principles in our REST API](https://www.youtube.com/watch?v=Yg_ae0UvCv4)
+- [dotGo 2019 - Kat Zień - Achieving maintainability with hexagonal architecture](https://www.youtube.com/watch?v=vKbVrsMnhDc)
 ## 🚀 Samples
 - [percybolmer/ddd-go/tree/clean-architecture](https://github.com/percybolmer/ddd-go/tree/clean-architecture)
 - [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring
