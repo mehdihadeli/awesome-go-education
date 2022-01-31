@@ -57,6 +57,8 @@
 - [xinliangnote/go-gin-api](https://github.com/xinliangnote/go-gin-api) - The API framework based on Gin's modular design encapsulates common functions
 - [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
+- [justinas/alice](https://github.com/justinas/alice) - Painless middleware chaining for Go
+- [eyazici90/go-mediator](https://github.com/eyazici90/go-mediator) - Simple mediator implementation in go
 ## 🚀 Samples
 - [Mindinventory/Golang-Project-Structure](https://github.com/Mindinventory/Golang-Project-Structure) - Golang Skeleton With Fully Managed Versions For Kick Start GoLang Project Development
 - [gothinkster/golang-gin-realworld-example-app](https://github.com/gothinkster/golang-gin-realworld-example-app) - Exemplary real world application built with Golang + Gin
@@ -84,3 +86,4 @@
 - [AleksK1NG/Go-Clean-Architecture-REST-API](https://github.com/AleksK1NG/Go-Clean-Architecture-REST-API) - Golang Clean Architecture REST API example
 - [johan-lejdung/go-microservice-api-guide/](https://github.com/johan-lejdung/go-microservice-api-guide/)
 - [victorsteven/Go-JWT-Postgres-Mysql-Restful-API](https://github.com/victorsteven/Go-JWT-Postgres-Mysql-Restful-API) - This is an API built with golang, jwt, gorm, postgresql, mysql
+- [solrac97gr/goHexagonalBlog](https://github.com/solrac97gr/goHexagonalBlog) - Boilerplate using Fiber 🚀 , Mongo, Hexagonal Architecture. Including a Blog explaining the components of the boilerplate.

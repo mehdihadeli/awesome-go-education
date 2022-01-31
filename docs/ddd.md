@@ -24,5 +24,6 @@
 - [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - A complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
 - [charly3pins/eShop](https://github.com/charly3pins/eShop) - [WIP] E-Commerce project using Hexagonal Architecture (Ports-and-adapters) as a proof-of-concept applying DDD in Go
 - [victorsteven/food-app-server](https://github.com/victorsteven/food-app-server) - Exploring Domain-Driven Design in Golang
+- [eyazici90/go-ddd](https://github.com/eyazici90/go-ddd) - Practical implementation of Domain Driven Design in go
 ## 📚 Books
 - [Go with the Domain](https://threedots.tech/go-with-the-domain/) - Free e-book on Building Modern Business Software in Go

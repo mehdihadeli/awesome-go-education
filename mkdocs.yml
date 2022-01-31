@@ -130,6 +130,7 @@ nav:
   - OOP : oop.md
   - Project Layout & Structure : project-layout-structure.md
   - API Documentation: api-documentation.md
+  - Profiling: profiling.md
   - Debugging: debugging.md
   - Reflection: reflection.md
   - Anti Patterns: anti-patterns.md

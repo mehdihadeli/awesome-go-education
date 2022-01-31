@@ -6,6 +6,7 @@
 - [Go Microservices with Go kit: Introduction](https://shijuvar.medium.com/go-microservices-with-go-kit-introduction-43a757398183)
 - [Building Distributed Systems and Microservices in Go with NATS Streaming](https://shijuvar.medium.com/building-distributed-systems-and-microservices-in-go-with-nats-streaming-d8b4baa633a2)
 - [Introducing Watermill - Go event-driven applications library](https://threedots.tech/post/introducing-watermill/)
+- [Microservices in Go using the Go kit](https://dev.to/eminetto/microservices-in-go-using-the-go-kit-jjf)
 ## 📺 Videos
 - [Building Microservices with Go - Nic Jackson - Playlist](https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_)
 - [Golang Microservices: Project Layout and Domain Driven Design](https://www.youtube.com/watch?v=LUvid5TJ81Y)
@@ -30,6 +31,8 @@
 - [pace/bricks](https://github.com/pace/bricks) - A standard library for microservices.
 - [obsidiandynamics/goharvest](https://github.com/obsidiandynamics/goharvest) - Transactional outbox harvester for Postgres → Kafka, written in Go
 - [wework/grabbit](https://github.com/wework/grabbit) - A lightweight transactional message bus on top of RabbitMQ
+- [micro/micro](https://github.com/micro/micro) - A distributed cloud operating system
+
 ## 🚀 Samples
 - [MarioCarrion/todo-api-microservice-example](https://github.com/MarioCarrion/todo-api-microservice-example) - Go microservice tutorial project using Domain Driven Design and Onion Architecture!
 - [go-kratos/beer-shop](https://github.com/go-kratos/beer-shop) - An online shop application, the complete microservices demo for kratos.
@@ -66,3 +69,8 @@
 - [laaksomavrick/twitter-go](https://github.com/laaksomavrick/twitter-go) - A high throughput, horizontally scalable microservice backend using Go, Cassandra, RabbitMQ, Kubernetes, Helm.
 - [Crizstian/cinema-microservice-in-GO](https://github.com/Crizstian/cinema-microservice-in-GO) - Example of a cinema microservice written in Golang deployed on Hashicorp Stack tools
 - [ThreeDotsLabs/nats-example](https://github.com/ThreeDotsLabs/nats-example) - An example Go project for running local development environment, with hot code reloading.
+- [musobarlab/ecommerce-grpc-microservice](https://github.com/musobarlab/ecommerce-grpc-microservice) - (On Progress) Lab (Building E-Commerce Microservices using Golang, Rest and GRPC with Multiple Docker Container)
+- [vardius/go-api-boilerplate](https://github.com/vardius/go-api-boilerplate) - Go Server/API boilerplate using best practices DDD CQRS ES gRPC
+- [pkedy/golang-dapr](https://github.com/pkedy/golang-dapr) - "From Zero to Hero with Go and Dapr" presented at GopherCon 2021
+- [eminetto/talk-microservices-go](https://github.com/eminetto/talk-microservices-go)
+- [eminetto/talk-microservices-gokit](https://github.com/eminetto/talk-microservices-gokit)

@@ -5,6 +5,7 @@
 - [Beautify your Golang project](https://itnext.io/beautify-your-golang-project-f795b4b453aa)
 - [Why using Microservices or Monolith can be just a detail?](https://threedots.tech/post/microservices-or-monolith-its-detail/)
 - [Introducing Clean Architecture by refactoring a Go project](https://threedots.tech/post/introducing-clean-architecture/)
+- [Clean Architecture, 2 years later](https://dev.to/eminetto/clean-architecture-2-years-later-4een)
 ## 📺 Videos
 - [GO - Clean Architecture](https://www.youtube.com/playlist?list=PL7Bs8ngpweC6KN8g1_LS4Be0bWXB23UKB)
 - [Clean architecture in Go. How to organize a project structure?](https://www.youtube.com/watch?v=goC-gCNWhS4)
@@ -27,3 +28,7 @@
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
 - [AleksK1NG/Go-Clean-Architecture-REST-API](https://github.com/AleksK1NG/Go-Clean-Architecture-REST-API) - Golang Clean Architecture REST API example
 - [charly3pins/eShop](https://github.com/charly3pins/eShop) - [WIP] E-Commerce project using Hexagonal Architecture (Ports-and-adapters) as a proof-of-concept applying DDD in Go
+- [eyazici90/go-ddd](https://github.com/eyazici90/go-ddd) - Practical implementation of Domain Driven Design in go
+- [musobarlab/ecommerce-grpc-microservice](https://github.com/musobarlab/ecommerce-grpc-microservice) - (On Progress) Lab (Building E-Commerce Microservices using Golang, Rest and GRPC with Multiple Docker Container)
+- [solrac97gr/goHexagonalBlog](https://github.com/solrac97gr/goHexagonalBlog) - Boilerplate using Fiber 🚀 , Mongo, Hexagonal Architecture. Including a Blog explaining the components of the boilerplate.
+- [eminetto/clean-architecture-go-v2](https://github.com/eminetto/clean-architecture-go-v2) - Clean Architecture sample

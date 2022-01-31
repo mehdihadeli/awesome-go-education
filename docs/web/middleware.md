@@ -8,5 +8,6 @@
 - [Middlewares in Go](https://dev.to/karankumarshreds/middlewares-in-go-41j)
 - [REST Servers in Go: Part 5 - middleware](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-5-middleware/)
 - [A Guide To Writing Logging Middleware in Go](https://blog.questionable.services/article/guide-logging-middleware-go/)
+- [Alice – Painless Middleware Chaining for Go](https://justinas.org/alice-painless-middleware-chaining-for-go)
 ## Libraries
 - [gorilla/handlers](https://github.com/gorilla/handlers) - A collection of useful middleware for Go HTTP services & web applications 🛃
