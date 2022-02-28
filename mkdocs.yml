@@ -127,6 +127,7 @@ nav:
   - Json: json.md
   - Context: context.md
   - Microservices : microservices.md
+  - Tracing: tracing.md
   - OOP : oop.md
   - Project Layout & Structure : project-layout-structure.md
   - API Documentation: api-documentation.md

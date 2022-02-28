@@ -6,6 +6,10 @@
 - [Why using Microservices or Monolith can be just a detail?](https://threedots.tech/post/microservices-or-monolith-its-detail/)
 - [Introducing Clean Architecture by refactoring a Go project](https://threedots.tech/post/introducing-clean-architecture/)
 - [Clean Architecture, 2 years later](https://dev.to/eminetto/clean-architecture-2-years-later-4een)
+- [Go, Kafka and gRPC clean architecture CQRS microservices with Jaeger tracing](https://dev.to/aleksk1ng/go-kafka-and-grpc-clean-architecture-cqrs-microservices-with-jaeger-tracing-45bj)
+- [Go, NATS, gRPC and PostgreSQL clean architecture microservice with monitoring and tracing](https://dev.to/aleksk1ng/go-nats-grpc-and-postgresql-clean-architecture-microservice-with-monitoring-and-tracing-2kka)
+- [Go, RabbitMQ and gRPC Clean Architecture microservice](https://dev.to/aleksk1ng/go-rabbitmq-and-grpc-clean-architecture-microservice-2kdn)
+- [Go gRPC Clean architecture microservice with Prometheus, Grafana monitoring and Jaeger opentracing](https://dev.to/aleksk1ng/go-grpc-clean-architecture-microservice-with-prometheus-grafana-monitoring-and-jaeger-opentracing-51om)
 ## 📺 Videos
 - [GO - Clean Architecture](https://www.youtube.com/playlist?list=PL7Bs8ngpweC6KN8g1_LS4Be0bWXB23UKB)
 - [Clean architecture in Go. How to organize a project structure?](https://www.youtube.com/watch?v=goC-gCNWhS4)
@@ -33,3 +37,7 @@
 - [musobarlab/ecommerce-grpc-microservice](https://github.com/musobarlab/ecommerce-grpc-microservice) - (On Progress) Lab (Building E-Commerce Microservices using Golang, Rest and GRPC with Multiple Docker Container)
 - [solrac97gr/goHexagonalBlog](https://github.com/solrac97gr/goHexagonalBlog) - Boilerplate using Fiber 🚀 , Mongo, Hexagonal Architecture. Including a Blog explaining the components of the boilerplate.
 - [eminetto/clean-architecture-go-v2](https://github.com/eminetto/clean-architecture-go-v2) - Clean Architecture sample
+- [AleksK1NG/Go-CQRS-Kafka-gRPC-Microservices](https://github.com/AleksK1NG/Go-CQRS-Kafka-gRPC-Microservices) - Go gRPC Kafka CQRS microservices with tracing
+- [AleksK1NG/Go-NATS-Streaming-gRPC-PostgreSQL](https://github.com/AleksK1NG/Go-NATS-Streaming-gRPC-PostgreSQL) - Go Nats Streaming gRPC PostgerSQL emails microservice
+- [AleksK1NG/Go-gRPC-RabbitMQ-microservice](https://github.com/AleksK1NG/Go-gRPC-RabbitMQ-microservice) - Go gRPC RabbitMQ email microservice
+- [AleksK1NG/Go-GRPC-Auth-Microservice](https://github.com/AleksK1NG/Go-GRPC-Auth-Microservice) - Go GRPC Auth Microservice
