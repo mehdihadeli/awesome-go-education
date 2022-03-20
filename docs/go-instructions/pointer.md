@@ -15,7 +15,6 @@
 - [Value receiver vs. pointer receiver](https://stackoverflow.com/questions/27775376/value-receiver-vs-pointer-receiver)
 - [Go’s method receiver: Pointer vs Value](https://devopsian.net/posts/go-ptr-vs-value/)
 - [Is Go an Object Oriented language?](https://medium.com/gophersland/gopher-vs-object-oriented-golang-4fa62b88c701)
-- [Pointer vs. value receiver](https://yourbasic.org/golang/pointer-vs-value-receiver/)
 - [GOLANG TUTORIAL - VALUE OR POINTER RECEIVER](https://www.bogotobogo.com/GoLang/GoLang_Receiver_Value_vs_Pointer.php)
 - [Value receiver vs. pointer receiver](https://newbedev.com/value-receiver-vs-pointer-receiver)
 - [Best practices with pointers?](https://www.reddit.com/r/golang/comments/r92m5k/best_practices_with_pointers/)
