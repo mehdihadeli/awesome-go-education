@@ -25,3 +25,4 @@
 
 ## 📺 Videos
 - [When You Should Actually Use Pointers In Go](https://www.youtube.com/watch?v=feinHNLSHWI)
+- [Golang pointers explained, once and for all](https://www.youtube.com/watch?v=sTFJtxJXkaY)
