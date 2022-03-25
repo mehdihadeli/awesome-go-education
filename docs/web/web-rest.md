@@ -47,7 +47,7 @@
 - [Go Programming - Fiber Web Framework](https://www.youtube.com/watch?v=xHvzNJzA9DQ)
 - [REST API with Go / Gin + Some Simple Tests](https://www.youtube.com/watch?v=LOn1GUsjOF4)
 - [11 Golang for C# Developers - Web Api using Gorilla MUX](https://www.youtube.com/watch?v=hd5GoTjlCW4)
-## Libraries
+## 📦 Libraries
 - [gocondor/gocondor](https://github.com/gocondor/gocondor) - A golang framework for building modern APIs
 - [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework

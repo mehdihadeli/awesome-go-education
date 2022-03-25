@@ -8,7 +8,7 @@
 - [Go gRPC Clean architecture microservice with Prometheus, Grafana monitoring and Jaeger opentracing](https://dev.to/aleksk1ng/go-grpc-clean-architecture-microservice-with-prometheus-grafana-monitoring-and-jaeger-opentracing-51om)
 - [AleksK1NG/Go-GRPC-Auth-Microservice](https://github.com/AleksK1NG/Go-GRPC-Auth-Microservice) - Go GRPC Auth Microservice
 
-## Samples
+## 🚀 Samples
 - [AleksK1NG/Go-CQRS-Kafka-gRPC-Microservices](https://github.com/AleksK1NG/Go-CQRS-Kafka-gRPC-Microservices) - Go gRPC Kafka CQRS microservices with tracing
 - [AleksK1NG/Go-NATS-Streaming-gRPC-PostgreSQL](https://github.com/AleksK1NG/Go-NATS-Streaming-gRPC-PostgreSQL) - Go Nats Streaming gRPC PostgerSQL emails microservice
 - [AleksK1NG/Go-Kafka-gRPC-MongoDB-microservice](https://github.com/AleksK1NG/Go-Kafka-gRPC-MongoDB-microservice) - Go products microservice

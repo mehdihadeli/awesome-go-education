@@ -5,7 +5,7 @@
 - [Logging in Go: Choosing a System and Using it](https://www.honeybadger.io/blog/golang-logging/)
 - [Top 6 Golang Logging Best Practices](https://qvault.io/golang/golang-logging-best-practices/)
 
-## Libraries
+## 📦 Libraries
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.

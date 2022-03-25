@@ -2,7 +2,7 @@
 - [Github Page](https://github.com/go-gorm/gorm)
 - [Website](https://gorm.io/)
 
-## Libraries
+## 📦 Libraries
 - [hellokaton/gorm-paginator](https://github.com/hellokaton/gorm-paginator) - gorm pagination extension
 
 ## 🚀 Samples

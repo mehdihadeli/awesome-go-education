@@ -20,7 +20,8 @@
 - [Building Microservices in Golang/Go - Mario Carrion](https://www.youtube.com/playlist?list=PL7yAAGMOat_Fn8sAXIk0WyBfK_sT1pohu)
 - [How I Built Microservices In Go In 30 Minutes](https://www.youtube.com/watch?v=bM6N-vgPlyQ)
 - [Building gRPC Microservices in Go](https://tutorialedge.net/courses/go-grpc-services-course/)
-## Libraries
+
+## 📦 Libraries
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [asim/go-micro](https://github.com/asim/go-micro) - A pluggable Go framework for distributed systems development
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - A modular-designed and easy-to-use microservices framework in Go.
