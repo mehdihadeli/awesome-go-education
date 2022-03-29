@@ -125,6 +125,7 @@ nav:
     - Panic: error/panic.md
   - File: file.md
   - Json: json.md
+  - gRPC: gRPC.md
   - Context: context.md
   - Microservices : microservices.md
   - Tracing: tracing.md
