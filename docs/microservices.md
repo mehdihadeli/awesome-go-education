@@ -84,3 +84,4 @@
 - [eminetto/talk-microservices-gokit](https://github.com/eminetto/talk-microservices-gokit)
 - [AleksK1NG/es-microservice](https://github.com/AleksK1NG/es-microservice) - Go Event Sourcing CQRS Microservice
 - [AleksK1NG/Go-GRPC-Auth-Microservice](https://github.com/AleksK1NG/Go-GRPC-Auth-Microservice) - Go GRPC Auth Microservice
+- [Mikaelemmmm/go-zero-looklook](https://github.com/Mikaelemmmm/go-zero-looklook) - Develop best practice projects based on the full technology stack of go zero (go zero) microservices.
