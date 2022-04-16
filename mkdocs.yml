@@ -103,8 +103,8 @@ nav:
       - Maps: go-instructions/collections/maps.md
       - Slices: go-instructions/collections/slices.md
   - ORM:
-    - ORM: orm/orm.md
-    - gorm: orm/gorm.md
+    - ORM: database/orm/orm.md
+    - gorm: database/orm/gorm.md
   - Logging: logging.md
   - DDD: ddd.md
   - Clean Architecture: clean-architecture.md
