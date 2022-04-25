@@ -5,7 +5,9 @@
 - [Learn Web Programming in Go by Examples](https://gowebexamples.com/)
 - [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/) - A golang ebook intro how to build a web with golang
 - [Web & API Development](https://github.com/golang/go/wiki/Articles#web--api-development)
+
 ## 📕 Articles
+- [How to Build a Web App with Gin](https://universalglue.dev/series/how-to-build-a-web-app-with-gin/) - A series of articles about building a small web app using Go, Gin, and Gorm
 - [Tutorial: Developing a RESTful API with Go and Gin](https://go.dev/doc/tutorial/web-service-gin)
 - [Writing Web Applications](https://go.dev/doc/articles/wiki/)
 - [Golang Skeleton With Fully Managed Versions For Kick Start GoLang Project Development](https://www.mindinventory.com/blog/golang-project-structure/)
