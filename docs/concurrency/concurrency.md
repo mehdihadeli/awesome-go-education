@@ -3,6 +3,7 @@
 ## 📘 Resources
 - [lotusirous/go-concurrency-patterns](https://github.com/lotusirous/go-concurrency-patterns) - Concurrency patterns in Go
 - [Concurrency / Channels](https://github.com/golang/go/wiki/Articles#concurrency--channels)
+- [luk4z7/go-concurrency-guide](https://github.com/luk4z7/go-concurrency-guide)
 ## 📕 Articles
 - [Introduction to Concurrency](https://golangbot.com/concurrency/)
 - [Concurrency - Practical Go Lessons](https://www.practical-go-lessons.com/chap-30-concurrency)
@@ -46,3 +47,6 @@
 - [Concurrency vs Parallelism](https://www.youtube.com/watch?v=FChZP09Ba4E)
 - [Concurrency vs Parallelism](https://www.youtube.com/watch?v=Y1pgpn2gOSg)
 - [Golang for C# Developers - Concurrency](https://www.youtube.com/watch?v=aEI7nIfvyRU)
+
+## Books
+- [Concurrency in Go: Tools and Techniques for Developers](https://www.amazon.com/Concurrency-Go-Tools-Techniques-Developers/dp/1491941197)

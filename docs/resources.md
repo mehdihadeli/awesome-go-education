@@ -22,7 +22,8 @@
 - [Practical Go Lessons](https://www.practical-go-lessons.com/)
 - [Golang training GitHub](https://github.com/go-training/training)
 - [The Uber Go Style Guide](https://github.com/uber-go/guide)
-
+- [inancgumus/learngo](https://github.com/inancgumus/learngo) - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
+- [teh-cmc/go-internals](https://github.com/teh-cmc/go-internals) - A book about the internals of the Go programming language.
 ## Courses
 
 - [Go: Getting Started - Pluralsight](https://www.pluralsight.com/courses/getting-started-with-go)
