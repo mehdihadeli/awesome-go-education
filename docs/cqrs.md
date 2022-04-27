@@ -17,3 +17,4 @@
 - [AleksK1NG/Go-CQRS-Kafka-gRPC-Microservices](https://github.com/AleksK1NG/Go-CQRS-Kafka-gRPC-Microservices) - Go gRPC Kafka CQRS microservices with traci
 - [eyazici90/go-ddd](https://github.com/eyazici90/go-ddd) - Practical implementation of Domain Driven Design in go
 - [AleksK1NG/es-microservice](https://github.com/AleksK1NG/es-microservice)
+- [joaofbantunes/OOPsIDidItAgainGo](https://github.com/joaofbantunes/OOPsIDidItAgainGo)

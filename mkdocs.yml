@@ -8,8 +8,16 @@ edit_uri: edit/main/docs/
 theme:
   name: material
   palette:
-    primary: 'deep purple'
-    accent: 'indigo'
+    - media: "(prefers-color-scheme: light)" 
+      scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)" 
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
   prev_next_buttons_location: both
   navigation_depth: 4
   titles_only: False

@@ -41,3 +41,4 @@
 - [AleksK1NG/Go-NATS-Streaming-gRPC-PostgreSQL](https://github.com/AleksK1NG/Go-NATS-Streaming-gRPC-PostgreSQL) - Go Nats Streaming gRPC PostgerSQL emails microservice
 - [AleksK1NG/Go-gRPC-RabbitMQ-microservice](https://github.com/AleksK1NG/Go-gRPC-RabbitMQ-microservice) - Go gRPC RabbitMQ email microservice
 - [AleksK1NG/Go-GRPC-Auth-Microservice](https://github.com/AleksK1NG/Go-GRPC-Auth-Microservice) - Go GRPC Auth Microservice
+- [joaofbantunes/OOPsIDidItAgainGo](https://github.com/joaofbantunes/OOPsIDidItAgainGo) - OOPs, I did it again - Go edition
