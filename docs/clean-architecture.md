@@ -10,6 +10,10 @@
 - [Go, NATS, gRPC and PostgreSQL clean architecture microservice with monitoring and tracing](https://dev.to/aleksk1ng/go-nats-grpc-and-postgresql-clean-architecture-microservice-with-monitoring-and-tracing-2kka)
 - [Go, RabbitMQ and gRPC Clean Architecture microservice](https://dev.to/aleksk1ng/go-rabbitmq-and-grpc-clean-architecture-microservice-2kdn)
 - [Go gRPC Clean architecture microservice with Prometheus, Grafana monitoring and Jaeger opentracing](https://dev.to/aleksk1ng/go-grpc-clean-architecture-microservice-with-prometheus-grafana-monitoring-and-jaeger-opentracing-51om)
+- [Microservices in Golang: Organising code](https://armjn.xyz/post/golang-microservice-project-structure/)
+- [Go EventSourcing and CQRS microservice using EventStoreDB ](https://dev.to/aleksk1ng/go-eventsourcing-and-cqrs-microservice-using-eventstoredb-5djo)
+- [Go, Kafka and gRPC clean architecture CQRS microservices with Jaeger tracing ](https://dev.to/aleksk1ng/go-kafka-and-grpc-clean-architecture-cqrs-microservices-with-jaeger-tracing-45bj)
+- [Go gRPC Clean architecture microservice with Prometheus, Grafana monitoring and Jaeger opentracing](https://dev.to/aleksk1ng/go-grpc-clean-architecture-microservice-with-prometheus-grafana-monitoring-and-jaeger-opentracing-51om)
 ## 📺 Videos
 - [GO - Clean Architecture](https://www.youtube.com/playlist?list=PL7Bs8ngpweC6KN8g1_LS4Be0bWXB23UKB)
 - [Clean architecture in Go. How to organize a project structure?](https://www.youtube.com/watch?v=goC-gCNWhS4)
@@ -42,3 +46,6 @@
 - [AleksK1NG/Go-gRPC-RabbitMQ-microservice](https://github.com/AleksK1NG/Go-gRPC-RabbitMQ-microservice) - Go gRPC RabbitMQ email microservice
 - [AleksK1NG/Go-GRPC-Auth-Microservice](https://github.com/AleksK1NG/Go-GRPC-Auth-Microservice) - Go GRPC Auth Microservice
 - [joaofbantunes/OOPsIDidItAgainGo](https://github.com/joaofbantunes/OOPsIDidItAgainGo) - OOPs, I did it again - Go edition
+- [bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch) - Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
+- [Creatly/creatly-backend](https://github.com/Creatly/creatly-backend) - Creatly backend app
+- [Massad/gin-boilerplate](https://github.com/Massad/gin-boilerplate) - The fastest way to deploy a restful api's with Gin Framework with a structured project that defaults to PostgreSQL database and JWT authentication middleware stored in Redis

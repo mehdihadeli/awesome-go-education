@@ -92,7 +92,6 @@ nav:
       - Type Switch: go-instructions/interface/type-switch.md
       - Embedding: go-instructions/interface/embedding.md
     - Loops: go-instructions/loops.md
-    - Modules & Packages: go-instructions/modules-packages.md
     - Pointer: go-instructions/pointer.md
     - Struct:
       - Struct: go-instructions/struct/struct.md
@@ -117,6 +116,7 @@ nav:
   - DDD: ddd.md
   - Clean Architecture: clean-architecture.md
   - CQRS: cqrs.md
+  - Event Sourcing: event-sourcing.md
   - Concurrency:
     - Concurrency: concurrency/concurrency.md
     - Goroutines: concurrency/goroutines.md
@@ -132,10 +132,12 @@ nav:
     - Error Handling: error/error-handling.md
     - Panic: error/panic.md
   - File: file.md
+  - Modules & Packages: modules-packages.md
   - Json: json.md
   - gRPC: gRPC.md
   - Context: context.md
   - Microservices : microservices.md
+  - Service Discovery : service-discovery.md
   - Tracing: tracing.md
   - OOP : oop.md
   - Project Layout & Structure : project-layout-structure.md
@@ -150,6 +152,7 @@ nav:
   - Build & Install: build-install.md
   - Workspace && GOPATH: workspace-gopath.md
   - Tools: tools.md
+  - Formatters: formatters.md
   - CI/CD: ci-cd.md
   - Resources: resources.md
   - Others: 

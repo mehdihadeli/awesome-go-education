@@ -24,6 +24,10 @@
 - [The Uber Go Style Guide](https://github.com/uber-go/guide)
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
 - [teh-cmc/go-internals](https://github.com/teh-cmc/go-internals) - A book about the internals of the Go programming language.
+- [geektutu/high-performance-go](https://github.com/geektutu/high-performance-go) - high performance coding with golang
+- [Pungyeon/clean-go-article](https://github.com/Pungyeon/clean-go-article) - A reference for the Go community that covers the fundamentals of writing clean code and discusses concrete refactoring examples specific to Go.
+- [Go in One Evening](https://threedots.tech/go-in-one-evening)
+- [enocom/gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go
 ## Courses
 
 - [Go: Getting Started - Pluralsight](https://www.pluralsight.com/courses/getting-started-with-go)
@@ -46,6 +50,7 @@
 - [Mario Carrion](https://www.youtube.com/user/mariocarrion)
 - [Donald Feury](https://www.youtube.com/user/Dak4251)
 - [TutorialEdge](https://www.youtube.com/c/Tutorialedge/videos)
+
 ## Blogs
 
 - [Algorithms to Go](https://yourbasic.org/)

@@ -21,6 +21,8 @@
 - [Go: Are pointers a performance optimization?](https://medium.com/@vCabbage/go-are-pointers-a-performance-optimization-a95840d3ef85)
 - [Summary to the difference between T and T* method sets in Go](https://gronskiy.com/posts/2020-04-golang-pointer-vs-value-methods/)
 - [Method_sets](https://golang.org/ref/spec#Method_sets)
+- [Understand Go pointers in less than 800 words or your money back](https://dave.cheney.net/2017/04/26/understand-go-pointers-in-less-than-800-words-or-your-money-back)
+- [Don't fear the pointer](https://bitfieldconsulting.com/golang/pointers)
 
 ## 📺 Videos
 - [When You Should Actually Use Pointers In Go](https://www.youtube.com/watch?v=feinHNLSHWI)

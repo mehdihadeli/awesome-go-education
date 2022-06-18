@@ -11,3 +11,5 @@
 - [When to Use Generics in Go?](https://teivah.medium.com/when-to-use-generics-in-go-36d49c1aeda)
 - [Trying Out Generics in Go](https://markphelps.me/posts/trying-out-generics-in-go/)
 - [How to Use Golang’s Generics](https://qvault.io/golang/how-to-use-golangs-generics/)
+## Videos
+- [Learning Generics In Go](https://www.youtube.com/watch?v=fpLz-SRZ2ho)

@@ -11,3 +11,4 @@
 - [Channels offer synchronized communication](https://yourbasic.org/golang/channels-explained/)
 - [Broadcast a signal on a channel](https://yourbasic.org/golang/broadcast-channel/)
 - [Go (golang) Channels - Moving Data Between Concurrent Processes](https://jeremybytes.blogspot.com/2021/01/go-golang-channels-moving-data-between.html)
+- [Golang Channels Tutorial](https://guzalexander.com/2013/12/06/golang-channels-tutorial.html)

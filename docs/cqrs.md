@@ -3,8 +3,8 @@
 ## 📕 Articles
 - [Combining DDD, CQRS, and Clean Architecture by refactoring a Go project](https://threedots.tech/post/ddd-cqrs-clean-architecture-combined/)
 - [Introducing basic CQRS by refactoring a Go project](https://threedots.tech/post/basic-cqrs-in-go/)
-- [Go EventSourcing and CQRS microservice using EventStoreDB](https://dev.to/aleksk1ng/go-eventsourcing-and-cqrs-microservice-using-eventstoredb-5djo) - Go Event Sourcing CQRS Microservice
-
+- [Go EventSourcing and CQRS microservice using EventStoreDB ](https://dev.to/aleksk1ng/go-eventsourcing-and-cqrs-microservice-using-eventstoredb-5djo)
+- [Go, Kafka and gRPC clean architecture CQRS microservices with Jaeger tracing ](https://dev.to/aleksk1ng/go-kafka-and-grpc-clean-architecture-cqrs-microservices-with-jaeger-tracing-45bj)
 ## 📦 Libraries
 - [mishudark/eventhus](https://github.com/mishudark/eventhus) - Go - CQRS / Event Sourcing made easy - Go
 - [yehohanan7/flux](https://github.com/yehohanan7/flux) - A simple CQRS Framework for go

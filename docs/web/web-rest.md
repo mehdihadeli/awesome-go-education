@@ -32,6 +32,8 @@
 - [Using Golang to Create a RESTful JSON API](https://andela.com/insights/using-golang-to-create-a-restful-json-api/)
 - [Handling requests](https://livebook.manning.com/book/go-web-programming/chapter-3/29)
 - [CRUD RESTful API with Go, GORM, JWT, Postgres, Mysql, and Testing](https://levelup.gitconnected.com/crud-restful-api-with-go-gorm-jwt-postgres-mysql-and-testing-460a85ab7121)
+- [Developing a RESTful API with Go](https://dev.to/kevwan/developing-a-restful-api-with-go-3jo5)
+- [Best practices on developing monolithic services in Go](https://dev.to/kevwan/best-practices-on-developing-monolithic-services-in-go-3c95)
 ## 📺 Videos
 - [Let's go with golang - Hitesh Choudhary - Playlist](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa)
 - [Golang Crash Course - Pragmatic Reviews - Playlist](https://www.youtube.com/playlist?list=PL3eAkoh7fypqUQUQPn-bXtfiYT_ZSVKmB)

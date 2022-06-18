@@ -5,6 +5,7 @@
 - [Concurrency / Channels](https://github.com/golang/go/wiki/Articles#concurrency--channels)
 - [luk4z7/go-concurrency-guide](https://github.com/luk4z7/go-concurrency-guide)
 ## 📕 Articles
+- [Learning Go’s Concurrency Through Illustrations](https://medium.com/@trevor4e/learning-gos-concurrency-through-illustrations-8c4aff603b3)
 - [Introduction to Concurrency](https://golangbot.com/concurrency/)
 - [Concurrency - Practical Go Lessons](https://www.practical-go-lessons.com/chap-30-concurrency)
 - [Concurrent programming](https://yourbasic.org/golang/concurrent-programming/)

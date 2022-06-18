@@ -6,6 +6,8 @@
 - [Developing and publishing modules](https://go.dev/doc/modules/developing)
 
 ## 📕 Articles
+- [Create a Go module](https://go.dev/doc/tutorial/create-module)
+- [Call your code from another module](https://go.dev/doc/tutorial/call-module-code)
 - [Go Packages](https://golangbot.com/go-packages/)
 - [Packages in Go](https://golangbot.com/packages/)
 - [Go modules - Practical Go Lesson](https://www.practical-go-lessons.com/chap-17-go-modules)- [Go modules - Practical Go Lesson](https://www.practical-go-lessons.com/chap-17-go-modules)
@@ -53,6 +55,7 @@
 - [Packages and Modules in Go (Golang) – Part 2](https://golangbyexample.com/packages-modules-go-second/)
 - [Dependency and Package Management in GoLang Microservices Apps](https://www.xenonstack.com/blog/dependency-management-golang)
 - [Public vs. private](https://yourbasic.org/golang/public-private/)
+
 ## 📺 Videos
 - [Learning Golang: Dependencies, Modules and How to manage Packages](https://www.youtube.com/watch?v=20sLKEpHvvk)
 - [Packages in Go (Go Basics #6)](https://www.youtube.com/watch?v=sf7f4QGkwfE)
