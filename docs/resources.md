@@ -28,8 +28,9 @@
 - [Pungyeon/clean-go-article](https://github.com/Pungyeon/clean-go-article) - A reference for the Go community that covers the fundamentals of writing clean code and discusses concrete refactoring examples specific to Go.
 - [Go in One Evening](https://threedots.tech/go-in-one-evening)
 - [enocom/gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go
+- [Learn Go: The complete course](https://www.karanpratapsingh.com/courses/go)
+- [Learn Go: The complete course - Dev.to](https://dev.to/karanpratapsingh/learn-go-the-complete-course-plc)
 ## Courses
-
 - [Go: Getting Started - Pluralsight](https://www.pluralsight.com/courses/getting-started-with-go)
 - [Getting Started With Golang - Academind](https://pro.academind.com/p/golang-the-practical-guide)
 - [Go: The Complete Developer's Guide (Golang) - Stephen Grider - Udemy](https://www.udemy.com/course/go-the-complete-developers-guide/)
@@ -50,7 +51,8 @@
 - [Mario Carrion](https://www.youtube.com/user/mariocarrion)
 - [Donald Feury](https://www.youtube.com/user/Dak4251)
 - [TutorialEdge](https://www.youtube.com/c/Tutorialedge/videos)
-
+- [TECHSCHOOLGURU](https://www.youtube.com/c/TECHSCHOOLGURU)
+- [KaranPratapSingh](https://www.youtube.com/c/KaranPratapSingh)
 ## Blogs
 
 - [Algorithms to Go](https://yourbasic.org/)
@@ -64,7 +66,7 @@
 - [Three Dots Labs](https://threedots.tech/)
 - [Eli Bendersky's website](https://eli.thegreenplace.net/)
 - [GopherAcademy Blog](https://blog.gopheracademy.com/)
-- []()
+- [Karan Pratap Singh](https://dev.to/karanpratapsingh)
 
 ## Books
 - [LET'S GO PROFESSIONAL](https://lets-go.alexedwards.net/)

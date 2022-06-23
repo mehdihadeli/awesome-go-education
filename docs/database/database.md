@@ -8,6 +8,9 @@
 - [Organising Database Access in Go](https://www.alexedwards.net/blog/organising-database-access)
 - [pq - A pure Go postgres driver for Go's database/sql package](https://pkg.go.dev/github.com/lib/pq)
 
+## Videos
+- [Design DB schema and generate SQL code with dbdiagram.io](https://www.youtube.com/watch?v=rx6CPDK_5mU)
+
 ## 📦 Libraries
 - [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go
 - [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package

@@ -15,6 +15,7 @@
 ## 📺 Videos
 - [gRPC - Nic Jackson - Playlist](https://www.youtube.com/playlist?list=PLmD8u-IFdreyyTx93jJ5GkijwDXFqyr3T)
 - [Building a gRPC Service in Golang: Server Streaming RPC (Tutorial)](https://www.youtube.com/watch?v=l_74x_qQZB8)
+- [The complete gRPC course [Golang, Java, Protobuf] - TECH SCHOOL Playlist](https://www.youtube.com/playlist?list=PLy_6D98if3UJd5hxWNfAqKMr15HZqFnqf)
 ## 🚀 Samples
 - [karankumarshreds/GoRPC](https://github.com/karankumarshreds/GoRPC) - Go RPC implementation using Go's standard http and rpc packages.
 - [AleksK1NG/Go-CQRS-Kafka-gRPC-Microservices](https://github.com/AleksK1NG/Go-CQRS-Kafka-gRPC-Microservices) - Go gRPC Kafka CQRS microservices with tracing
@@ -22,7 +23,7 @@
 - [AleksK1NG/Go-Kafka-gRPC-MongoDB-microservice](https://github.com/AleksK1NG/Go-Kafka-gRPC-MongoDB-microservice) - Go products microservice
 - [AleksK1NG/Go-gRPC-RabbitMQ-microservice](https://github.com/AleksK1NG/Go-gRPC-RabbitMQ-microservice) - Go gRPC RabbitMQ email microservice
 - [AleksK1NG/Go-GRPC-Auth-Microservice](https://github.com/AleksK1NG/Go-GRPC-Auth-Microservice) - Go GRPC Auth Microservice
-
+- [techschool/simplebank](https://github.com/techschool/simplebank)
 ## 📦 Libraries
 - [lileio/lile](https://github.com/lileio/lile) - Easily generate gRPC services in Go ⚡️
 - [go-masonry/mortar](https://github.com/go-masonry/mortar) - Mortar is a GO framework/library for building gRPC (and REST) web services.

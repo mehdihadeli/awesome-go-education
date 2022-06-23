@@ -10,7 +10,7 @@
 - [yehohanan7/flux](https://github.com/yehohanan7/flux) - A simple CQRS Framework for go
 - [andrewwebber/cqrs](https://github.com/andrewwebber/cqrs) - cqrs framework in go
 - [eyazici90/go-mediator](https://github.com/eyazici90/go-mediator) - Simple mediator implementation in go
-
+- [adzeitor/mediatr](https://github.com/adzeitor/mediatr) - Reflect based mediator for CQRS
 ## 🚀 Samples
 - [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring
 - [vardius/go-api-boilerplate](https://github.com/vardius/go-api-boilerplate) - Go Server/API boilerplate using best practices DDD CQRS ES gRPC

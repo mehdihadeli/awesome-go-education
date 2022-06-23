@@ -2,6 +2,12 @@
 - [Github Page](https://github.com/go-gorm/gorm)
 - [Website](https://gorm.io/)
 
+## Articles
+- [Connecting to PostgreSQL using GORM](https://dev.to/karanpratapsingh/connecting-to-postgresql-using-gorm-24fj)
+
+## Videos
+- [Build a REST API with Go - Connecting to PostgreSQL using GORM](https://www.youtube.com/watch?v=Yk5ZjKq4qDQ)
+
 ## 📦 Libraries
 - [hellokaton/gorm-paginator](https://github.com/hellokaton/gorm-paginator) - gorm pagination extension
 

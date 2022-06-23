@@ -67,6 +67,7 @@ nav:
     - Mux & Router :  web/mux-router.md
     - Rate Limiting :  web/rate-limiting.md
     - Response :  web/response.md
+    - Versioning :  web/versioning.md
   - Go Instructions:
     - Go: go-instructions/go.md
     - Control Flow: go-instructions/control-flow.md
@@ -153,6 +154,7 @@ nav:
   - Workspace && GOPATH: workspace-gopath.md
   - Tools: tools.md
   - Formatters: formatters.md
+  - CLI: cli.md
   - CI/CD: ci-cd.md
   - Resources: resources.md
   - Others: 

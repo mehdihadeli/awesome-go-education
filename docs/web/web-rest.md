@@ -34,10 +34,12 @@
 - [CRUD RESTful API with Go, GORM, JWT, Postgres, Mysql, and Testing](https://levelup.gitconnected.com/crud-restful-api-with-go-gorm-jwt-postgres-mysql-and-testing-460a85ab7121)
 - [Developing a RESTful API with Go](https://dev.to/kevwan/developing-a-restful-api-with-go-3jo5)
 - [Best practices on developing monolithic services in Go](https://dev.to/kevwan/best-practices-on-developing-monolithic-services-in-go-3c95)
+- [Build a REST API with Go - For Beginners](https://dev.to/karanpratapsingh/build-a-rest-api-with-go-for-beginners-3gp)
 ## 📺 Videos
 - [Let's go with golang - Hitesh Choudhary - Playlist](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa)
 - [Golang Crash Course - Pragmatic Reviews - Playlist](https://www.youtube.com/playlist?list=PL3eAkoh7fypqUQUQPn-bXtfiYT_ZSVKmB)
 - [Go REST API With MYSQL, GIN, GORM & JWT - Playlist](https://www.youtube.com/playlist?list=PLkVx132FdJZlTc_1gucKZ00b_s45DQlVQ)
+- [Backend master class [Golang, Postgres, Docker]](https://www.youtube.com/playlist?list=PLy_6D98if3ULEtXtNSY_2qN21VCKgoQAE)
 - [Golang Tutorials - CoderVlogger - Playlist](https://www.youtube.com/playlist?list=PLxa49UnOmIzr3Zm8DyzRlOwnXdgiYSJzA)
 - [GO - Clean Architecture](https://www.youtube.com/playlist?list=PL7Bs8ngpweC6KN8g1_LS4Be0bWXB23UKB)
 - [Creating a Go API using an ORM - Tutorial](https://www.youtube.com/watch?v=VAGodyl84OY&list=PLzUGFf4GhXBL4GHXVcMMvzgtO8-WEJIoY&index=6)
@@ -92,3 +94,4 @@
 - [johan-lejdung/go-microservice-api-guide/](https://github.com/johan-lejdung/go-microservice-api-guide/)
 - [victorsteven/Go-JWT-Postgres-Mysql-Restful-API](https://github.com/victorsteven/Go-JWT-Postgres-Mysql-Restful-API) - This is an API built with golang, jwt, gorm, postgresql, mysql
 - [solrac97gr/goHexagonalBlog](https://github.com/solrac97gr/goHexagonalBlog) - Boilerplate using Fiber 🚀 , Mongo, Hexagonal Architecture. Including a Blog explaining the components of the boilerplate.
+- [techschool/simplebank](https://github.com/techschool/simplebank)
