@@ -6,10 +6,17 @@
 # 🎨 Awesome Go Education [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 > A curated list of awesome articles and resources for learning and practicing Golang and its related technologies. This repository will update continuously. Keep Learning Keep Sharing !
 
+I created this repository to share a set of links that I found valuable and inspiring and I share them with others to improve our knowledge together ✌️. 
+
 **🚀 This awesome list is available in this link:**
 **[https://mehdihadeli.github.io/awesome-go-education](https://mehdihadeli.github.io/awesome-go-education/)**
 
 <a href="https://mehdihadeli.github.io/awesome-go-education"> ![home page](assets/home.png) </a>
+
+## 🙏 Special Thanks
+
+Thanks to the authors of the links for their valuable content, I gather them in one place for finding topics to read easier.
+
 
 ## Support ⭐
 
