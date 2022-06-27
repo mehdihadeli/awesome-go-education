@@ -115,6 +115,7 @@ nav:
     - gorm: database/orm/gorm.md
   - Logging: logging.md
   - DDD: ddd.md
+  - Repository: repository.md
   - Clean Architecture: clean-architecture.md
   - CQRS: cqrs.md
   - Event Sourcing: event-sourcing.md
@@ -146,6 +147,7 @@ nav:
   - Profiling: profiling.md
   - Debugging: debugging.md
   - Reflection: reflection.md
+  - Elastic Search: elastic.md
   - Anti Patterns: anti-patterns.md
   - Test: test.md
   - Docker Kubernetes: docker-kubernetes.md

@@ -9,7 +9,9 @@
 - [Combining DDD, CQRS, and Clean Architecture by refactoring a Go project](https://threedots.tech/post/ddd-cqrs-clean-architecture-combined/)
 - [Introduction to DDD Lite: When microservices in Go are not enough](https://threedots.tech/post/ddd-lite-in-go-introduction/)
 - [Domain Driven Design in Go](https://www.citerus.se/go-ddd/)
-
+- [Practical DDD in Golang: Value Object](https://levelup.gitconnected.com/practical-ddd-in-golang-value-object-4fc97bcad70)
+- [Practical DDD in Golang: Entity](https://levelup.gitconnected.com/practical-ddd-in-golang-entity-40d32bdad2a3)
+- [Practical DDD in Golang: Repository](https://levelup.gitconnected.com/practical-ddd-in-golang-repository-d308c9d79ba7)
 ## 📺 Videos
 - [Building an Enterprise Service in Go at Golang UK Conference 2016](https://www.youtube.com/watch?v=twcDf_Y2gXY)
 ## 🚀 Samples

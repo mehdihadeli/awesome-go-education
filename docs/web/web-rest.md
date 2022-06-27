@@ -95,3 +95,5 @@
 - [victorsteven/Go-JWT-Postgres-Mysql-Restful-API](https://github.com/victorsteven/Go-JWT-Postgres-Mysql-Restful-API) - This is an API built with golang, jwt, gorm, postgresql, mysql
 - [solrac97gr/goHexagonalBlog](https://github.com/solrac97gr/goHexagonalBlog) - Boilerplate using Fiber 🚀 , Mongo, Hexagonal Architecture. Including a Blog explaining the components of the boilerplate.
 - [techschool/simplebank](https://github.com/techschool/simplebank)
+- [herusdianto/gorm_crud_example/](https://github.com/herusdianto/gorm_crud_example/) - GoLang, GORM & Gin CRUD Example
+- [omrfrkazt/golang-generic-repository-pattern](https://github.com/omrfrkazt/golang-generic-repository-pattern) - Golang | Generic Repository Pattern

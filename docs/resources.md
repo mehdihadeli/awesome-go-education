@@ -29,7 +29,8 @@
 - [Go in One Evening](https://threedots.tech/go-in-one-evening)
 - [enocom/gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go
 - [Learn Go: The complete course](https://www.karanpratapsingh.com/courses/go)
-- [Learn Go: The complete course - Dev.to](https://dev.to/karanpratapsingh/learn-go-the-complete-course-plc)
+- [karanpratapsingh/go-course](https://github.com/karanpratapsingh/go-course) - Master the fundamentals and advanced features of the Go programming language
+- [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
 ## Courses
 - [Go: Getting Started - Pluralsight](https://www.pluralsight.com/courses/getting-started-with-go)
 - [Getting Started With Golang - Academind](https://pro.academind.com/p/golang-the-practical-guide)
@@ -43,7 +44,7 @@
 - [Web Development w/ Google’s Go (golang) Programming Language - Todd McLeod - Udemy](https://www.udemy.com/course/go-programming-language/)
 - [Building Modern Web Applications with Go (Golang) - Udemy](https://www.udemy.com/course/building-modern-web-applications-with-go/)
 - [REST based microservices API development in Golang - Udemy](https://www.udemy.com/course/rest-based-microservices-api-development-in-go-lang/)
-
+- [Golang - TutorialEdge.net](https://tutorialedge.net/course/golang/)
 ## Youtube Channel
 - [GolangCafe](https://www.youtube.com/c/GolangCafe)
 - [justforfunc: Programming in Go](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw)
@@ -53,6 +54,7 @@
 - [TutorialEdge](https://www.youtube.com/c/Tutorialedge/videos)
 - [TECHSCHOOLGURU](https://www.youtube.com/c/TECHSCHOOLGURU)
 - [KaranPratapSingh](https://www.youtube.com/c/KaranPratapSingh)
+- [Golang Dojo](https://www.youtube.com/c/GolangDojo)
 ## Blogs
 
 - [Algorithms to Go](https://yourbasic.org/)
@@ -67,7 +69,7 @@
 - [Eli Bendersky's website](https://eli.thegreenplace.net/)
 - [GopherAcademy Blog](https://blog.gopheracademy.com/)
 - [Karan Pratap Singh](https://dev.to/karanpratapsingh)
-
+- [BITFIELD CONSULTING](https://bitfieldconsulting.com/golang/)
 ## Books
 - [LET'S GO PROFESSIONAL](https://lets-go.alexedwards.net/)
 - [Learn Go With Tests](https://github.com/quii/learn-go-with-tests/releases)
