@@ -36,6 +36,7 @@
 - [A Crash Course on Concurrency & Parallelism in Go](https://levelup.gitconnected.com/a-crash-course-on-concurrency-parallelism-in-go-8ea935c9b0f8)
 - [Concurrency Patterns in Go](https://dev.to/karankumarshreds/concurrency-patterns-in-go-3jfc)
 - [Advanced concurrency patterns in Go](https://dev.to/karanpratapsingh/advanced-concurrency-patterns-in-go-2je1)
+- [Goroutines Under The Hood](https://osmh.dev/posts/goroutines-under-the-hood)
 ## 📺 Videos
 - [Concurrency in Go - Steve Hook - Playlist](https://www.youtube.com/playlist?list=PLsc-VaxfZl4do3Etp_xQ0aQBoC-x5BIgJ)
 - [Deadlocks: The Dark Side of Concurrency - Nick Craig-Wood](https://youtu.be/9j0oQkqzhAE)v

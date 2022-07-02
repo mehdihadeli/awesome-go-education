@@ -154,6 +154,7 @@ nav:
   - Software Architecture : software-architecture.md
   - Build & Install: build-install.md
   - Workspace && GOPATH: workspace-gopath.md
+  - Package Management: package-management.md
   - Tools: tools.md
   - Formatters: formatters.md
   - CLI: cli.md

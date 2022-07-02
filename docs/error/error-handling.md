@@ -16,8 +16,10 @@
 - [Error handling best practice](https://yourbasic.org/golang/errors-explained/)
 - [3 simple ways to create an error](https://yourbasic.org/golang/create-error/)
 - [Error handling in Go HTTP applicationse](https://www.joeshaw.org/error-handling-in-go-http-applications/)
-
+- [Input validation in GoLang](https://medium.com/@apzuk3/input-validation-in-golang-bc24cdec1835)
 ## 📦 Libraries
 - [mvmaasakkers/go-problemdetails](https://github.com/mvmaasakkers/go-problemdetails) - Problem json implementation (https://tools.ietf.org/html/rfc7807) package for go
 - [moogar0880/problems](https://github.com/moogar0880/problems) - RFC-7807 compliant library for describing HTTP errors
 - [mschneider82/problem](https://github.com/mschneider82/problem) - A go library that implements application/problem+json and application/problem+xml
+- [go-ozzo/ozzo-validation](https://github.com/go-ozzo/ozzo-validation) - An idiomatic Go (golang) validation package. Supports configurable and extensible validation rules (validators) using normal language constructs instead of error-prone struct tags.
+- [go-playground/validator](https://github.com/go-playground/validator) - Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving

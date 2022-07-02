@@ -4,6 +4,7 @@
 - [akutz/go-generics-the-hard-way](https://github.com/akutz/go-generics-the-hard-way) - A hands-on approach to getting started with Go generics.
 
 ## 📕 Articles
+- [Tutorial: Getting started with generics](https://go.dev/doc/tutorial/generics)
 - [Generics in Go](https://bitfieldconsulting.com/golang/generics)
 - [An Introduction To Generics](https://go.dev/blog/intro-generics)
 - [Generics Part 01: Basic Syntax](https://www.ardanlabs.com/blog/2020/07/generics-01-basic-syntax.html)

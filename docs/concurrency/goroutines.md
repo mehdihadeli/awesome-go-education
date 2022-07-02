@@ -11,5 +11,6 @@
 - [How to kill a goroutine](https://yourbasic.org/golang/stop-goroutine/)
 - [Go (golang) Goroutines - Running Functions Asynchronously](https://jeremybytes.blogspot.com/2021/01/go-golang-goroutines-running-functions.html)
 - [Go (golang) Anonymous Functions - Inlining Code for Goroutines](https://jeremybytes.blogspot.com/2021/02/go-golang-anonymous-functions-inlining.html)
+- [Goroutines Under The Hood](https://osmh.dev/posts/goroutines-under-the-hood)
 ## 📺 Videos
 - [Go Goroutine Tutorial - Concurrency in Go](https://www.youtube.com/watch?v=ARHXmR0_MGY)

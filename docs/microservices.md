@@ -15,6 +15,8 @@
 - [Go gRPC Clean architecture microservice with Prometheus, Grafana monitoring and Jaeger opentracing](https://dev.to/aleksk1ng/go-grpc-clean-architecture-microservice-with-prometheus-grafana-monitoring-and-jaeger-opentracing-51om)
 - [Using GraphQL with Microservices in Go](https://outcrawl.com/go-graphql-gateway-microservices)
 - [Building a Microservices Application in Go Following the CQRS Pattern](https://outcrawl.com/go-microservices-cqrs-docker)
+- [Microservices in Go with gRPC, API Gateway, and Authentication — Part 1/2](https://levelup.gitconnected.com/microservices-with-go-grpc-api-gateway-and-authentication-part-1-2-393ad9fc9d30)
+- [Microservices in Go with gRPC, API Gateway, and Authentication — Part 2/2](https://levelup.gitconnected.com/microservices-in-go-with-grpc-api-gateway-and-authentication-ba36cc32d167)
 ## 📺 Videos
 - [Building Microservices with Go - Nic Jackson - Playlist](https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_)
 - [Golang Microservices: Project Layout and Domain Driven Design](https://www.youtube.com/watch?v=LUvid5TJ81Y)

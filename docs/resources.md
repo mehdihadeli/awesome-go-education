@@ -31,6 +31,15 @@
 - [Learn Go: The complete course](https://www.karanpratapsingh.com/courses/go)
 - [karanpratapsingh/go-course](https://github.com/karanpratapsingh/go-course) - Master the fundamentals and advanced features of the Go programming language
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
+- [softchris/golang-book](https://github.com/softchris/golang-book) - A book on Go, contains fundamentals but also recipes
+- [blasrodri/spaceship-go](https://github.com/blasrodri/spaceship-go) - Spaceship Go - A journey into the Standard Library
+- [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
+- [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
+- [callicoder/golang-tutorials](https://github.com/callicoder/golang-tutorials) - Golang Tutorials. Learn Golang from Scratch with simple examples.
+- [miekg/learninggo](https://github.com/miekg/learninggo) - Learning Go Book in mmark
+- [go101/go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics and runtime related things
+- [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
+- [Go Programming language tutorials](https://www.reddit.com/r/golang/comments/9q0s37/go_programming_language_tutorials/)
 ## Courses
 - [Go: Getting Started - Pluralsight](https://www.pluralsight.com/courses/getting-started-with-go)
 - [Getting Started With Golang - Academind](https://pro.academind.com/p/golang-the-practical-guide)
@@ -45,6 +54,7 @@
 - [Building Modern Web Applications with Go (Golang) - Udemy](https://www.udemy.com/course/building-modern-web-applications-with-go/)
 - [REST based microservices API development in Golang - Udemy](https://www.udemy.com/course/rest-based-microservices-api-development-in-go-lang/)
 - [Golang - TutorialEdge.net](https://tutorialedge.net/course/golang/)
+
 ## Youtube Channel
 - [GolangCafe](https://www.youtube.com/c/GolangCafe)
 - [justforfunc: Programming in Go](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw)
@@ -70,9 +80,9 @@
 - [GopherAcademy Blog](https://blog.gopheracademy.com/)
 - [Karan Pratap Singh](https://dev.to/karanpratapsingh)
 - [BITFIELD CONSULTING](https://bitfieldconsulting.com/golang/)
+- [Go 101](https://go101.org/)
 ## Books
 - [LET'S GO PROFESSIONAL](https://lets-go.alexedwards.net/)
-- [Learn Go With Tests](https://github.com/quii/learn-go-with-tests/releases)
 - [Let's Go Further](https://lets-go-further.alexedwards.net/)
 - [Ultimate Go Notebook](https://education.ardanlabs.com/courses/ultimate-go-notebook)
 - [Go Web Programming](https://www.manning.com/books/go-web-programming)
@@ -80,5 +90,4 @@
 - [Go With The Domain](https://threedots.tech/go-with-the-domain)
 - [Golang 101 hacks](https://nanxiao.gitbooks.io/golang-101-hacks/content/)
 - [Concurrency in Go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/)
-- [Spaceship Go](https://blasrodri.github.io/spaceship-go-gh-pages/cover.html)
 
