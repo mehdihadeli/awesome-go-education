@@ -16,8 +16,8 @@
 - [Go Resources](https://github.com/gophertuts/go-basics/tree/master/go-learning-resources)
 - [Golang Development - TutorialEdge.net](https://tutorialedge.net/golang/)
 - [Learn Go with test-driven development](https://github.com/quii/learn-go-with-tests)
-- [Practical Go Lessons](https://www.practical-go-lessons.com/) - Learning Golang one day
-- [Golang training GitHub](https://github.com/go-training/training)
+- [Practical Go Lessons](https://www.practical-go-lessons.com/) 
+- [Golang training GitHub](https://github.com/go-training/training) - Learning Golang one day
 - [The Uber Go Style Guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
 - [teh-cmc/go-internals](https://github.com/teh-cmc/go-internals) - A book about the internals of the Go programming language.
