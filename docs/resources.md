@@ -11,7 +11,6 @@
 - [Go by Example](https://gobyexample.com/)
 - [Build Web Application with Golang](https://github.com/astaxie/build-web-application-with-golang)
 - [Golang tutorial series](https://golangbot.com/learn-golang-series/)
-- [Go 101](https://go101.org/article/101.html)
 - [How To Code in Go](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-go)
 - [Golang Comprehensive Tutorial Series](https://golangbyexample.com/golang-comprehensive-tutorial/)
 - [Go Resources](https://github.com/gophertuts/go-basics/tree/master/go-learning-resources)
