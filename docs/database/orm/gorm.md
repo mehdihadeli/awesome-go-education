@@ -8,7 +8,7 @@
 - [Pagination using Gorm scopes](https://dev.to/rafaelgfirmino/pagination-using-gorm-scopes-3k5f)
 ## Videos
 - [Build a REST API with Go - Connecting to PostgreSQL using GORM](https://www.youtube.com/watch?v=Yk5ZjKq4qDQ)
-
+- [Golang Microservices: PostgreSQL: gorm and sqlboiler](https://www.youtube.com/watch?v=CT2v0Xas8Sc)
 ## 📦 Libraries
 - [hellokaton/gorm-paginator](https://github.com/hellokaton/gorm-paginator) - gorm pagination extension
 

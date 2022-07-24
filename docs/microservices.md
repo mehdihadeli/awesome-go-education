@@ -90,3 +90,5 @@
 - [AleksK1NG/Go-GRPC-Auth-Microservice](https://github.com/AleksK1NG/Go-GRPC-Auth-Microservice) - Go GRPC Auth Microservice
 - [Mikaelemmmm/go-zero-looklook](https://github.com/Mikaelemmmm/go-zero-looklook) - Develop best practice projects based on the full technology stack of go zero (go zero) microservices.
 - [shijuvar/go-distributed-sys](https://github.com/shijuvar/go-distributed-sys) - An example for building event-driven distributed systems and microservices in Go with NATS JetStream, gRPC and CockroachDB
+- [hellokvn/go-grpc-product-svc](https://github.com/hellokvn/go-grpc-product-svc)
+- [batazor/microservice-template-ddd](https://github.com/batazor/microservice-template-ddd) - Golnag microservice-template by DDD

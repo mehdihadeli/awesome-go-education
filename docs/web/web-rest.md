@@ -35,6 +35,8 @@
 - [Developing a RESTful API with Go](https://dev.to/kevwan/developing-a-restful-api-with-go-3jo5)
 - [Best practices on developing monolithic services in Go](https://dev.to/kevwan/best-practices-on-developing-monolithic-services-in-go-3c95)
 - [Build a REST API with Go - For Beginners](https://dev.to/karanpratapsingh/build-a-rest-api-with-go-for-beginners-3gp)
+- [Build a RESTful API on Go: Fiber, PostgreSQL, JWT and Swagger docs in isolated Docker containers](https://dev.to/koddr/build-a-restful-api-on-go-fiber-postgresql-jwt-and-swagger-docs-in-isolated-docker-containers-475j)
+- [Implement RESTful HTTP API in Go using Gin](https://dev.to/techschoolguru/implement-restful-http-api-in-go-using-gin-4ap1)
 ## 📺 Videos
 - [Let's go with golang - Hitesh Choudhary - Playlist](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa)
 - [Golang Crash Course - Pragmatic Reviews - Playlist](https://www.youtube.com/playlist?list=PL3eAkoh7fypqUQUQPn-bXtfiYT_ZSVKmB)
@@ -97,3 +99,5 @@
 - [techschool/simplebank](https://github.com/techschool/simplebank)
 - [herusdianto/gorm_crud_example/](https://github.com/herusdianto/gorm_crud_example/) - GoLang, GORM & Gin CRUD Example
 - [omrfrkazt/golang-generic-repository-pattern](https://github.com/omrfrkazt/golang-generic-repository-pattern) - Golang | Generic Repository Pattern
+- [koddr/tutorial-go-fiber-rest-api](https://github.com/koddr/tutorial-go-fiber-rest-api) - Build a RESTful API on Go: Fiber, PostgreSQL, JWT and Swagger docs in isolated Docker containers.
+- [create-go-app/fiber-go-template](https://github.com/create-go-app/fiber-go-template) - Production-ready backend template with Fiber Go Web Framework for Create Go App CLI.

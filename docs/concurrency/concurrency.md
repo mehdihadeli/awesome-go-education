@@ -37,6 +37,7 @@
 - [Concurrency Patterns in Go](https://dev.to/karankumarshreds/concurrency-patterns-in-go-3jfc)
 - [Advanced concurrency patterns in Go](https://dev.to/karanpratapsingh/advanced-concurrency-patterns-in-go-2je1)
 - [Goroutines Under The Hood](https://osmh.dev/posts/goroutines-under-the-hood)
+- [Asynq: simple, reliable & efficient distributed task queue for your next Go project](https://dev.to/koddr/asynq-simple-reliable-efficient-distributed-task-queue-for-your-next-go-project-4jhg)
 ## 📺 Videos
 - [Concurrency in Go - Steve Hook - Playlist](https://www.youtube.com/playlist?list=PLsc-VaxfZl4do3Etp_xQ0aQBoC-x5BIgJ)
 - [Deadlocks: The Dark Side of Concurrency - Nick Craig-Wood](https://youtu.be/9j0oQkqzhAE)v
@@ -51,5 +52,8 @@
 - [Concurrency vs Parallelism](https://www.youtube.com/watch?v=Y1pgpn2gOSg)
 - [Golang for C# Developers - Concurrency](https://www.youtube.com/watch?v=aEI7nIfvyRU)
 
+## Libraries
+- [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
+- [modern-go/concurrent](https://github.com/modern-go/concurrent) - concurrency utilities
 ## Books
 - [Concurrency in Go: Tools and Techniques for Developers](https://www.amazon.com/Concurrency-Go-Tools-Techniques-Developers/dp/1491941197)

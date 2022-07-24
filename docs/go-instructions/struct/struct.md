@@ -25,3 +25,6 @@
 ## 📺 Videos
 - [Golang for C# Developers - interface, struct and class](https://www.youtube.com/watch?v=MQutoEgJF8I)
 - [Golang for C# Developers - Struct & Class](https://www.youtube.com/watch?v=b9Gfb3p0ijY)
+
+## Libraries
+- [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa.

@@ -37,6 +37,7 @@
 - [go101/go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics and runtime related things
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [Go Programming language tutorials](https://www.reddit.com/r/golang/comments/9q0s37/go_programming_language_tutorials/)
+- [How to Golang Series](https://dev.to/koddr/series/4444)
 ## Courses
 - [Go: Getting Started - Pluralsight](https://www.pluralsight.com/courses/getting-started-with-go)
 - [Getting Started With Golang - Academind](https://pro.academind.com/p/golang-the-practical-guide)
@@ -78,6 +79,8 @@
 - [Karan Pratap Singh](https://dev.to/karanpratapsingh)
 - [BITFIELD CONSULTING](https://bitfieldconsulting.com/golang/)
 - [Go 101](https://go101.org/)
+- [Vic Shóstak's](https://dev.to/koddr)
+- [TECH SCHOOL](https://dev.to/techschoolguru)
 ## Books
 - [LET'S GO PROFESSIONAL](https://lets-go.alexedwards.net/)
 - [Let's Go Further](https://lets-go-further.alexedwards.net/)

@@ -5,10 +5,9 @@
 
 I created this repository to share a set of links that I found valuable and inspiring and I share them with others to improve our knowledge together ✌️. 
 
-**🚀 This awesome list is available in this link:**
+**🚀 Go ahead to the official page here:**
 **[https://mehdihadeli.github.io/awesome-go-education](https://mehdihadeli.github.io/awesome-go-education/)**
 
-<a href="https://mehdihadeli.github.io/awesome-go-education"> ![home page](assets/home.png) </a>
 
 ## 🙏 Special Thanks
 
