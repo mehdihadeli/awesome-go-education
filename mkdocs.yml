@@ -149,6 +149,7 @@ nav:
   - Serialization: serialization.md
   - Environment: environment.md
   - Mappings: mappings.md
+  - Benchmarks: benchmarks.md
   - Debugging: debugging.md
   - Reflection: reflection.md
   - Elastic Search: elastic.md

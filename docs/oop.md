@@ -21,6 +21,7 @@
 - [Loose Coupling in Go lang](https://8thlight.com/blog/javier-saldana/2015/02/06/loose-coupling-in-go-lang.html)
 - [interface design principles using Golang](https://programmer.group/interface-design-principles-using-golang.html)
 - [Embedding in Go: Part 1 - structs in structs](https://eli.thegreenplace.net/2020/embedding-in-go-part-1-structs-in-structs/)
+- [GOLANG: Call inherited constructor](http://arch-stable.blogspot.com/2012/05/golang-call-inherited-constructor.html)
 ## 📺 Videos
 - [Golang Object Oriented](https://www.youtube.com/watch?v=fLvMfrSRPmQ)
 - [Go can do OOP too, sorta - Go / Golang OOP Tutorial ](https://www.youtube.com/watch?v=fTFru0Zha-c)

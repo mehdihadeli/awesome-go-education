@@ -12,6 +12,8 @@
 - [andrewwebber/cqrs](https://github.com/andrewwebber/cqrs) - cqrs framework in go
 - [eyazici90/go-mediator](https://github.com/eyazici90/go-mediator) - Simple mediator implementation in go
 - [adzeitor/mediatr](https://github.com/adzeitor/mediatr) - Reflect based mediator for CQRS
+- [mehdihadeli/Go-MediatR](https://github.com/mehdihadeli/Go-MediatR) - Mediator pattern implementation in Golang and helpful in creating CQRS based applications.
+- [erni27/mob](https://github.com/erni27/mob) - mob is a generic-based, simple mediator and observer library. It supports in-process requests / events processing.
 ## 🚀 Samples
 - [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring
 - [vardius/go-api-boilerplate](https://github.com/vardius/go-api-boilerplate) - Go Server/API boilerplate using best practices DDD CQRS ES gRPC

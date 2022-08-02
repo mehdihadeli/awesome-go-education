@@ -55,5 +55,7 @@
 ## Libraries
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
 - [modern-go/concurrent](https://github.com/modern-go/concurrent) - concurrency utilities
+- [panjf2000/ants](https://github.com/panjf2000/ants) - ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants
+
 ## Books
 - [Concurrency in Go: Tools and Techniques for Developers](https://www.amazon.com/Concurrency-Go-Tools-Techniques-Developers/dp/1491941197)

@@ -22,9 +22,11 @@
 - [10 things you (probably) don't know about Go ](https://talks.golang.org/2012/10things.slide#1)
 - [What Are Golang’s Anonymous Structs?](https://qvault.io/golang/anonymous-structs-golang/)
 - [Struct in Go (Golang)](https://golangbyexample.com/struct-in-golang-complete-guide/)
+- [Different Ways to Initialize Go structs](https://asankov.dev/blog/2022/01/29/different-ways-to-initialize-go-structs/)
 ## 📺 Videos
 - [Golang for C# Developers - interface, struct and class](https://www.youtube.com/watch?v=MQutoEgJF8I)
 - [Golang for C# Developers - Struct & Class](https://www.youtube.com/watch?v=b9Gfb3p0ijY)
 
 ## Libraries
 - [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa.
+- [Ompluscator/dynamic-struct](https://github.com/Ompluscator/dynamic-struct) - Golang package for editing struct's fields during runtime and mapping structs to other structs.

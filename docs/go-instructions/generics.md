@@ -17,6 +17,7 @@
 - [Generics and Value Types in Golang](https://www.dolthub.com/blog/2022-04-01-fast-generics/)
 - [Understanding generics in Go 1.18](https://blog.logrocket.com/understanding-generics-go-1-18/)
 - [Exploring Go v1.18’s Generics](https://bignerdranch.com/blog/exploring-go-v1-18s-generics/)
+- [How to use Golang generics with structs](https://itnext.io/how-to-use-golang-generics-with-structs-8cabc9353d75)
 ## Videos
 - [Learning Generics In Go](https://www.youtube.com/watch?v=fpLz-SRZ2ho)
 - [Refactor Cloud applications in Go 1.18 with generics](https://www.youtube.com/watch?v=-F2t3oInqKE)
