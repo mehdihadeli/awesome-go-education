@@ -136,9 +136,11 @@ nav:
     - Panic: error/panic.md
   - File: file.md
   - Modules & Packages: modules-packages.md
-  - Json: json.md
   - gRPC: gRPC.md
   - Context: context.md
+  - Data Structure: data-structure.
+  - LINQ: linq.md
+  - Authentication: authentication.md
   - Microservices : microservices.md
   - Service Discovery : service-discovery.md
   - Tracing: tracing.md
@@ -146,7 +148,7 @@ nav:
   - Project Layout & Structure : project-layout-structure.md
   - API Documentation: api-documentation.md
   - Profiling: profiling.md
-  - Serialization: serialization.md
+  - Serialization & Json: serialization.md
   - Environment: environment.md
   - Mappings: mappings.md
   - Benchmarks: benchmarks.md

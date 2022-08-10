@@ -11,7 +11,7 @@
 - [Golang Microservices: PostgreSQL: gorm and sqlboiler](https://www.youtube.com/watch?v=CT2v0Xas8Sc)
 ## 📦 Libraries
 - [hellokaton/gorm-paginator](https://github.com/hellokaton/gorm-paginator) - gorm pagination extension
-
+- [go-gormigrate/gormigrate](https://github.com/go-gormigrate/gormigrate) - Minimalistic database migration helper for Gorm ORM
 ## 🚀 Samples
 - [gothinkster/golang-gin-realworld-example-app](https://github.com/gothinkster/golang-gin-realworld-example-app) - Exemplary real world application built with Golang + Gin
 - [ybkuroki/go-webapp-sample](https://github.com/ybkuroki/go-webapp-sample) - golang, echo, gorm

@@ -101,3 +101,7 @@
 - [omrfrkazt/golang-generic-repository-pattern](https://github.com/omrfrkazt/golang-generic-repository-pattern) - Golang | Generic Repository Pattern
 - [koddr/tutorial-go-fiber-rest-api](https://github.com/koddr/tutorial-go-fiber-rest-api) - Build a RESTful API on Go: Fiber, PostgreSQL, JWT and Swagger docs in isolated Docker containers.
 - [create-go-app/fiber-go-template](https://github.com/create-go-app/fiber-go-template) - Production-ready backend template with Fiber Go Web Framework for Create Go App CLI.
+
+## Recipes
+- [gofiber/recipes](https://github.com/gofiber/recipes) - Examples for 🚀 Fiber
+- [labstack/echox](https://github.com/labstack/echox) - Echo cookbook and website

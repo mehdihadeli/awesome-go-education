@@ -25,6 +25,7 @@
 - [Implement bidirectional streaming gRPC - Go](https://dev.to/techschoolguru/implement-bidirectional-streaming-grpc-go-4kgn)
 - [Upload file in chunks with client-streaming gRPC - Go](https://dev.to/techschoolguru/upload-file-in-chunks-with-client-streaming-grpc-golang-4loc)
 - [Load balancing gRPC service with Nginx](https://dev.to/techschoolguru/load-balancing-grpc-service-with-nginx-3fio)
+- [.NET 6: Enhance your gRPC client logs with a generic logging interceptor](https://anthonygiretti.com/2022/08/08/net-6-enhance-your-grpc-client-logs-with-a-generic-logging-interceptor/)
 ## 📺 Videos
 - [gRPC - Nic Jackson - Playlist](https://www.youtube.com/playlist?list=PLmD8u-IFdreyyTx93jJ5GkijwDXFqyr3T)
 - [Building a gRPC Service in Golang: Server Streaming RPC (Tutorial)](https://www.youtube.com/watch?v=l_74x_qQZB8)
