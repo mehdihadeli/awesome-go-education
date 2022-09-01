@@ -24,3 +24,6 @@
 - [Method Sets - Golang.org](https://go.dev/ref/spec#Method_sets)
 ## 📺 Videos
 - [Golang for C# Developers - interface, struct and class](https://www.youtube.com/watch?v=MQutoEgJF8I)
+
+## Samples
+- [yakuter/go-interfaces](https://github.com/yakuter/go-interfaces) - This repos has lots of Go interface usage and best practice examples

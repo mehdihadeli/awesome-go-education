@@ -3,6 +3,7 @@
 ## Articles
 - [How to write & run database migration in Golang](https://dev.to/techschoolguru/how-to-write-run-database-migration-in-golang-5h6g)
 - [DB Migration In Go Lang](https://medium.com/geekculture/db-migration-in-go-lang-d325effc55de)
+- [Migration Setup](https://dev.to/jacobsngoodwin/10-dependency-injection-and-app-demo-1pj5)
 ## Libaries
 - [golang-migrate/migrate](http://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [GuiaBolso/darwin](http://github.com/GuiaBolso/darwin)

@@ -4,6 +4,7 @@
 - [Testing](https://github.com/golang/go/wiki/Articles#testing)
 
 ## 📕 Articles
+- [Testing standard package guide](https://pkg.go.dev/testing@master)
 - [Unit Tests - Practical Go Lessons](https://www.practical-go-lessons.com/chap-19-unit-tests)
 - [Microservices test architecture. Can you sleep well without end-to-end tests?](https://threedots.tech/post/microservices-test-architecture/)
 - [4 practical principles of high-quality database integration tests in Go](https://threedots.tech/post/database-integration-testing/)
@@ -20,6 +21,10 @@
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers is a Golang library that providing a friendly API to run Docker container. 
 - [go-bdd/gobdd](https://github.com/go-bdd/gobdd) - BDD framework
+- [shogo82148/actions-goveralls](https://github.com/shogo82148/actions-goveralls) - Coveralls GitHub Action with Go integration powered by mattn/goveralls
+- [smartystreets/goconvey](https://github.com/smartystreets/goconvey) - Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.
+- [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
+- [orlangure/gnomock](https://github.com/orlangure/gnomock) - est your code without writing mocks with ephemeral Docker containers
 ## 🚀 Samples
 - [victorsteven/Unit-And-Integration-Testing](https://github.com/victorsteven/Unit-And-Integration-Testing) - A simple approach to understanding Unit and Integration testing in Golang
 - [bozd4g/fb.testcontainers](https://github.com/bozd4g/fb.testcontainers) - A sample Integration Testing with Docker Containers implementation written with Golang.

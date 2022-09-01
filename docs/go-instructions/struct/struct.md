@@ -23,6 +23,7 @@
 - [What Are Golang’s Anonymous Structs?](https://qvault.io/golang/anonymous-structs-golang/)
 - [Struct in Go (Golang)](https://golangbyexample.com/struct-in-golang-complete-guide/)
 - [Different Ways to Initialize Go structs](https://asankov.dev/blog/2022/01/29/different-ways-to-initialize-go-structs/)
+- [Type Embedding](https://go101.org/article/type-embedding.html)
 ## 📺 Videos
 - [Golang for C# Developers - interface, struct and class](https://www.youtube.com/watch?v=MQutoEgJF8I)
 - [Golang for C# Developers - Struct & Class](https://www.youtube.com/watch?v=b9Gfb3p0ijY)

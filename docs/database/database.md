@@ -28,6 +28,7 @@
 - [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL
 - [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Go driver for MongoDB
 - [georgysavva/scany](https://github.com/georgysavva/scany) - Library for scanning data from a database into Go structs and more
+- [bokwoon95/go-structured-query](https://github.com/bokwoon95/go-structured-query) - Type safe SQL query builder and struct mapper for Go
 ## Samples
 - [johanbrandhorst/grpc-postgres](https://github.com/johanbrandhorst/grpc-postgres) - An example repo of how I like to use postgres with gRPC
 - [x1unix/sbda-ledger](https://github.com/x1unix/sbda-ledger)

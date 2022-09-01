@@ -17,13 +17,18 @@
 - [Building a Microservices Application in Go Following the CQRS Pattern](https://outcrawl.com/go-microservices-cqrs-docker)
 - [Microservices in Go with gRPC, API Gateway, and Authentication — Part 1/2](https://levelup.gitconnected.com/microservices-with-go-grpc-api-gateway-and-authentication-part-1-2-393ad9fc9d30)
 - [Microservices in Go with gRPC, API Gateway, and Authentication — Part 2/2](https://levelup.gitconnected.com/microservices-in-go-with-grpc-api-gateway-and-authentication-ba36cc32d167)
+- [Go and ElasticSearch full-text search microservice in k8s](https://dev.to/aleksk1ng/go-and-elasticsearch-full-text-search-microservice-in-k8s-2o7g)
+- [Micro In Action](https://medium.com/@dche423/micro-in-action-1be29b057f2d)
+- [Micro In Action: Error Handling Across Service Boundaries](https://itnext.io/micro-in-action-error-handling-across-services-boundary-2f9f27821bd5)
+- [Micro In Action, Part 1: Getting Started](https://itnext.io/micro-in-action-getting-started-a79916ae3cac)
+- [Micro In Action, Part 2: An Ultimate Guide For Bootstrap](https://itnext.io/micro-in-action-part-2-71230f01d6fb)
 ## 📺 Videos
 - [Building Microservices with Go - Nic Jackson - Playlist](https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_)
 - [Golang Microservices: Project Layout and Domain Driven Design](https://www.youtube.com/watch?v=LUvid5TJ81Y)
 - [Building Microservices in Golang/Go - Mario Carrion](https://www.youtube.com/playlist?list=PL7yAAGMOat_Fn8sAXIk0WyBfK_sT1pohu)
 - [How I Built Microservices In Go In 30 Minutes](https://www.youtube.com/watch?v=bM6N-vgPlyQ)
 - [Building gRPC Microservices in Go](https://tutorialedge.net/courses/go-grpc-services-course/)
-
+- [Learn to build microservices: from code to K8s deployment in 60 minutes](https://www.youtube.com/watch?v=unRRnOfxa0s)
 ## 📦 Libraries
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [asim/go-micro](https://github.com/asim/go-micro) - A pluggable Go framework for distributed systems development
@@ -45,6 +50,7 @@
 - [micro/micro](https://github.com/micro/micro) - A distributed cloud operating system
 - [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go
 - [ThreeDotsLabs/watermill-amqp](https://github.com/ThreeDotsLabs/watermill-amqp) - AMQP Pub/Sub for the Watermill project.
+- [rookie-ninja/rk-boot](https://github.com/rookie-ninja/rk-boot) - Build microservice with rk-boot and let the team take over clean and tidy code.
 ## 🚀 Samples
 - [MarioCarrion/todo-api-microservice-example](https://github.com/MarioCarrion/todo-api-microservice-example) - Go microservice tutorial project using Domain Driven Design and Onion Architecture!
 - [go-kratos/beer-shop](https://github.com/go-kratos/beer-shop) - An online shop application, the complete microservices demo for kratos.
@@ -92,3 +98,4 @@
 - [shijuvar/go-distributed-sys](https://github.com/shijuvar/go-distributed-sys) - An example for building event-driven distributed systems and microservices in Go with NATS JetStream, gRPC and CockroachDB
 - [hellokvn/go-grpc-product-svc](https://github.com/hellokvn/go-grpc-product-svc)
 - [batazor/microservice-template-ddd](https://github.com/batazor/microservice-template-ddd) - Golnag microservice-template by DDD
+- [AleksK1NG/Go-Elasticsearch-RabbitMQ](https://github.com/AleksK1NG/Go-Elasticsearch-RabbitMQ)

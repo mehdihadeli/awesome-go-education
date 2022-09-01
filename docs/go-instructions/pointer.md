@@ -23,7 +23,11 @@
 - [Method_sets](https://golang.org/ref/spec#Method_sets)
 - [Understand Go pointers in less than 800 words or your money back](https://dave.cheney.net/2017/04/26/understand-go-pointers-in-less-than-800-words-or-your-money-back)
 - [Don't fear the pointer](https://bitfieldconsulting.com/golang/pointers)
-
+- [Unsafe Pointer Reference](https://pkg.go.dev/unsafe#Pointer)
+- [Type-Unsafe Pointers](https://go101.org/article/unsafe.html)
+- [unsafe.Pointer and system calls](https://blog.gopheracademy.com/advent-2017/unsafe-pointer-and-system-calls/)
+- [Safe use of unsafe.Pointer](https://blog.gopheracademy.com/advent-2019/safe-use-of-unsafe-pointer/)
+- [Understand Unsafe in Golang](https://www.pixelstech.net/article/1584241521-Understand-unsafe-in-GoLang)
 ## 📺 Videos
 - [When You Should Actually Use Pointers In Go](https://www.youtube.com/watch?v=feinHNLSHWI)
 - [Golang pointers explained, once and for all](https://www.youtube.com/watch?v=sTFJtxJXkaY)

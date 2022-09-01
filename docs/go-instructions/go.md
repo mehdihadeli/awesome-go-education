@@ -12,6 +12,7 @@
 - [About Go Language — An Overview](https://blog.learngoprogramming.com/about-go-language-an-overview-f0bee143597c)
 - [The Go Language - Practical Go Lessons](https://www.practical-go-lessons.com/chap-2-the-go-language)
 - [Why Go? – Key advantages you may have overlooked](https://yourbasic.org/golang/advantages-over-java-python/)
+- [Go is Boring…And That’s Fantastic!](https://medium.com/capital-one-tech/go-is-boring-and-thats-fantastic-d350ebdc4748)
 ## 📺 Videos
 - [Let's go with golang - Hitesh Choudhary - Playlist](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa)
 - [Learning Go/Golang - Mario Carrion - Playlist](https://www.youtube.com/playlist?list=PL7yAAGMOat_F7bOImcjx4ZnCtfyNEqzCy)

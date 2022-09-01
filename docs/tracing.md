@@ -8,8 +8,17 @@
 - [Go gRPC Clean architecture microservice with Prometheus, Grafana monitoring and Jaeger opentracing](https://dev.to/aleksk1ng/go-grpc-clean-architecture-microservice-with-prometheus-grafana-monitoring-and-jaeger-opentracing-51om)
 - [AleksK1NG/Go-GRPC-Auth-Microservice](https://github.com/AleksK1NG/Go-GRPC-Auth-Microservice) - Go GRPC Auth Microservice
 
+## Videos
+- [Golang Microservices: Observability using OpenTelemetry](https://www.youtube.com/watch?v=bytCFQJ43DE)
+- [Introduction to Tracing : OpenTelemetry & Opentracing](https://www.youtube.com/watch?v=idDu_jXqf4E)
+- [OpenTelemetry Deep Dive: Golang](https://www.youtube.com/watch?v=yQpyIrdxmQc)
+
+## Libraries
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector
+- [open-telemetry/opentelemetry-collector/](https://github.com/open-telemetry/opentelemetry-collector/) - OpenTelemetry Collector
 ## 🚀 Samples
 - [AleksK1NG/Go-CQRS-Kafka-gRPC-Microservices](https://github.com/AleksK1NG/Go-CQRS-Kafka-gRPC-Microservices) - Go gRPC Kafka CQRS microservices with tracing
 - [AleksK1NG/Go-NATS-Streaming-gRPC-PostgreSQL](https://github.com/AleksK1NG/Go-NATS-Streaming-gRPC-PostgreSQL) - Go Nats Streaming gRPC PostgerSQL emails microservice
 - [AleksK1NG/Go-Kafka-gRPC-MongoDB-microservice](https://github.com/AleksK1NG/Go-Kafka-gRPC-MongoDB-microservice) - Go products microservice
 - [AleksK1NG/Go-gRPC-RabbitMQ-microservice](https://github.com/AleksK1NG/Go-gRPC-RabbitMQ-microservice) - Go gRPC RabbitMQ email microservice
+- [open-telemetry/opentelemetry-collector-contrib/examples/demo](https://github.com/open-telemetry/opentelemetry-collector-contrib/tree/main/examples/demo)

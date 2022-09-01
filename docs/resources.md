@@ -38,6 +38,7 @@
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [Go Programming language tutorials](https://www.reddit.com/r/golang/comments/9q0s37/go_programming_language_tutorials/)
 - [How to Golang Series](https://dev.to/koddr/series/4444)
+- [shichao-an/notes](https://github.com/shichao-an/notes) - Shichao's Notes
 ## Courses
 - [Go: Getting Started - Pluralsight](https://www.pluralsight.com/courses/getting-started-with-go)
 - [Getting Started With Golang - Academind](https://pro.academind.com/p/golang-the-practical-guide)
