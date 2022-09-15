@@ -13,5 +13,7 @@
 - [Go (golang) Anonymous Functions - Inlining Code for Goroutines](https://jeremybytes.blogspot.com/2021/02/go-golang-anonymous-functions-inlining.html)
 - [Goroutines Under The Hood](https://osmh.dev/posts/goroutines-under-the-hood)
 - [Asynchronous programming with Go](https://medium.com/@gauravsingharoy/asynchronous-programming-with-go-546b96cd50c1)
+- [Goroutine leak](https://medium.com/golangspec/goroutine-leak-400063aef468)
+- [Synchronized goroutines (part I)](https://medium.com/golangspec/synchronized-goroutines-part-i-4fbcdd64a4ec)
 ## 📺 Videos
 - [Go Goroutine Tutorial - Concurrency in Go](https://www.youtube.com/watch?v=ARHXmR0_MGY)

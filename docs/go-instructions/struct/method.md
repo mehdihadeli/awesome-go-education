@@ -19,5 +19,8 @@
 - [Interface Types - Golang.org](https://go.dev/ref/spec#Interface_types)
 - [Things about the golang | method set](https://developpaper.com/things-about-the-golang-method-set/)
 - [Methods in Go - go101.org](https://go101.org/article/method.html)
+- [Pointer receiver methods and iteration variables](https://medium.com/golangspec/pointer-receiver-methods-and-iteration-variables-f61ff53376cf)
+- [Methods in Go (part I)](https://medium.com/golangspec/methods-in-go-part-i-a4e575dff860)
+- [Methods in Go (part II)](https://medium.com/golangspec/methods-in-go-part-ii-2b4cc42c5cb6)
 ## 📺 Videos
 - [Go Syntax - Method Sets](https://www.youtube.com/watch?v=Z5cvLOrWlLM)

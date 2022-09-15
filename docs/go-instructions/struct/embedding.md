@@ -13,3 +13,4 @@
 - [TYPE EMBEDDING IN GO](https://bitek.dev/blog/go_type_embedding/)
 - [Inheritance using Interface](https://golangbyexample.com/inheritance-go-interface/)
 - [Inheritance in GO using interface + struct](https://golangbyexample.com/inheritance-go-interface-struct/)
+- [Type Embedding](https://go101.org/article/type-embedding.html)

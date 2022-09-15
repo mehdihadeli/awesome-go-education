@@ -40,6 +40,10 @@
 - [Asynq: simple, reliable & efficient distributed task queue for your next Go project](https://dev.to/koddr/asynq-simple-reliable-efficient-distributed-task-queue-for-your-next-go-project-4jhg)
 - [Go, Generics, and Concurrency](https://medium.com/@jon_43067/go-generics-and-concurrency-d0dccab73a73)
 - [Asynchronous programming with Go](https://medium.com/@gauravsingharoy/asynchronous-programming-with-go-546b96cd50c1)
+- [Goroutine leak](https://medium.com/golangspec/goroutine-leak-400063aef468)
+- [Synchronized goroutines (part I)](https://medium.com/golangspec/synchronized-goroutines-part-i-4fbcdd64a4ec)
+- [Data Race Patterns in Go](https://www.uber.com/en-PT/blog/data-race-patterns-in-go/)
+- [On concurrency in Go HTTP servers](https://eli.thegreenplace.net/2019/on-concurrency-in-go-http-servers/)
 ## 📺 Videos
 - [Concurrency in Go - Steve Hook - Playlist](https://www.youtube.com/playlist?list=PLsc-VaxfZl4do3Etp_xQ0aQBoC-x5BIgJ)
 - [Deadlocks: The Dark Side of Concurrency - Nick Craig-Wood](https://youtu.be/9j0oQkqzhAE)v

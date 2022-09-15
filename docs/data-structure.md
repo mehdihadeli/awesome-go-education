@@ -5,3 +5,4 @@
 - [zyedidia/generic](https://github.com/zyedidia/generic) - A collection of generic data structures written in Go.
 - [go-typ/typ](https://github.com/go-typ/typ) - Generic types and functions that are missing from Go, including sets, linked lists, trees, etc.
 - [golang-design/go2generics](https://github.com/golang-design/go2generics) - A chunk of experiments and demos about Go 2 
+- [oleiade/lane](https://github.com/oleiade/lane) - Generic PriorityQueues, Queues, Stacks, and Deque data structures for Go

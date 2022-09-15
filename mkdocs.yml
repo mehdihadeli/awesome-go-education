@@ -72,7 +72,7 @@ nav:
   - Go Instructions:
     - Go: go-instructions/go.md
     - Control Flow: go-instructions/control-flow.md
-    - Conversion: go-instructions/conversion.md
+    - Conversion & Assertion: go-instructions/conversion-assertion.md
     - Dep: go-instructions/dep.md
     - Function:
       - Function: go-instructions/functions/function.md
@@ -92,18 +92,19 @@ nav:
       - Interface: go-instructions/interface/interface.md
       - Type Assertion: go-instructions/interface/type-assertion.md
       - Type Switch: go-instructions/interface/type-switch.md
-      - Embedding: go-instructions/interface/embedding.md
     - Loops: go-instructions/loops.md
     - Pointer: go-instructions/pointer.md
     - Struct:
       - Struct: go-instructions/struct/struct.md
       - Struct Tags: go-instructions/struct/struct-tags.md
       - Method: go-instructions/struct/method.md
+      - Embedding: go-instructions/struct/embedding.md
     - Switch: go-instructions/switch.md  
     - Generics: go-instructions/generics.md
     - Variables: go-instructions/variables.md
     - New & Make: go-instructions/new-make.md
     - Enums: go-instructions/enum.md
+    - Equality: o-instructions/equality.md
     - Data Types:
       - Data Types: go-instructions/data-types/data-types.md
       - Strings: go-instructions/data-types/strings.md
@@ -151,6 +152,7 @@ nav:
   - Project Layout & Structure : project-layout-structure.md
   - API Documentation: api-documentation.md
   - Profiling: profiling.md
+  - Caching: caching.md
   - Serialization & Json: serialization.md
   - Environment: environment.md
   - Mappings: mappings.md
@@ -169,6 +171,7 @@ nav:
   - ID: id.md
   - Tools: tools.md
   - Utils: utils.md
+  - Netlify: netlify.md
   - Formatters: formatters.md
   - CLI: cli.md
   - CI/CD: ci-cd.md

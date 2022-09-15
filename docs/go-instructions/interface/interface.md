@@ -22,6 +22,8 @@
 - [Method Pointer Receivers in Interfaces](https://sentry.io/answers/interface-pointer-receiver/)
 - [Summary to the difference between T and T* method sets in Go](https://gronskiy.com/posts/2020-04-golang-pointer-vs-value-methods/)
 - [Method Sets - Golang.org](https://go.dev/ref/spec#Method_sets)
+- [Interfaces in Go (part I)](https://medium.com/golangspec/interfaces-in-go-part-i-4ae53a97479c)
+- [Interfaces in Go (part III)](https://medium.com/golangspec/interfaces-in-go-part-iii-61f5e7c52fb5)
 ## 📺 Videos
 - [Golang for C# Developers - interface, struct and class](https://www.youtube.com/watch?v=MQutoEgJF8I)
 
