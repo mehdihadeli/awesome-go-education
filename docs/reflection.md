@@ -14,6 +14,7 @@
 - [Using reflect, how do you set the value of a struct field?](https://stackoverflow.com/questions/6395076/)
 - [reflect.Addr() Function in Golang with Examples](https://www.geeksforgeeks.org/reflect-addr-function-in-golang-with-examples/)
 - [Manipulating Private Fields in Go](https://itnext.io/manipulating-private-fields-in-go-4da4ca525717)
+- [How to get the reflect.Type of an interface?](https://stackoverflow.com/questions/7132848/how-to-get-the-reflect-type-of-an-interface)
 ## Libraries
 - [oleiade/reflections](https://github.com/oleiade/reflections) - Golang high level abstractions over reflect library
 - [tkrajina/go-reflector](https://github.com/tkrajina/go-reflector) - Go reflection simplified

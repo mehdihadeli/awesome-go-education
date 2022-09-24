@@ -38,6 +38,7 @@
 - [gocon-spring-2016](http://dave.cheney.net/paste/gocon-spring-2016.pdf)
 - [Top 6 Golang Logging Best Practices](https://blog.boot.dev/golang/golang-logging-best-practices/)
 - [Go: Creating Custom Error Wrapper and Do Proper Error Equality Check](https://dev.to/tigorlazuardi/go-creating-custom-error-wrapper-and-do-proper-error-equality-check-11k7)
+- [Wrapping Errors in Go - How to Handle Nested Errors](https://blog.boot.dev/golang/wrapping-errors-in-go-how-to-handle-nested-errors/)
 ## Videos
 - [GopherCon 2016: Dave Cheney - Dont Just Check Errors Handle Them Gracefully](https://www.youtube.com/watch?v=lsBF58Q-DnY)
 - [GopherCon 2019: Marwan Sulaiman - Handling Go Errors](https://www.youtube.com/watch?v=4WIhhzTTd0Y)

@@ -86,7 +86,6 @@
 - [solrac97gr/goHexagonalBlog](https://github.com/solrac97gr/goHexagonalBlog)
 - [eddycjy/go-gin-example](https://github.com/eddycjy/go-gin-example) - An example of gin
 - [gothinkster/golang-gin-realworld-example-app](https://github.com/gothinkster/golang-gin-realworld-example-app) - Exemplary real world application built with Golang + Gin
-- [AkbaraliShaikh/denti](https://github.com/AkbaraliShaikh/denti) - This project is created to demonstrate Go-Lang Clean Architecture/DDD/Hexagonal Architecture, and It show the usage of popular libraries gin, 
 - [learning-cloud-native-go/myapp](https://github.com/learning-cloud-native-go/myapp) - How to build a Dockerized RESTful API application using Go.
 - [HON9LIN/go-echo-boilerplate](https://github.com/HON9LIN/go-echo-boilerplate)
 - [Massad/gin-boilerplate](https://github.com/Massad/gin-boilerplate) - Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go.
@@ -101,7 +100,7 @@
 - [omrfrkazt/golang-generic-repository-pattern](https://github.com/omrfrkazt/golang-generic-repository-pattern) - Golang | Generic Repository Pattern
 - [koddr/tutorial-go-fiber-rest-api](https://github.com/koddr/tutorial-go-fiber-rest-api) - Build a RESTful API on Go: Fiber, PostgreSQL, JWT and Swagger docs in isolated Docker containers.
 - [create-go-app/fiber-go-template](https://github.com/create-go-app/fiber-go-template) - Production-ready backend template with Fiber Go Web Framework for Create Go App CLI.
-
+- [allaboutapps/go-starter](https://github.com/allaboutapps/go-starter) - An opinionated production-ready SQL-/Swagger-first RESTful JSON API written in Go, highly integrated with VSCode DevContainers by allaboutapps.
 ## Recipes
 - [gofiber/recipes](https://github.com/gofiber/recipes) - Examples for 🚀 Fiber
 - [labstack/echox](https://github.com/labstack/echox) - Echo cookbook and website
