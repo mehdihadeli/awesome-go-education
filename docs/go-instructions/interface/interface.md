@@ -25,6 +25,7 @@
 - [Interfaces in Go (part I)](https://medium.com/golangspec/interfaces-in-go-part-i-4ae53a97479c)
 - [Interfaces in Go (part III)](https://medium.com/golangspec/interfaces-in-go-part-iii-61f5e7c52fb5)
 - [Best Practices for Interfaces in Go](https://blog.boot.dev/golang/golang-interfaces/)
+- [A Practical Guide to Interfaces in Golang](https://hackernoon.com/a-practical-guide-to-interfaces-in-golang)
 ## 📺 Videos
 - [Golang for C# Developers - interface, struct and class](https://www.youtube.com/watch?v=MQutoEgJF8I)
 

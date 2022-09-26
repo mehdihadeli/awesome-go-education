@@ -44,6 +44,9 @@
 - [Synchronized goroutines (part I)](https://medium.com/golangspec/synchronized-goroutines-part-i-4fbcdd64a4ec)
 - [Data Race Patterns in Go](https://www.uber.com/en-PT/blog/data-race-patterns-in-go/)
 - [On concurrency in Go HTTP servers](https://eli.thegreenplace.net/2019/on-concurrency-in-go-http-servers/)
+- [Comparing Optimistic and Pessimistic Locking With GO and PostgreSQL](https://hackernoon.com/comparing-optimistic-and-pessimistic-locking-with-go-and-postgresql)
+- [Postgres: Building concurrently safe upsert queries](https://devandchill.com/posts/2020/02/postgres-building-concurrently-safe-upsert-queries/)
+- [Postgres: Benchmarking concurrently safe upsert queries](https://devandchill.com/posts/2020/05/postgres-benchmarking-concurrently-safe-upsert-queries/)
 ## 📺 Videos
 - [Concurrency in Go - Steve Hook - Playlist](https://www.youtube.com/playlist?list=PLsc-VaxfZl4do3Etp_xQ0aQBoC-x5BIgJ)
 - [Deadlocks: The Dark Side of Concurrency - Nick Craig-Wood](https://youtu.be/9j0oQkqzhAE)v
