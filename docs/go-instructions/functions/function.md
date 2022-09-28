@@ -7,3 +7,4 @@
 - [The Zoo of Go Functions](https://blog.learngoprogramming.com/go-functions-overview-anonymous-closures-higher-order-deferred-concurrent-6799008dde7b)
 - [🐣 Go Funcs — Baby-Gopher’s Visual Guide](https://blog.learngoprogramming.com/golang-funcs-params-named-result-values-types-pass-by-value-67f4374d9c0a)
 - [Functions - Practical Go Lesson](https://www.practical-go-lessons.com/chap-10-functions)
+- [Dealing with Optional Parameters in Go](https://petomalina.medium.com/dealing-with-optional-parameters-in-go-9780f9bfbd1d)

@@ -8,3 +8,4 @@
 - [Variadic functions in Go](https://medium.com/rungo/variadic-function-in-go-5d9b23f4c01a)
 - [Ultimate Guide to Go Variadic Functions](https://blog.learngoprogramming.com/golang-variadic-funcs-how-to-patterns-369408f19085)
 - [GOLANG TUTORIAL - VARIADIC FUNCTIONS](https://www.bogotobogo.com/GoLang/GoLang_Variadic_Functions.php)
+- [Dealing with Optional Parameters in Go](https://petomalina.medium.com/dealing-with-optional-parameters-in-go-9780f9bfbd1d)

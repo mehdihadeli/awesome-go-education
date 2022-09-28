@@ -1,6 +1,13 @@
 # Tracing
 
 ## Articles
+- [OpenTelemetry Go: All you need to know](https://lightstep.com/blog/opentelemetry-go-all-you-need-to-know)
+- [Why choose OpenTelemetry?](https://lightstep.com/blog/why-choose-opentelemetry)
+- [Deployment strategies for OpenTelemetry](https://lightstep.com/blog/deployment-strategies-for-opentelemetry)
+- [The Big Pieces: OpenTelemetry specification](https://lightstep.com/blog/opentelemetry-specification)
+- [The Big Pieces: OpenTelemetry context propagation](https://lightstep.com/blog/opentelemetry-context-propagation)
+- [The Big Pieces: OpenTelemetry client design and architecture](https://lightstep.com/blog/opentelemetry-client-design-and-architecture)
+- [The Big Pieces: OpenTelemetry Collector design and architecture](https://lightstep.com/blog/opentelemetry-collector-design-and-architecture)
 - [Go - Step by step guide for implementing tracing on a microservices architecture (1/2)](https://devandchill.com/posts/2021/12/go-step-by-step-guide-for-implementing-tracing-on-a-microservices-architecture-1/2/)
 - [Go - Step by step guide for implementing tracing on a microservices architecture (2/2)](https://devandchill.com/posts/2021/12/go-step-by-step-guide-for-implementing-tracing-on-a-microservices-architecture-2/2/)
 - [What is OpenTelemetry?](https://lightstep.com/opentelemetry/about)
@@ -10,7 +17,7 @@
 - [Go, RabbitMQ and gRPC Clean Architecture microservice](https://dev.to/aleksk1ng/go-rabbitmq-and-grpc-clean-architecture-microservice-2kdn)
 - [Go gRPC Clean architecture microservice with Prometheus, Grafana monitoring and Jaeger opentracing](https://dev.to/aleksk1ng/go-grpc-clean-architecture-microservice-with-prometheus-grafana-monitoring-and-jaeger-opentracing-51om)
 - [MICROSERVICES IN GO: OPENTELEMETRY](https://mariocarrion.com/2021/05/13/golang-microservices-opentelemetry.html)
-
+- [Dissecting OpenTelemetry Go Tracing](https://dmathieu.com/articles/development/dissecting-opentelemetry-tracing/)
 ## Videos
 - [Golang Microservices: Observability using OpenTelemetry](https://www.youtube.com/watch?v=bytCFQJ43DE)
 - [Introduction to Tracing : OpenTelemetry & Opentracing](https://www.youtube.com/watch?v=idDu_jXqf4E)
@@ -22,6 +29,7 @@
 - [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK
 - [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) - Collection of extensions for OpenTelemetry-Go.
 ## 🚀 Samples
+- [tedsuo/otel-go-basics](https://github.com/tedsuo/otel-go-basics)
 - [open-telemetry/opentelemetry-go/example](https://github.com/open-telemetry/opentelemetry-go/tree/main/example)
 - [open-telemetry/opentelemetry-collector-contrib/examples/demo](https://github.com/open-telemetry/opentelemetry-collector-contrib/tree/main/examples/demo)
 - [pmorelli92/open-telemetry-go](https://github.com/pmorelli92/open-telemetry-go)
