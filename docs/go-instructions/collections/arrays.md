@@ -21,3 +21,7 @@
 - [samber/lo](https://github.com/samber/lo) - A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [life4/genesis](https://github.com/life4/genesis) - All generic functions for Go 1.18 you ever need!
 - [xyctruth/stream](https://github.com/xyctruth/stream) - A Stream processing library based on Go 1.18+ Generics (parallel, pipeline, lazy)
+- [Soft/iter](https://github.com/Soft/iter) - iter is a generic iterator library for Go
+- [jucardi/go-streams](https://github.com/jucardi/go-streams) - Stream Collections for Go. Inspired in Java 8 Streams and .NET Linq
+- [makiuchi-d/linq](https://github.com/makiuchi-d/linq) - LINQ for Go with type parameters
+- [szmcdull/glinq](https://github.com/szmcdull/glinq) - Go port of DotNet LINQ using generics introduced in Go 1.18

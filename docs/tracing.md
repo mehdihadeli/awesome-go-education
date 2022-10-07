@@ -1,6 +1,21 @@
 # Tracing
 
 ## Articles
+- [OpenTelemetry Specification - opentelemetry.io](https://opentelemetry.io/docs/reference/specification/)
+- [OpenTelemetry Specification Overview - opentelemetry.io](https://opentelemetry.io/docs/reference/specification/overview/)
+- [Trace Semantic Conventions - opentelemetry.io](https://opentelemetry.io/docs/reference/specification/trace/semantic_conventions/)
+- [OpenTelemetry Specification - opentelemetry.io](https://opentelemetry.io/docs/reference/specification/)
+- [Trace Semantic Conventions - opentelemetry.io](https://opentelemetry.io/docs/reference/specification/trace/semantic_conventions/)
+- [Baggage in OpenTelemetry - opentelemetry.io](https://opentelemetry.io/docs/concepts/signals/baggage/)
+- [Tracing in OpenTelemetry - opentelemetry.io](https://opentelemetry.io/docs/concepts/signals/traces/)
+- [Metrics in OpenTelemetry - opentelemetry.io](https://opentelemetry.io/docs/concepts/signals/metrics/)
+- [Spans in OpenTelemetry](https://lightstep.com/opentelemetry/spans)
+- [OpenTelemetry Tracing API for Go](https://uptrace.dev/opentelemetry/go-tracing.html)
+- [OpenTelemetry Distributed Tracing](https://uptrace.dev/opentelemetry/distributed-tracing.html)
+- [Getting Started - opentelemetry.io](https://opentelemetry.io/docs/instrumentation/go/getting-started/)
+- [Manual Instrumentation - opentelemetry.io](https://opentelemetry.io/docs/instrumentation/go/manual/)
+- [Using instrumentation libraries - opentelemetry.io](https://opentelemetry.io/docs/instrumentation/go/libraries/)
+- [Processing and Exporting Data - opentelemetry.io](https://opentelemetry.io/docs/instrumentation/go/exporting_data/)
 - [OpenTelemetry Go: All you need to know](https://lightstep.com/blog/opentelemetry-go-all-you-need-to-know)
 - [Why choose OpenTelemetry?](https://lightstep.com/blog/why-choose-opentelemetry)
 - [Deployment strategies for OpenTelemetry](https://lightstep.com/blog/deployment-strategies-for-opentelemetry)
@@ -18,6 +33,11 @@
 - [Go gRPC Clean architecture microservice with Prometheus, Grafana monitoring and Jaeger opentracing](https://dev.to/aleksk1ng/go-grpc-clean-architecture-microservice-with-prometheus-grafana-monitoring-and-jaeger-opentracing-51om)
 - [MICROSERVICES IN GO: OPENTELEMETRY](https://mariocarrion.com/2021/05/13/golang-microservices-opentelemetry.html)
 - [Dissecting OpenTelemetry Go Tracing](https://dmathieu.com/articles/development/dissecting-opentelemetry-tracing/)
+- [Observability with OpenTelemetry Part 1 - Introduction](https://trstringer.com/otel-part1-intro/)
+- [Observability with OpenTelemetry Part 2 - Instrumentation](https://trstringer.com/otel-part2-instrumentation/)
+- [Observability with OpenTelemetry Part 3 - SDK and Exporting](https://trstringer.com/otel-part3-export/)
+- [Observability with OpenTelemetry Part 4 - Collector](https://trstringer.com/otel-part4-collector/)
+- [Observability with OpenTelemetry Part 5 - Propagation and Baggage](https://trstringer.com/otel-part5-propagation/)
 ## Videos
 - [Golang Microservices: Observability using OpenTelemetry](https://www.youtube.com/watch?v=bytCFQJ43DE)
 - [Introduction to Tracing : OpenTelemetry & Opentracing](https://www.youtube.com/watch?v=idDu_jXqf4E)

@@ -68,6 +68,7 @@
 - [justinas/alice](https://github.com/justinas/alice) - Painless middleware chaining for Go
 - [eyazici90/go-mediator](https://github.com/eyazici90/go-mediator) - Simple mediator implementation in go
 - [eapache/go-resiliency](https://github.com/eapache/go-resiliency) - Resiliency patterns for golang
+- [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 ## 🚀 Samples
 - [Mindinventory/Golang-Project-Structure](https://github.com/Mindinventory/Golang-Project-Structure) - Golang Skeleton With Fully Managed Versions For Kick Start GoLang Project Development
 - [gothinkster/golang-gin-realworld-example-app](https://github.com/gothinkster/golang-gin-realworld-example-app) - Exemplary real world application built with Golang + Gin

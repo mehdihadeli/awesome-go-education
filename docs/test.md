@@ -14,6 +14,7 @@
 - [Mock DB for testing HTTP API in Go and achieve 100% coverage](https://dev.to/techschoolguru/mock-db-for-testing-http-api-in-go-and-achieve-100-coverage-4pa9)
 - [Write Go unit tests for db CRUD with random data](https://dev.to/techschoolguru/write-go-unit-tests-for-db-crud-with-random-data-53no)
 - [https://bozd4g.medium.com/integration-testing-with-golang-test-containers-2889c71ea4d0](https://bozd4g.medium.com/integration-testing-with-golang-test-containers-2889c71ea4d0)
+- [Snapshot testing in Golang](https://dev.to/gkampitakis/snapshot-testing-in-golang-fpk)
 ## 📺 Videos
 - [Writing Microservice Integration Tests in Go (Finally) - GopherCon SG 2019](https://www.youtube.com/watch?v=5iVDYga9ts0)
 
@@ -35,6 +36,12 @@
 - [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go
 - [nhatthm/grpcmock](https://github.com/nhatthm/grpcmock) - gRPC Test Utilities for Golang
 - [fdaines/arch-go](https://github.com/fdaines/arch-go) - Architecture checks for Go projects
+- [VerifyTests/Verify.Go](https://github.com/VerifyTests/Verify.Go) - Verify.Go is a snapshot tool for Go language that simplifies the assertion of complex data models and documents
+- [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying
+- [myzhan/boomer](https://github.com/myzhan/boomer) - A better load generator for locust, written in golang.
+- [smallnest/1m-go-tcp-server](https://github.com/smallnest/1m-go-tcp-server) - benchmarks for implementation of servers which support 1 million connections
+- [bradleyjkemp/cupaloy](https://github.com/bradleyjkemp/cupaloy) - Simple Go snapshot testing
+- [gkampitakis/go-snaps](https://github.com/gkampitakis/go-snaps) - Jest-like snapshot testing in Golang 📸
 ## 🚀 Samples
 - [victorsteven/Unit-And-Integration-Testing](https://github.com/victorsteven/Unit-And-Integration-Testing) - A simple approach to understanding Unit and Integration testing in Golang
 - [bozd4g/fb.testcontainers](https://github.com/bozd4g/fb.testcontainers) - A sample Integration Testing with Docker Containers implementation written with Golang.

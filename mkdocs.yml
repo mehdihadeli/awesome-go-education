@@ -131,16 +131,15 @@ nav:
     - Deadlock: concurrency/deadlock.md
     - Select: concurrency/select.md
     - Mutex: concurrency/mutex.md
+  - Error Handling: error-handling.md
   - Best Practices: best-practices.md
-  - Error Handling:
-    - Error Handling: error/error-handling.md
-    - Panic: error/panic.md
   - File: file.md
   - Modules & Packages: modules-packages.md
   - gRPC: gRPC.md
   - Context: context.md
   - Messaging:
     - RabbitMQ: messaging/rabbitmq.md
+    - Kafka: messaging/kafka.md
   - Data Structure: data-structure.md
   - LINQ: linq.md
   - Authentication: authentication.md

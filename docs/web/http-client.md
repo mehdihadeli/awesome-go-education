@@ -6,3 +6,8 @@
 - [Making HTTP requests in Go](https://blog.logrocket.com/making-http-requests-in-go/)
 - [How to make an HTTP request in golang with best practices?](https://mailazy.com/blog/http-request-golang-with-best-practices/)
 - [Making HTTP Requests in Golang](https://medium.com/@masnun/making-http-requests-in-golang-dd123379efe7)
+
+## Libraries
+- [ddliu/go-httpclient](https://github.com/ddliu/go-httpclient) - Advanced HTTP client for golang
+- [emicklei/go-restful](https://github.com/emicklei/go-restful) - package for building REST-style Web Services using Go
+- [gojek/heimdall](https://github.com/gojek/heimdall) - An enhanced HTTP client for Go

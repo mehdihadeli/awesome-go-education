@@ -39,6 +39,11 @@
 - [Top 6 Golang Logging Best Practices](https://blog.boot.dev/golang/golang-logging-best-practices/)
 - [Go: Creating Custom Error Wrapper and Do Proper Error Equality Check](https://dev.to/tigorlazuardi/go-creating-custom-error-wrapper-and-do-proper-error-equality-check-11k7)
 - [Wrapping Errors in Go - How to Handle Nested Errors](https://blog.boot.dev/golang/wrapping-errors-in-go-how-to-handle-nested-errors/)
+- [Panic and Recover](https://golangbot.com/panic-and-recover/)
+- [Handling Panics in Go](https://www.digitalocean.com/community/tutorials/handling-panics-in-go)
+- [GOLANG TUTORIAL - PANIC AND RECOVER](https://www.bogotobogo.com/GoLang/GoLang_Panic_and_Recover.php)
+- [Some Panic/Recover Use Cases](https://go101.org/article/panic-and-recover-use-cases.html)
+- [Panics, stack traces and how to recover [best practice]](https://yourbasic.org/golang/recover-from-panic/)
 ## Videos
 - [GopherCon 2016: Dave Cheney - Dont Just Check Errors Handle Them Gracefully](https://www.youtube.com/watch?v=lsBF58Q-DnY)
 - [GopherCon 2019: Marwan Sulaiman - Handling Go Errors](https://www.youtube.com/watch?v=4WIhhzTTd0Y)
