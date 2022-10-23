@@ -1,6 +1,7 @@
 # Functional Programming
 
 ## Articles
+- [Functional programming in Go](https://bitfieldconsulting.com/golang/functional)
 - [Introducing Maybe package, bring functional to Go](https://devandchill.com/posts/2021/04/introducing-maybe-package-bring-functional-to-go/)
 
 ## Libraries

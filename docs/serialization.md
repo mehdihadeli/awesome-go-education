@@ -24,3 +24,4 @@
 - [tidwall/pretty](https://github.com/tidwall/pretty) - Efficient JSON beautifier and compactor for Go
 - [hokaccha/go-prettyjson](https://github.com/hokaccha/go-prettyjson) - JSON pretty print for Golang.
 - [kr/pretty](https://github.com/kr/pretty) - Pretty printing for Go values
+- [tinylib/msgp](https://github.com/tinylib/msgp) - A Go code generator for MessagePack / msgpack.org[Go]

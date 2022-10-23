@@ -11,3 +11,4 @@
 - [ddliu/go-httpclient](https://github.com/ddliu/go-httpclient) - Advanced HTTP client for golang
 - [emicklei/go-restful](https://github.com/emicklei/go-restful) - package for building REST-style Web Services using Go
 - [gojek/heimdall](https://github.com/gojek/heimdall) - An enhanced HTTP client for Go
+- [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic

@@ -44,6 +44,7 @@
 - [GOLANG TUTORIAL - PANIC AND RECOVER](https://www.bogotobogo.com/GoLang/GoLang_Panic_and_Recover.php)
 - [Some Panic/Recover Use Cases](https://go101.org/article/panic-and-recover-use-cases.html)
 - [Panics, stack traces and how to recover [best practice]](https://yourbasic.org/golang/recover-from-panic/)
+- [Errors and Error Wrapping in Go](https://trstringer.com/errors-and-error-wrapping-go/)
 ## Videos
 - [GopherCon 2016: Dave Cheney - Dont Just Check Errors Handle Them Gracefully](https://www.youtube.com/watch?v=lsBF58Q-DnY)
 - [GopherCon 2019: Marwan Sulaiman - Handling Go Errors](https://www.youtube.com/watch?v=4WIhhzTTd0Y)
@@ -61,3 +62,4 @@
 - [emperror/emperror](https://github.com/emperror/emperror) - The Emperor takes care of all errors personally
 - [go-stack/stack](https://github.com/go-stack/stack) - Package stack implements utilities to capture, manipulate, and format call stacks.
 - [juju/errors](https://github.com/juju/errors) - Common juju errors and functions to annotate errors. Based on juju/errgo
+- [asaskevich/govalidator](https://github.com/asaskevich/govalidator) - Package of validators and sanitizers for strings, numerics, slices and structs

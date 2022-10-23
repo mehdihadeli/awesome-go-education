@@ -83,6 +83,7 @@
 - [Go 101](https://go101.org/)
 - [Vic Shóstak's](https://dev.to/koddr)
 - [TECH SCHOOL](https://dev.to/techschoolguru)
+- [A Journey With Go](https://medium.com/a-journey-with-go)
 ## Books
 - [LET'S GO PROFESSIONAL](https://lets-go.alexedwards.net/)
 - [Let's Go Further](https://lets-go-further.alexedwards.net/)

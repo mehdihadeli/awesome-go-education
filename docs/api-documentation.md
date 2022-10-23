@@ -5,7 +5,7 @@
 - [Generating Swagger Docs From Go](https://ldej.nl/post/generating-swagger-docs-from-go/)
 - [Generate swagger specification from Go source code](https://medium.com/@pedram.esmaeeli/generate-swagger-specification-from-go-source-code-648615f7b9d9)
 - [Create Golang API Doc with Swag](https://adityarama1210.medium.com/create-golang-api-doc-with-swag-d73be1767d39)
-
+- [Go - Generate and serve swagger without code dependencies](https://devandchill.com/posts/2021/09/go-generate-and-serve-swagger-without-code-dependencies/)
 ## Videos
 - [Testing a gRPC Service using Postman (Golang Example)](https://www.youtube.com/watch?v=yluYiCj71ss)
 

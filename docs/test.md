@@ -2,8 +2,10 @@
 
 ## 📘 Resources
 - [Testing](https://github.com/golang/go/wiki/Articles#testing)
+- [Test Driven Development (TDD) in Golang](https://www.youtube.com/playlist?list=PLtFquUj7IL8VpSL98BTvl3lnD8HS4NGlA)
 
 ## 📕 Articles
+- [Exploring the landscape of Go testing frameworks](https://bmuschko.com/blog/go-testing-frameworks/)
 - [Testing standard package guide](https://pkg.go.dev/testing@master)
 - [Unit Tests - Practical Go Lessons](https://www.practical-go-lessons.com/chap-19-unit-tests)
 - [Microservices test architecture. Can you sleep well without end-to-end tests?](https://threedots.tech/post/microservices-test-architecture/)
@@ -15,9 +17,30 @@
 - [Write Go unit tests for db CRUD with random data](https://dev.to/techschoolguru/write-go-unit-tests-for-db-crud-with-random-data-53no)
 - [https://bozd4g.medium.com/integration-testing-with-golang-test-containers-2889c71ea4d0](https://bozd4g.medium.com/integration-testing-with-golang-test-containers-2889c71ea4d0)
 - [Snapshot testing in Golang](https://dev.to/gkampitakis/snapshot-testing-in-golang-fpk)
+- [Integration Testing with Golang (Test Containers)](https://bozdag.dev/post/integration-testing-with-golang-test-containers/)
+- [Go Integration Tests using Testcontainers](https://dev.to/remast/go-integration-tests-using-testcontainers-9o5)
+- [Integration tests, Docker, and how it all Go(es) together](https://levelup.gitconnected.com/integration-tests-docker-and-how-it-all-go-es-together-b57a22cac567)
+- [Unit Test SQL in Golang, Without Mocking, Using TestContainers (Go, Postgres, Docker, TestContainers)](https://levelup.gitconnected.com/unit-test-sql-in-golang-without-mocking-using-testcontainers-go-postgres-docker-4f61574b1989)
+- [Mocking Database in Go](https://dev.to/pancy/mocking-database-in-go-55bo)
+- [https://medium.com/@suuum/testing-in-golang-part-1-unit-tests-93badb9fb14d](https://medium.com/@suuum/testing-in-golang-part-1-unit-tests-93badb9fb14d)
+- [Testing in Golang(Part 2) — Database Integration Tests](https://medium.com/@suuum/testing-in-golang-part-2-database-integration-tests-ad6880de22b4)
+- [Separate Your Go Tests with Build Tags](https://mickey.dev/posts/go-build-tags-testing/)
+- [Go (Golang): Testing tools & tips to step up your game](https://blog.devgenius.io/go-golang-testing-tools-tips-to-step-up-your-game-4ed165a5b3b5)
+- [Writing Pact Contract Tests with GoLang](https://medium.com/trendyol-tech/writing-pact-contract-tests-with-golang-2c20b5049e0c)
+- [Testing Kubernetes Go applications](https://itnext.io/testing-kubernetes-go-applications-f1f87502b6ef)
+- [Building Go Test Suites using Testify](https://brunoscheufler.com/blog/2020-04-12-building-go-test-suites-using-testify)
+- [Improving Your Go Tests and Mocks With Testify](https://tutorialedge.net/golang/improving-your-tests-with-testify-go/)
+- [Top Go Modules: Writing Unit Tests with Testify](https://jfrog.com/blog/top-go-modules-writing-unit-tests-with-testify/)
+- [A deep dive into unit testing in Go](https://blog.logrocket.com/a-deep-dive-into-unit-testing-in-go/)
 ## 📺 Videos
 - [Writing Microservice Integration Tests in Go (Finally) - GopherCon SG 2019](https://www.youtube.com/watch?v=5iVDYga9ts0)
-
+- [Testing with golang and testify - tutorial part 1](https://www.youtube.com/watch?v=Su6zn1_blw0)
+- [Testing with golang and testify - testing suites - tutorial part 2](https://www.youtube.com/watch?v=YjPCyofXwpA)
+- [Testing with golang and testify - mocking - tutorial part 3](https://www.youtube.com/watch?v=A1eR7TxeGcE)
+- [How to generate mocks using golangs templating engine](https://www.youtube.com/watch?v=Ru9YrZW08Pk)
+- [Unit testing in golang - a beginners + advanced-ish tutorial](https://www.youtube.com/watch?v=CXYEQyMUYfo)
+- [Golang / Go Crash Course 04 | Unit testing our code by Mocking with Testify](https://www.youtube.com/watch?v=uB_45bSIyik)
+- [Golang / Go Crash Course 06 | Testing our REST API by using http test and SQLite 3](https://www.youtube.com/watch?v=xogVXRiID5E)
 ## Libraries
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers is a Golang library that providing a friendly API to run Docker container. 
@@ -30,6 +53,7 @@
 - [h2non/baloo](https://github.com/h2non/baloo) - Expressive end-to-end HTTP API testing made easy in Go
 - [appleboy/gofight](https://github.com/appleboy/gofight) - Testing API Handler written in Golang.
 - [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data.
+- [cucumber/godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [cweill/gotests](https://github.com/cweill/gotests) - Automatically generate Go test boilerplate from your source code.
 - [dnaeon/go-vcr](https://github.com/dnaeon/go-vcr) - Record and replay your HTTP interactions for fast, deterministic and accurate tests
@@ -42,6 +66,28 @@
 - [smallnest/1m-go-tcp-server](https://github.com/smallnest/1m-go-tcp-server) - benchmarks for implementation of servers which support 1 million connections
 - [bradleyjkemp/cupaloy](https://github.com/bradleyjkemp/cupaloy) - Simple Go snapshot testing
 - [gkampitakis/go-snaps](https://github.com/gkampitakis/go-snaps) - Jest-like snapshot testing in Golang 📸
+- [efficientgo/e2e](https://github.com/efficientgo/e2e) - Robust framework for running complex workload scenarios in isolation, using Go; for integration, e2e tests, benchmarks and more!
+- [ory/dockertest](https://github.com/ory/dockertest) - Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.
+- [allaboutapps/integresql](https://github.com/allaboutapps/integresql) - IntegreSQL manages isolated PostgreSQL databases for your integration tests.
+- [rubenv/pgtest](https://github.com/rubenv/pgtest) - PostgreSQL test helper for Go
+- [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) - Sql mock driver for golang to test database interactions
+- [golang/mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language
+- [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Golang
+- [h2non/gock](https://github.com/h2non/gock) - HTTP traffic mocking and testing made easy in 
+- [go-testfixtures/testfixtures](https://github.com/go-testfixtures/testfixtures) - Ruby on Rails like test fixtures for Go. Write tests against a real database
+- [onsi/gomega](https://github.com/onsi/gomega) - Ginkgo's Preferred Matcher Library
+- [dlespiau/kube-test-harness](https://github.com/dlespiau/kube-test-harness) - Write Kubernetes integration tests in go
 ## 🚀 Samples
 - [victorsteven/Unit-And-Integration-Testing](https://github.com/victorsteven/Unit-And-Integration-Testing) - A simple approach to understanding Unit and Integration testing in Golang
 - [bozd4g/fb.testcontainers](https://github.com/bozd4g/fb.testcontainers) - A sample Integration Testing with Docker Containers implementation written with Golang.
+- [ayurkin/balance](https://github.com/ayurkin/balance/blob/main/internal/tests/balance_suite_test.go)
+- [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example)
+- [remast/go-for-testcontainers](https://github.com/remast/go-for-testcontainers)
+- [rafael-piovesan/go-rocket-ride](https://github.com/rafael-piovesan/go-rocket-ride)
+- [suuum/golang-integration-tests-example](https://github.com/suuum/golang-integration-tests-example)
+- [suuum/golang-unit-testing-example](https://github.com/suuum/golang-unit-testing-example)
+- [num30/api-integration-test](https://github.com/num30/api-integration-test) - This is an example of and integration test for Golang Rest API service
+- [pact-foundation/pact-workshop-go](https://github.com/pact-foundation/pact-workshop-go) - Golang Pact workshop
+- [testingallthethings/033-go-rest](https://github.com/testingallthethings/033-go-rest) - Demonstrating End to End, Integration & Unit test to create a simple REST API
+- [daopmdean/todoapp-backend](https://github.com/daopmdean/todoapp-backend) - Rest API for todoapp written in Golang, using clean architecture, CI/CD (including unit test and integration test).
+- [thomaslanghorst/testify-tutorial](https://github.com/thomaslanghorst/testify-tutorial)

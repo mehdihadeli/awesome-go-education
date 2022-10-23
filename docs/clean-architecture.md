@@ -49,3 +49,4 @@
 - [bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch) - Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
 - [Creatly/creatly-backend](https://github.com/Creatly/creatly-backend) - Creatly backend app
 - [Massad/gin-boilerplate](https://github.com/Massad/gin-boilerplate) - The fastest way to deploy a restful api's with Gin Framework with a structured project that defaults to PostgreSQL database and JWT authentication middleware stored in Redis
+- [rafael-piovesan](https://github.com/rafael-piovesan) - Toy API implementing idempotency keys using Golang & Clean Architecture

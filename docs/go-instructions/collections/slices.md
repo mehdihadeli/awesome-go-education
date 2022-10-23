@@ -16,7 +16,8 @@
 - [The internals of slice](https://nanxiao.gitbooks.io/golang-101-hacks/content/posts/the-internals-of-slice.html)
 - [Conversion between array and slice](https://nanxiao.gitbooks.io/golang-101-hacks/content/posts/conversion-between-array-and-slice.html)
 - [The anatomy of Slices in Go](https://medium.com/rungo/the-anatomy-of-slices-in-go-6450e3bb2b94)
-
+- [Go Slices - Passing By Reference or Value?](https://trstringer.com/golang-slice-references/)
+- [Go's append Behavior and Potentially Unintended Side Effects](https://trstringer.com/golang-append/)
 ## Libraries
 - [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more
 - [zyedidia/generic](https://github.com/zyedidia/generic) - A collection of generic data structures written in Go.

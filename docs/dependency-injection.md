@@ -9,5 +9,10 @@
 - [Dependency injection in GO](https://golangforall.com/en/post/dependency-injection.html)
 ## Libraries
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
+- [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go.
 - [uber-go/dig](https://github.com/uber-go/dig) - A reflection based dependency injection toolkit for Go.
 - [samber/do](https://github.com/samber/do) - A dependency injection toolkit based on Go 1.18+ Generics.
+
+## Samples
+- [rafael-piovesan/go-rocket-ride](https://github.com/rafael-piovesan/go-rocket-ride)
+- [dipeshhkc/Golang-Fx](https://github.com/dipeshhkc/Golang-Fx)

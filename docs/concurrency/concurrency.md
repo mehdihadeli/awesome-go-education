@@ -61,6 +61,7 @@
 - [Concurrency vs Parallelism](https://www.youtube.com/watch?v=Y1pgpn2gOSg)
 - [Golang for C# Developers - Concurrency](https://www.youtube.com/watch?v=aEI7nIfvyRU)
 - [Concurrency in Go](https://www.youtube.com/watch?v=LvgVSSpwND8)
+- [Golang / Go Crash Course 05 | Building an API Mashup using Goroutines and Channels](https://www.youtube.com/watch?v=dihX12GkBnc)
 ## Libraries
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
 - [modern-go/concurrent](https://github.com/modern-go/concurrent) - concurrency utilities

@@ -10,6 +10,8 @@
 - [Go Basic Types Tutorial](https://tutorialedge.net/golang/go-basic-types-tutorial/)
 - [Go Composite Types Tutorial](https://tutorialedge.net/golang/go-complex-types-tutorial/)
 - [Data Types and Variables in Go](https://medium.com/rungo/variables-and-constants-in-go-programming-c715443fa788)
-
+- [Value Parts - Two Categories of Go Types](https://go101.org/article/value-part.html)
+- [There Are No Reference Types in Go](https://www.tapirgames.com/blog/golang-has-no-reference-values)
+- [Pass by pointer vs pass by value in Go](https://codewithyury.com/golang-pass-by-pointer-vs-pass-by-value/)
 ## Vidoes
 - [Go Basic Types (Golang basic types) (Go Basics #4)](https://www.youtube.com/watch?v=YIW-0dtrDLY)

@@ -2,6 +2,10 @@
 
 ## Articles
 - [Quick start gRPC in Go](https://grpc.io/docs/languages/go/quickstart/)
+- [gRPC Basics tutorial](https://grpc.io/docs/languages/go/basics/)
+- [Language Guide (proto3)](https://developers.google.com/protocol-buffers/docs/proto3)
+- [Protocol Buffer Basics: Go](https://developers.google.com/protocol-buffers/docs/gotutorial)
+- [gRPC Style Guide](https://developers.google.com/protocol-buffers/docs/style)
 - [Protocol buffer deep-dive](https://dev.to/techschoolguru/protocol-buffer-deep-dive-52d9)
 - [Define a protobuf message and generate Go code](https://dev.to/techschoolguru/how-to-define-a-protobuf-message-and-generate-go-code-4g4e)
 - [Introduction to gRPC: why, what, how?](https://dev.to/techschoolguru/introduction-to-grpc-why-what-how-4194)

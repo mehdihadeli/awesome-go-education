@@ -81,12 +81,12 @@ nav:
       - First Class Functions: go-instructions/functions/first-class-functions.md
       - Variadic Functions: go-instructions/functions/variadic-functions.md
       - Defer: go-instructions/functions/defer.md
-    - Database:
-      - Database: database/database.md
-      - Migration: database/migration.md
-      - ORM:
-        - ORM: database/orm/orm.md
-        - gorm: database/orm/gorm.md
+    - Relational DB:
+      - Postgres: realational/postgres.md
+      - ORM: realational/orm.md
+      - Migration: realational/migration.md.
+    - NoSQL:
+      - MongoDB: no-sql/mongodb.md
     - Init: go-instructions/init.md
     - Interface:
       - Interface: go-instructions/interface/interface.md
@@ -142,7 +142,7 @@ nav:
     - Kafka: messaging/kafka.md
   - Data Structure: data-structure.md
   - LINQ: linq.md
-  - Authentication: authentication.md
+  - Authentication & OAuth: auth-oauth.md
   - Microservices : microservices.md
   - Service Discovery : service-discovery.md
   - Tracing: tracing.md
