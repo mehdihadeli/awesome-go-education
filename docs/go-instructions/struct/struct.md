@@ -30,3 +30,4 @@
 ## Libraries
 - [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa.
 - [Ompluscator/dynamic-struct](https://github.com/Ompluscator/dynamic-struct) - Golang package for editing struct's fields during runtime and mapping structs to other structs.
+- [fatih/gomodifytags](https://github.com/fatih/gomodifytags) - Go tool to modify struct field tags

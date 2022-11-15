@@ -40,6 +40,8 @@
 - [How to Golang Series](https://dev.to/koddr/series/4444)
 - [shichao-an/notes](https://github.com/shichao-an/notes) - Shichao's Notes
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - Source code and community space of 📖 100 Go Mistakes.
+- [How To Code in Go - DigitalOcean](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-go)
+- [Libraries you use most of your projects?](https://www.reddit.com/r/golang/comments/yjzeid/libraries_you_use_most_of_your_projects/)
 ## Courses
 - [Go: Getting Started - Pluralsight](https://www.pluralsight.com/courses/getting-started-with-go)
 - [Getting Started With Golang - Academind](https://pro.academind.com/p/golang-the-practical-guide)

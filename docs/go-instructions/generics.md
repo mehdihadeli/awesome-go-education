@@ -6,6 +6,7 @@
 ## 📕 Articles
 - [Tutorial: Getting started with generics](https://go.dev/doc/tutorial/generics)
 - [Generics in Go](https://bitfieldconsulting.com/golang/generics)
+- [How To Use Generics in Go](https://www.digitalocean.com/community/tutorials/how-to-use-generics-in-go)
 - [Type parameters in Go](https://bitfieldconsulting.com/golang/type-parameters)
 - [An Introduction To Generics](https://go.dev/blog/intro-generics)
 - [Generics Part 01: Basic Syntax](https://www.ardanlabs.com/blog/2020/07/generics-01-basic-syntax.html)

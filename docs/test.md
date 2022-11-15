@@ -77,6 +77,13 @@
 - [go-testfixtures/testfixtures](https://github.com/go-testfixtures/testfixtures) - Ruby on Rails like test fixtures for Go. Write tests against a real database
 - [onsi/gomega](https://github.com/onsi/gomega) - Ginkgo's Preferred Matcher Library
 - [dlespiau/kube-test-harness](https://github.com/dlespiau/kube-test-harness) - Write Kubernetes integration tests in go
+- [tokopedia/gripmock](https://github.com/tokopedia/gripmock) - gRPC Mock Server
+- [flyingmutant/rapid](https://github.com/flyingmutant/rapid) - Rapid is a Go library for property-based testing that supports state machine ("stateful" or "model-based") testing and fully automatic test case minimization ("shrinking")
+- [leanovate/gopter](https://github.com/leanovate/gopter) - GOlang Property TestER
+- [khaiql/dbcleaner](https://github.com/khaiql/dbcleaner) - Clean database for testing, inspired by database_cleaner for Ruby
+- [hexops/autogold](https://github.com/hexops/autogold) - Automatically update your Go tests
+- [ovh/venom](https://github.com/ovh/venom) - Manage and run your integration tests with efficiency - Venom run executors (script, HTTP Request, web, imap, etc... ) and assertions
+- [benweissmann/memongo](https://github.com/benweissmann/memongo) - Easily run an in-memory MongoDB server for your Go unit tests
 ## 🚀 Samples
 - [victorsteven/Unit-And-Integration-Testing](https://github.com/victorsteven/Unit-And-Integration-Testing) - A simple approach to understanding Unit and Integration testing in Golang
 - [bozd4g/fb.testcontainers](https://github.com/bozd4g/fb.testcontainers) - A sample Integration Testing with Docker Containers implementation written with Golang.
@@ -89,5 +96,5 @@
 - [num30/api-integration-test](https://github.com/num30/api-integration-test) - This is an example of and integration test for Golang Rest API service
 - [pact-foundation/pact-workshop-go](https://github.com/pact-foundation/pact-workshop-go) - Golang Pact workshop
 - [testingallthethings/033-go-rest](https://github.com/testingallthethings/033-go-rest) - Demonstrating End to End, Integration & Unit test to create a simple REST API
-- [daopmdean/todoapp-backend](https://github.com/daopmdean/todoapp-backend) - Rest API for todoapp written in Golang, using clean architecture, CI/CD (including unit test and integration test).
+- [daopmdean/todoapp-backend](https://github.com/daopmdean/todoapp-backend) - Rest API for todoapp written in Golang, using clean architecture, CI/CD (including unit test and integration test.
 - [thomaslanghorst/testify-tutorial](https://github.com/thomaslanghorst/testify-tutorial)

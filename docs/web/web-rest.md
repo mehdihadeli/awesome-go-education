@@ -104,8 +104,10 @@
 - [create-go-app/fiber-go-template](https://github.com/create-go-app/fiber-go-template) - Production-ready backend template with Fiber Go Web Framework for Create Go App CLI.
 - [allaboutapps/go-starter](https://github.com/allaboutapps/go-starter) - An opinionated production-ready SQL-/Swagger-first RESTful JSON API written in Go, highly integrated with VSCode DevContainers by allaboutapps.
 - [rafael-piovesan](https://github.com/rafael-piovesan) - Toy API implementing idempotency keys using Golang & Clean Architecture
-- [bozd4g/fb.testcontainers](https://github.com/bozd4g/fb.testcontainers) - A sample Integration Testing with Docker Containers implementation written with Golang.
-
+- [bozd4g/poc/testcontainer](https://github.com/bozd4g/poc/tree/master/testcontainer) - A sample Integration Testing with Docker Containers implementation written with Golang.
+- [wesionaryTEAM/go_clean_architecture](https://github.com/wesionaryTEAM/go_clean_architecture) - Go Clean Architecture Used at @wesionaryTEAM
+- [dipeshdulal/clean-gin](https://github.com/dipeshdulal/clean-gin) - Implementation of clean architecture in Go, Gin with dependency injection.
+- [RealLiuSha/echo-admin](https://github.com/RealLiuSha/echo-admin)
 ## Recipes
 - [gofiber/recipes](https://github.com/gofiber/recipes) - Examples for 🚀 Fiber
 - [labstack/echox](https://github.com/labstack/echox) - Echo cookbook and website

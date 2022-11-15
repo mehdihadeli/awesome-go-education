@@ -26,6 +26,11 @@
 - [Go project structure, building commands and packages](https://technobeans.com/2018/12/21/go-project-structure-building-commands-and-packages/)
 - [Go and a Package Focused Design](https://blog.gopheracademy.com/advent-2016/go-and-package-focused-design/)
 - [Golang microservice project structure ](https://stackoverflow.com/questions/45776238/golang-microservice-project-structure)
+- [Structuring Applications in Go - How I organize my applications in Go](https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091)
+- [Go: the Good, the Bad and the Ugly](https://bluxte.net/musings/2018/04/10/go-good-bad-ugly/)
+- [Standard Package Layout](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1)
+- [Go Microservice with Clean Architecture: Application Layout](https://medium.com/@jfeng45/go-micro-service-with-clean-architecture-application-layout-e6216dbb835a)
+
 ## Videos
 - [GopherCon 2018: Kat Zien - How Do You Structure Your Go Apps](https://www.youtube.com/watch?v=oL6JBUk6tj0)
 - [Golang Project Structure - Getting Started with Golang](https://www.youtube.com/watch?v=a6-OHTNtsG4)

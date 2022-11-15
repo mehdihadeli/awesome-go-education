@@ -12,7 +12,9 @@
 - [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go.
 - [uber-go/dig](https://github.com/uber-go/dig) - A reflection based dependency injection toolkit for Go.
 - [samber/do](https://github.com/samber/do) - A dependency injection toolkit based on Go 1.18+ Generics.
-
+- [goioc/di](https://github.com/goioc/di) - Simple and yet powerful Dependency Injection for Go
+- [sarulabs/di](https://github.com/sarulabs/di) - Dependency injection container in go (golang)
+- [AshkanAbd/go-di](https://github.com/AshkanAbd/go-di) - Scope based dependency injection for golang
 ## Samples
 - [rafael-piovesan/go-rocket-ride](https://github.com/rafael-piovesan/go-rocket-ride)
 - [dipeshhkc/Golang-Fx](https://github.com/dipeshhkc/Golang-Fx)

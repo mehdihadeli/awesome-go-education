@@ -3,6 +3,7 @@
 ## 📕 Articles
 - [Context - Practical Go Lessons](https://www.practical-go-lessons.com/chap-37-context)
 - [Context](https://pkg.go.dev/context)
+- [How To Use Contexts in Go](https://www.digitalocean.com/community/tutorials/how-to-use-contexts-in-go)
 - [Understanding the context package in golang](http://p.agnihotry.com/post/understanding_the_context_package_in_golang/)
 - [Context in Golang!](https://levelup.gitconnected.com/context-in-golang-98908f042a57)
 - [Using Context in Golang - Cancellation, Timeouts and Values (With Examples)](https://www.sohamkamani.com/golang/context-cancellation-and-values/)
@@ -16,6 +17,7 @@
 - [Getting Started with Go Context](https://dev.to/gopher/getting-started-with-go-context-l7g)
 - [Understand Context in Go](https://dev.to/karanpratapsingh/understand-context-in-go-46em)
 - [Make Ctrl+C cancel the context.Context](https://medium.com/@matryer/make-ctrl-c-cancel-the-context-context-bd006a8ad6ff)
+- [Understanding Context in Golang](https://betterprogramming.pub/understanding-context-in-golang-7f574d9d94e0)
 ## Videos
 - [justforfunc #9: The Context Package](https://www.youtube.com/watch?v=LSzR0VEraWw)
 - [Understanding Contexts in Go in 5(-ish?) Minutes](https://www.youtube.com/watch?v=h2RdcrMLQAo)

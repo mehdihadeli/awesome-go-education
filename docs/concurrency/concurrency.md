@@ -47,6 +47,10 @@
 - [Comparing Optimistic and Pessimistic Locking With GO and PostgreSQL](https://hackernoon.com/comparing-optimistic-and-pessimistic-locking-with-go-and-postgresql)
 - [Postgres: Building concurrently safe upsert queries](https://devandchill.com/posts/2020/02/postgres-building-concurrently-safe-upsert-queries/)
 - [Postgres: Benchmarking concurrently safe upsert queries](https://devandchill.com/posts/2020/05/postgres-benchmarking-concurrently-safe-upsert-queries/)
+- [How To Run Multiple Functions Concurrently in Go](https://www.digitalocean.com/community/tutorials/how-to-run-multiple-functions-concurrently-in-go)
+- [Common Goroutine Leaks that You Should Avoid](https://betterprogramming.pub/common-goroutine-leaks-that-you-should-avoid-fe12d12d6ee)
+- [LeakProf: Featherlight In-Production Goroutine Leak Detection ](https://www.uber.com/en-IT/blog/leakprof-featherlight-in-production-goroutine-leak-detection/)
+- [Writing Better Code With Go Concurrency Patterns](https://betterprogramming.pub/writing-better-code-with-go-concurrency-patterns-9bc5f9f73519)
 ## 📺 Videos
 - [Concurrency in Go - Steve Hook - Playlist](https://www.youtube.com/playlist?list=PLsc-VaxfZl4do3Etp_xQ0aQBoC-x5BIgJ)
 - [Deadlocks: The Dark Side of Concurrency - Nick Craig-Wood](https://youtu.be/9j0oQkqzhAE)v

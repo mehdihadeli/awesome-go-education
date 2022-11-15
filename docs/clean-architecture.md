@@ -50,3 +50,10 @@
 - [Creatly/creatly-backend](https://github.com/Creatly/creatly-backend) - Creatly backend app
 - [Massad/gin-boilerplate](https://github.com/Massad/gin-boilerplate) - The fastest way to deploy a restful api's with Gin Framework with a structured project that defaults to PostgreSQL database and JWT authentication middleware stored in Redis
 - [rafael-piovesan](https://github.com/rafael-piovesan) - Toy API implementing idempotency keys using Golang & Clean Architecture
+- [daopmdean/todoapp-backend](https://github.com/daopmdean/todoapp-backend) - Rest API for todoapp written in Golang, using clean architecture, CI/CD (including unit test and integration test)
+- [bozd4g/poc/testcontainer](https://github.com/bozd4g/poc/tree/master/testcontainer) - A sample Integration Testing with Docker Containers implementation written with Golang.
+- [jfeng45/servicetmpl](https://github.com/jfeng45/servicetmpl) - Microservice template project for Go and gRPC
+- [jfeng45/order](https://github.com/jfeng45/order) - A Go Event Driven Microservice for Order Service
+- [wesionaryTEAM/go_clean_architecture](https://github.com/wesionaryTEAM/go_clean_architecture) - Go Clean Architecture Used at @wesionaryTEAM
+- [dipeshdulal/clean-gin](https://github.com/dipeshdulal/clean-gin) - Implementation of clean architecture in Go, Gin with dependency injection.
+- [RealLiuSha/echo-admin](https://github.com/RealLiuSha/echo-admin)

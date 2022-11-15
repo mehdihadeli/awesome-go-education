@@ -14,3 +14,4 @@
 ## Libraries
 - [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Go driver for MongoDB
 - [Kamva/mgm](https://github.com/Kamva/mgm) - Mongo Go Models (mgm) is a fast and simple MongoDB ODM for Go (based on official Mongo Go Driver)
+- [benweissmann/memongo](https://github.com/benweissmann/memongo) - Easily run an in-memory MongoDB server for your Go unit tests

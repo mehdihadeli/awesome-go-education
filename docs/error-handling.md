@@ -45,6 +45,7 @@
 - [Some Panic/Recover Use Cases](https://go101.org/article/panic-and-recover-use-cases.html)
 - [Panics, stack traces and how to recover [best practice]](https://yourbasic.org/golang/recover-from-panic/)
 - [Errors and Error Wrapping in Go](https://trstringer.com/errors-and-error-wrapping-go/)
+- [Testing and Validating Input in Go](https://hackwild.com/article/go-input-validation-and-testing/)
 ## Videos
 - [GopherCon 2016: Dave Cheney - Dont Just Check Errors Handle Them Gracefully](https://www.youtube.com/watch?v=lsBF58Q-DnY)
 - [GopherCon 2019: Marwan Sulaiman - Handling Go Errors](https://www.youtube.com/watch?v=4WIhhzTTd0Y)

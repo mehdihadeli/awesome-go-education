@@ -15,5 +15,7 @@
 - [Asynchronous programming with Go](https://medium.com/@gauravsingharoy/asynchronous-programming-with-go-546b96cd50c1)
 - [Goroutine leak](https://medium.com/golangspec/goroutine-leak-400063aef468)
 - [Synchronized goroutines (part I)](https://medium.com/golangspec/synchronized-goroutines-part-i-4fbcdd64a4ec)
+- [Common Goroutine Leaks that You Should Avoid](https://betterprogramming.pub/common-goroutine-leaks-that-you-should-avoid-fe12d12d6ee)
+- [LeakProf: Featherlight In-Production Goroutine Leak Detection ](https://www.uber.com/en-IT/blog/leakprof-featherlight-in-production-goroutine-leak-detection/)
 ## 📺 Videos
 - [Go Goroutine Tutorial - Concurrency in Go](https://www.youtube.com/watch?v=ARHXmR0_MGY)

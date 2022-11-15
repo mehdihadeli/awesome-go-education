@@ -101,3 +101,5 @@
 - [batazor/microservice-template-ddd](https://github.com/batazor/microservice-template-ddd) - Golnag microservice-template by DDD
 - [AleksK1NG/Go-Elasticsearch-RabbitMQ](https://github.com/AleksK1NG/Go-Elasticsearch-RabbitMQ)
 - [cage1016/gokit-todo](https://github.com/cage1016/gokit-todo) - todomvc full stack demo project. react + backend API by gokit microservice toolkit. include unit test, integration test, e2e test, github action ci
+- [jfeng45/servicetmpl](https://github.com/jfeng45/servicetmpl) - Microservice template project for Go and gRPC
+- [jfeng45/order](https://github.com/jfeng45/order) - A Go Event Driven Microservice for Order Service

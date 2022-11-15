@@ -1,6 +1,7 @@
 # Server
 
 ## 📕 Articles
+- [How To Make an HTTP Server in Go](https://www.digitalocean.com/community/tutorials/how-to-make-an-http-server-in-go)
 - [An Overview of Server-Side HTTP APIs in Go](https://betterprogramming.pub/overview-of-server-side-http-apis-in-go-44f052737e4b)
 - [Handling requests](https://livebook.manning.com/book/go-web-programming/chapter-3/1)
 - [Creating a web server with Golang](https://blog.logrocket.com/creating-a-web-server-with-golang/)
@@ -20,3 +21,4 @@
 - [HTTP Server](https://golangr.com/golang-http-server/)
 - [Building a Web Server in Go](https://thenewstack.io/building-a-web-server-in-go/)
 - [Golang: Handling HTTP Requests](http://www.vernica.net/2020/08/golang-handling-http-requests.html)
+- [How To Make HTTP Requests in Go](https://www.digitalocean.com/community/tutorials/how-to-make-http-requests-in-go)

@@ -7,6 +7,12 @@ repo_url: https://github.com/mehdihadeli/awesome-go-education
 edit_uri: edit/main/docs/
 theme:
   name: material
+  #https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - toc.integrate 
+    - navigation.top
   palette:
     - media: "(prefers-color-scheme: light)" 
       scheme: default
@@ -156,6 +162,7 @@ nav:
   - Environment: environment.md
   - Mappings: mappings.md
   - Benchmarks: benchmarks.md
+  - Retry: retry.md
   - Debugging: debugging.md
   - Reflection: reflection.md
   - Elastic Search: elastic.md

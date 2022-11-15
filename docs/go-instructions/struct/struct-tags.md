@@ -7,3 +7,6 @@
 - [Struct Field Tags in Go](https://levelup.gitconnected.com/struct-field-tags-in-go-fcc2428a1f91)
 - [Go Tags explained](https://flaviocopes.com/go-tags/)
 - [Tagging Struct fields in Go](https://itnext.io/creating-your-own-struct-field-tags-in-go-c6c86727eff)
+
+## Libraries
+- [fatih/gomodifytags](https://github.com/fatih/gomodifytags) - Go tool to modify struct field tags

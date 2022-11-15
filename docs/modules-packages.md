@@ -38,6 +38,7 @@
 - [Go Modules Tutorial](https://tutorialedge.net/golang/go-modules-tutorial/)
 - [How to Use Go Modules](https://www.digitalocean.com/community/tutorials/how-to-use-go-modules)
 - [How to Distribute Go Modules](https://www.digitalocean.com/community/tutorials/how-to-distribute-go-modules)
+- [How to Use a Private Go Module in Your Own Project](https://www.digitalocean.com/community/tutorials/how-to-use-a-private-go-module-in-your-own-project)
 - [Style guideline for Go packages](https://rakyll.org/style-packages/)
 - [Avoid package names like base, util, or common](https://dave.cheney.net/2019/01/08/avoid-package-names-like-base-util-or-common)
 - [Using Go Modules for Golang Dependency Management](https://www.whitesourcesoftware.com/free-developer-tools/blog/golang-dependency-management/)

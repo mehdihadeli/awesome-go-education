@@ -25,3 +25,4 @@
 - [hokaccha/go-prettyjson](https://github.com/hokaccha/go-prettyjson) - JSON pretty print for Golang.
 - [kr/pretty](https://github.com/kr/pretty) - Pretty printing for Go values
 - [tinylib/msgp](https://github.com/tinylib/msgp) - A Go code generator for MessagePack / msgpack.org[Go]
+- [k0kubun/pp](https://github.com/k0kubun/pp) - Colored pretty printer for Go language

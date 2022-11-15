@@ -23,3 +23,5 @@
 - [joaofbantunes/OOPsIDidItAgainGo](https://github.com/joaofbantunes/OOPsIDidItAgainGo)
 - [AleksK1NG/Go-CQRS-EventSourcing-Microservice](https://github.com/AleksK1NG/Go-CQRS-EventSourcing-Microservice) - Go-CQRS-EventSourcing-Microservice
 - [AleksK1NG/Go-EventSourcing-CQRS](https://github.com/AleksK1NG/Go-EventSourcing-CQRS) - Go Event Sourcing CQRS Microservice
+- [jfeng45/servicetmpl](https://github.com/jfeng45/servicetmpl) - Microservice template project for Go and gRPC
+- [jfeng45/order](https://github.com/jfeng45/order) - A Go Event Driven Microservice for Order Service

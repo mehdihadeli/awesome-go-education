@@ -8,3 +8,6 @@
 - [What does go build build? (go build vs. go install)](https://stackoverflow.com/questions/30612611/what-does-go-build-build-go-build-vs-go-install)
 - [What does go build build ?](https://dave.cheney.net/2014/06/04/what-does-go-build-build)
 - [How To Build and Install Go Programs](https://www.digitalocean.com/community/tutorials/how-to-build-and-install-go-programs)
+
+## Libraries
+- [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
