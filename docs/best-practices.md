@@ -4,6 +4,7 @@
 - [bahlo/go-styleguide](https://github.com/bahlo/go-styleguide) - Opinionated Styleguide for the Go language
 - [uber-go/guide](https://github.com/uber-go/guide/blob/master/style.md) - The Uber Go Style Guide.
 ## 📕 Articles
+- [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html)
 - [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/gophercon-israel.html)
 - [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
 - [Design Recommendations - Practical Go Lessons](https://www.practical-go-lessons.com/chap-40-design-recommendations)

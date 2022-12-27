@@ -103,3 +103,5 @@
 - [cage1016/gokit-todo](https://github.com/cage1016/gokit-todo) - todomvc full stack demo project. react + backend API by gokit microservice toolkit. include unit test, integration test, e2e test, github action ci
 - [jfeng45/servicetmpl](https://github.com/jfeng45/servicetmpl) - Microservice template project for Go and gRPC
 - [jfeng45/order](https://github.com/jfeng45/order) - A Go Event Driven Microservice for Order Service
+- [jxlwqq/blog-microservices](https://github.com/jxlwqq/blog-microservices) - A blog microservices written in Golang, which can be deployed in an Istio-enabled kubernetes cluster.
+- [go-kratos/kratos-layout](https://github.com/go-kratos/kratos-layout) - Kratos Project Template

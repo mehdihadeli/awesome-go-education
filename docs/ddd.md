@@ -12,8 +12,12 @@
 - [Practical DDD in Golang: Value Object](https://levelup.gitconnected.com/practical-ddd-in-golang-value-object-4fc97bcad70)
 - [Practical DDD in Golang: Entity](https://levelup.gitconnected.com/practical-ddd-in-golang-entity-40d32bdad2a3)
 - [Practical DDD in Golang: Repository](https://levelup.gitconnected.com/practical-ddd-in-golang-repository-d308c9d79ba7)
+- [Implementing Domain-Driven Design and Hexagonal Architecture with Go (1)](https://medium.com/@TonyBologni/implementing-domain-driven-design-and-hexagonal-architecture-with-go-1-292938c0a4d4)
+- [Implementing Domain-Driven Design and Hexagonal Architecture with Go (2)](https://medium.com/@TonyBologni/implementing-domain-driven-design-and-hexagonal-architecture-with-go-2-efd432505554)
 ## 📺 Videos
 - [Building an Enterprise Service in Go at Golang UK Conference 2016](https://www.youtube.com/watch?v=twcDf_Y2gXY)
+- [How To Structure Domain Driven Design (DDD) In Go](https://www.youtube.com/watch?v=jJHhXaWwM7Y)
+- [How To Implement Domain-Driven Design (DDD) in Go](https://www.youtube.com/watch?v=6zuJXIbOyhs)
 ## 🚀 Samples
 - [AkbaraliShaikh/denti](https://github.com/AkbaraliShaikh/denti) - This project is created to demonstrate Go-Lang Clean Architecture/DDD/Hexagonal Architecture, and It show the usage of popular libraries gin, gorm, zap and dig.
 - [takashabe/go-ddd-sample](https://github.com/takashabe/go-ddd-sample) - DDD like architecture sample application
@@ -27,5 +31,8 @@
 - [charly3pins/eShop](https://github.com/charly3pins/eShop) - [WIP] E-Commerce project using Hexagonal Architecture (Ports-and-adapters) as a proof-of-concept applying DDD in Go
 - [victorsteven/food-app-server](https://github.com/victorsteven/food-app-server) - Exploring Domain-Driven Design in Golang
 - [eyazici90/go-ddd](https://github.com/eyazici90/go-ddd) - Practical implementation of Domain Driven Design in go
+- [MaksimDzhangirov/practicalDDD](https://github.com/MaksimDzhangirov/practicalDDD) - Practical DDD in Golang
+- [AntonStoeckl/go-iddd](https://github.com/AntonStoeckl/go-iddd) - showcase project for implementing DDD in Go
+- [EventStore/training-advanced-go](https://github.com/EventStore/training-advanced-go)
 ## 📚 Books
 - [Go with the Domain](https://threedots.tech/go-with-the-domain/) - Free e-book on Building Modern Business Software in Go

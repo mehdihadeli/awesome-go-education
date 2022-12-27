@@ -151,6 +151,7 @@ nav:
   - Authentication & OAuth: auth-oauth.md
   - Microservices : microservices.md
   - Service Discovery : service-discovery.md
+  - Distributed Transaction: distributed-transaction.md
   - Tracing: tracing.md
   - Go Generate: go-generate.md
   - OOP : oop.md
@@ -169,16 +170,19 @@ nav:
   - Anti Patterns: anti-patterns.md
   - Functional Programming: functional-programming.md
   - Test: test.md
-  - Docker Kubernetes: docker-kubernetes.md
+  - Docker: docker.md
+  - Kubernetes: kubernetes.md
   - Software Architecture : software-architecture.md
   - Build & Install: build-install.md
   - Workspace && GOPATH: workspace-gopath.md
   - Package Management: package-management.md
+  - Rate Limit: rate-limit.md
+  - Libraries: libraries.md
   - ID: id.md
   - Tools: tools.md
   - Utils: utils.md
   - Netlify: netlify.md
-  - Formatters: formatters.md
+  - Lint & Formatters: lint-formatters.md
   - CLI: cli.md
   - CI/CD: ci-cd.md
   - Resources: resources.md

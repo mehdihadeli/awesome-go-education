@@ -7,6 +7,8 @@
 - [Go dependency injection with Wire - logrocket](https://blog.logrocket.com/go-dependency-injection-wire/)
 - [Mastering Wire](https://itnext.io/mastering-wire-f1226717bbac)
 - [Dependency injection in GO](https://golangforall.com/en/post/dependency-injection.html)
+- [Dependency Injection in Go - Rafael Vargas](https://medium.com/avenue-tech/dependency-injection-in-go-35293ef7b6)
+- [Dependency Injection with Go Fx](https://articles.wesionary.team/dependency-injection-with-go-fx-b698a6585cf0)
 ## Libraries
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go.

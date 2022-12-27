@@ -6,6 +6,7 @@
 ## 📦 Libraries
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [knadh/koanf](https://github.com/knadh/koanf) - Simple, lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
+- [jinzhu/configor](https://github.com/jinzhu/configor) - Golang Configuration tool that support YAML, JSON, TOML, Shell Environment
 ## Samples
 - [omrfrkazt/golang-generic-repository-pattern/](https://github.com/omrfrkazt/golang-generic-repository-pattern/)
 - [AleksK1NG/Go-CQRS-Kafka-gRPC-Microservices](https://github.com/AleksK1NG/Go-CQRS-Kafka-gRPC-Microservices)

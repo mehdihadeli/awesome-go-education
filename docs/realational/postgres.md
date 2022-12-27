@@ -14,6 +14,10 @@
 - [How to work with Postgres in Go](https://medium.com/avitotech/how-to-work-with-postgres-in-go-bad2dabd13e4)
 - [A clean way to implement database transaction in Golang](https://dev.to/techschoolguru/a-clean-way-to-implement-database-transaction-in-golang-2ba)
 - [Generate CRUD Golang code from SQL | Compare db/sql, gorm, sqlx, sqlc](https://dev.to/techschoolguru/generate-crud-golang-code-from-sql-and-compare-db-sql-gorm-sqlx-sqlc-560j)
+- [MICROSERVICES IN GO: ACCESSING POSTGRESQL (PART 1) - PLAIN SQL](https://mariocarrion.com/2021/02/05/tips-building-microservices-in-go-golang-databases-postgresql-part1.html)
+- [MICROSERVICES IN GO: ACCESSING POSTGRESQL (PART 3) - STATEMENTS BUILDER AND CODE GENERATORS](https://mariocarrion.com/2021/02/23/tips-building-microservices-in-go-golang-databases-postgresql-sqlc-squirrel.html)
+- [MICROSERVICES IN GO: ACCESSING POSTGRESQL (PART 4) - PUTTING IT ALL TOGETHER](https://mariocarrion.com/2021/03/02/tips-building-microservices-in-go-golang-databases-postgresql-conclusion.html)
+
 ## Videos
 - [Design DB schema and generate SQL code with dbdiagram.io](https://www.youtube.com/watch?v=rx6CPDK_5mU)
 - [Golang Microservices: PostgreSQL via sqlc, squirrel](https://www.youtube.com/watch?v=NOevBG0fbKc)
@@ -29,8 +33,11 @@
 - [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Go driver for MongoDB
 - [georgysavva/scany](https://github.com/georgysavva/scany) - Library for scanning data from a database into Go structs and more
 - [bokwoon95/go-structured-query](https://github.com/bokwoon95/go-structured-query) - Type safe SQL query builder and struct mapper for Go
+- [github.com/uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
+- [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) - Generate a Go ORM tailored to your database schema.
 ## Samples
 - [johanbrandhorst/grpc-postgres](https://github.com/johanbrandhorst/grpc-postgres) - An example repo of how I like to use postgres with gRPC
 - [x1unix/sbda-ledger](https://github.com/x1unix/sbda-ledger)
 - [henvic/pgxtutorial](https://github.com/henvic/pgxtutorial)
 - [MarioCarrion/go-database-postgresql](https://github.com/MarioCarrion/videos/tree/a7bfd52e9b3705aa8510f5709620370a21e2aa81/2021/02/09-go-database-postgresql-part-3)
+- [rafael-piovesan/go-rocket-ride](https://github.com/rafael-piovesan/go-rocket-ride)

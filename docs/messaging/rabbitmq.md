@@ -28,6 +28,7 @@
 - [integration-system/grmq](https://github.com/integration-system/grmq/) - High abstraction wrapper for Golang Rabbit MQ Client
 - [wagslane/go-rabbitmq](https://github.com/wagslane/go-rabbitmq) - A wrapper of streadway/amqp that provides reconnection logic and sane defaults
 - [gbeletti/rabbitmq](https://github.com/gbeletti/rabbitmq) - A simplification of the amqp lib to build a client in a service
+- [michaelklishin/rabbit-hole](https://github.com/michaelklishin/rabbit-hole) - RabbitMQ HTTP API client in Go
 ## Samples
 - [rabbitmq/rabbitmq-tutorials](https://github.com/rabbitmq/rabbitmq-tutorials/tree/master/go)
 - [RabbitMQ Sample](https://gist.github.com/ribice/20951bd1c84d714ff2476465c0c0653f)

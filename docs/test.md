@@ -32,6 +32,11 @@
 - [Improving Your Go Tests and Mocks With Testify](https://tutorialedge.net/golang/improving-your-tests-with-testify-go/)
 - [Top Go Modules: Writing Unit Tests with Testify](https://jfrog.com/blog/top-go-modules-writing-unit-tests-with-testify/)
 - [A deep dive into unit testing in Go](https://blog.logrocket.com/a-deep-dive-into-unit-testing-in-go/)
+- [Testing errors in Go](https://bitfieldconsulting.com/golang/testing-errors)
+- [Comparing Go error values](https://bitfieldconsulting.com/golang/comparing-errors)
+- [Test-driven development with Go](https://bitfieldconsulting.com/golang/tdd)
+- [Test names should be sentences](https://bitfieldconsulting.com/golang/test-names)
+- [Test scripts in Go](https://bitfieldconsulting.com/golang/test-scripts)
 ## 📺 Videos
 - [Writing Microservice Integration Tests in Go (Finally) - GopherCon SG 2019](https://www.youtube.com/watch?v=5iVDYga9ts0)
 - [Testing with golang and testify - tutorial part 1](https://www.youtube.com/watch?v=Su6zn1_blw0)
@@ -84,6 +89,8 @@
 - [hexops/autogold](https://github.com/hexops/autogold) - Automatically update your Go tests
 - [ovh/venom](https://github.com/ovh/venom) - Manage and run your integration tests with efficiency - Venom run executors (script, HTTP Request, web, imap, etc... ) and assertions
 - [benweissmann/memongo](https://github.com/benweissmann/memongo) - Easily run an in-memory MongoDB server for your Go unit tests
+- [steinfletcher/apitest](https://github.com/steinfletcher/apitest) - A simple and extensible behavioural testing library for Go. You can use api test to simplify REST API, HTTP handler and e2e tests.
+- [alicebob/miniredis/](https://github.com/alicebob/miniredis/) - Pure Go Redis server for Go unittests
 ## 🚀 Samples
 - [victorsteven/Unit-And-Integration-Testing](https://github.com/victorsteven/Unit-And-Integration-Testing) - A simple approach to understanding Unit and Integration testing in Golang
 - [bozd4g/fb.testcontainers](https://github.com/bozd4g/fb.testcontainers) - A sample Integration Testing with Docker Containers implementation written with Golang.

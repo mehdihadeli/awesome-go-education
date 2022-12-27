@@ -44,10 +44,10 @@
 - [OpenTelemetry Deep Dive: Golang](https://www.youtube.com/watch?v=yQpyIrdxmQc)
 
 ## Libraries
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector
 - [open-telemetry/opentelemetry-collector/](https://github.com/open-telemetry/opentelemetry-collector/) - OpenTelemetry Collector
 - [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK
 - [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) - Collection of extensions for OpenTelemetry-Go.
+- [XSAM/otelsql](https://github.com/XSAM/otelsql) - OpenTelemetry instrumentation for database/sql
 ## 🚀 Samples
 - [tedsuo/otel-go-basics](https://github.com/tedsuo/otel-go-basics)
 - [open-telemetry/opentelemetry-go/example](https://github.com/open-telemetry/opentelemetry-go/tree/main/example)

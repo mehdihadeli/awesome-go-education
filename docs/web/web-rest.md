@@ -5,7 +5,7 @@
 - [Learn Web Programming in Go by Examples](https://gowebexamples.com/)
 - [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/) - A golang ebook intro how to build a web with golang
 - [Web & API Development](https://github.com/golang/go/wiki/Articles#web--api-development)
-
+- [diyan/go-web-framework-comparison](https://github.com/diyan/go-web-framework-comparison) - Golang Web Framework Comparison
 ## 📕 Articles
 - [How to Build a Web App with Gin](https://universalglue.dev/series/how-to-build-a-web-app-with-gin/) - A series of articles about building a small web app using Go, Gin, and Gorm
 - [Tutorial: Developing a RESTful API with Go and Gin](https://go.dev/doc/tutorial/web-service-gin)
@@ -69,7 +69,7 @@
 - [eyazici90/go-mediator](https://github.com/eyazici90/go-mediator) - Simple mediator implementation in go
 - [eapache/go-resiliency](https://github.com/eapache/go-resiliency) - Resiliency patterns for golang
 - [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
-
+- [emicklei/go-restful](https://github.com/emicklei/go-restful) - package for building REST-style Web Services using Go
 ## 🚀 Samples
 - [Mindinventory/Golang-Project-Structure](https://github.com/Mindinventory/Golang-Project-Structure) - Golang Skeleton With Fully Managed Versions For Kick Start GoLang Project Development
 - [gothinkster/golang-gin-realworld-example-app](https://github.com/gothinkster/golang-gin-realworld-example-app) - Exemplary real world application built with Golang + Gin

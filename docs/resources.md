@@ -68,7 +68,7 @@
 - [KaranPratapSingh](https://www.youtube.com/c/KaranPratapSingh)
 - [Golang Dojo](https://www.youtube.com/c/GolangDojo)
 ## Blogs
-
+- [FreshMan](https://freshman.tech/)
 - [Algorithms to Go](https://yourbasic.org/)
 - [ALEX EDWARDS](https://www.alexedwards.net/blog)
 - [Golang Weekly](https://golangweekly.com/)

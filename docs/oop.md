@@ -26,3 +26,6 @@
 ## 📺 Videos
 - [Golang Object Oriented](https://www.youtube.com/watch?v=fLvMfrSRPmQ)
 - [Go can do OOP too, sorta - Go / Golang OOP Tutorial ](https://www.youtube.com/watch?v=fTFru0Zha-c)
+
+## Samples
+- [MaksimDzhangirov/oop-go](https://github.com/MaksimDzhangirov/oop-go) - OOP in Golang
