@@ -16,6 +16,7 @@
 - [segmentio/golines](https://github.com/segmentio/golines) - A golang formatter that fixes long lines
 - [TekWizely/pre-commit-golang](https://github.com/TekWizely/pre-commit-golang) - Pre-commit hooks for Golang with support for monorepos, the ability to pass arguments and environment variables to all hooks, and the ability to invoke custom go tools.
 - [kisielk/errcheck](https://github.com/kisielk/errcheck) - errcheck checks that you checked errors.
+- [dominikh/go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter
 ## Samples
 - [Golden config for golangci-lint](https://gist.github.com/maratori/47a4d00457a92aa426dbd48a18776322)
 - [golangci/example-plugin-linter](https://github.com/golangci/example-plugin-linter) - example linter that can be used as a plugin for github.com/golangci/golangci-lint

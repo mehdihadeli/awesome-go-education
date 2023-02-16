@@ -36,3 +36,4 @@
 - [EventStore/training-advanced-go](https://github.com/EventStore/training-advanced-go)
 ## 📚 Books
 - [Go with the Domain](https://threedots.tech/go-with-the-domain/) - Free e-book on Building Modern Business Software in Go
+- [Domain-Driven Design with Golang](https://www.packtpub.com/product/domain-driven-design-with-golang/9781804613450)

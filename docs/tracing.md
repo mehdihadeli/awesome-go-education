@@ -49,6 +49,7 @@
 - [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) - Collection of extensions for OpenTelemetry-Go.
 - [XSAM/otelsql](https://github.com/XSAM/otelsql) - OpenTelemetry instrumentation for database/sql
 ## 🚀 Samples
+- [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) - OpenTelemetry Community Demo Application
 - [tedsuo/otel-go-basics](https://github.com/tedsuo/otel-go-basics)
 - [open-telemetry/opentelemetry-go/example](https://github.com/open-telemetry/opentelemetry-go/tree/main/example)
 - [open-telemetry/opentelemetry-collector-contrib/examples/demo](https://github.com/open-telemetry/opentelemetry-collector-contrib/tree/main/examples/demo)

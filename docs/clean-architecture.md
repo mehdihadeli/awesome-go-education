@@ -15,6 +15,7 @@
 - [Go, Kafka and gRPC clean architecture CQRS microservices with Jaeger tracing ](https://dev.to/aleksk1ng/go-kafka-and-grpc-clean-architecture-cqrs-microservices-with-jaeger-tracing-45bj)
 - [Go gRPC Clean architecture microservice with Prometheus, Grafana monitoring and Jaeger opentracing](https://dev.to/aleksk1ng/go-grpc-clean-architecture-microservice-with-prometheus-grafana-monitoring-and-jaeger-opentracing-51om)
 - [Hexagonal Architecture: Structuring a project and the influence of granularity](https://medium.com/@TonyBologni/hexagonal-architecture-structuring-a-project-and-the-influence-of-granularity-df4e0851ab5c)
+- [Clean Architecture, 2 years later](https://eltonminetto.dev/en/post/2020-07-06-clean-architecture-2years-later/)
 ## 📺 Videos
 - [GO - Clean Architecture](https://www.youtube.com/playlist?list=PL7Bs8ngpweC6KN8g1_LS4Be0bWXB23UKB)
 - [Clean architecture in Go. How to organize a project structure?](https://www.youtube.com/watch?v=goC-gCNWhS4)
@@ -59,3 +60,4 @@
 - [dipeshdulal/clean-gin](https://github.com/dipeshdulal/clean-gin) - Implementation of clean architecture in Go, Gin with dependency injection.
 - [RealLiuSha/echo-admin](https://github.com/RealLiuSha/echo-admin)
 - [EventStore/training-advanced-go](https://github.com/EventStore/training-advanced-go)
+- [gmhafiz/go8](https://github.com/gmhafiz/go8) - Go + Postgres + Chi Router + sqlx + ent + unit testing Starter Kit for API Development

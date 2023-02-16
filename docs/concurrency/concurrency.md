@@ -51,6 +51,8 @@
 - [Common Goroutine Leaks that You Should Avoid](https://betterprogramming.pub/common-goroutine-leaks-that-you-should-avoid-fe12d12d6ee)
 - [LeakProf: Featherlight In-Production Goroutine Leak Detection ](https://www.uber.com/en-IT/blog/leakprof-featherlight-in-production-goroutine-leak-detection/)
 - [Writing Better Code With Go Concurrency Patterns](https://betterprogramming.pub/writing-better-code-with-go-concurrency-patterns-9bc5f9f73519)
+- [Advanced Concurrency Patterns](https://www.karanpratapsingh.com/courses/go/advanced-concurrency-patterns)
+
 ## 📺 Videos
 - [Concurrency in Go - Steve Hook - Playlist](https://www.youtube.com/playlist?list=PLsc-VaxfZl4do3Etp_xQ0aQBoC-x5BIgJ)
 - [Deadlocks: The Dark Side of Concurrency - Nick Craig-Wood](https://youtu.be/9j0oQkqzhAE)v
@@ -70,6 +72,6 @@
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
 - [modern-go/concurrent](https://github.com/modern-go/concurrent) - concurrency utilities
 - [panjf2000/ants](https://github.com/panjf2000/ants) - ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants
-
+- [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
 ## Books
 - [Concurrency in Go: Tools and Techniques for Developers](https://www.amazon.com/Concurrency-Go-Tools-Techniques-Developers/dp/1491941197)

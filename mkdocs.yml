@@ -164,6 +164,7 @@ nav:
   - Mappings: mappings.md
   - Benchmarks: benchmarks.md
   - Retry: retry.md
+  - Background Tasks: background-task
   - Debugging: debugging.md
   - Reflection: reflection.md
   - Elastic Search: elastic.md
@@ -173,6 +174,7 @@ nav:
   - Docker: docker.md
   - Kubernetes: kubernetes.md
   - Software Architecture : software-architecture.md
+  - Naming Convention : naming-convention.md
   - Build & Install: build-install.md
   - Workspace && GOPATH: workspace-gopath.md
   - Package Management: package-management.md

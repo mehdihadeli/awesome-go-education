@@ -5,7 +5,7 @@
 - [Creating Signup Handler in Gin - Binding Data](https://dev.to/jacobsngoodwin/creating-signup-handler-in-gin-binding-data-3kb5)
 - [Token Creation](https://dev.to/jacobsngoodwin/09-token-creation-gjh)
 - [Store Refresh Tokens in Redis](https://dev.to/jacobsngoodwin/12-store-refresh-tokens-in-redis-1k5d)
-
+- [Web Development JWT Practices](https://dev.to/baize1998/web-development-jwt-practices-59cn)
 ## Libraries
 - [go-oauth2/oauth2](https://github.com/go-oauth2/oauth2) - OAuth 2.0 server library for the Go programming language.
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps

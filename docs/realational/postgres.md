@@ -17,7 +17,18 @@
 - [MICROSERVICES IN GO: ACCESSING POSTGRESQL (PART 1) - PLAIN SQL](https://mariocarrion.com/2021/02/05/tips-building-microservices-in-go-golang-databases-postgresql-part1.html)
 - [MICROSERVICES IN GO: ACCESSING POSTGRESQL (PART 3) - STATEMENTS BUILDER AND CODE GENERATORS](https://mariocarrion.com/2021/02/23/tips-building-microservices-in-go-golang-databases-postgresql-sqlc-squirrel.html)
 - [MICROSERVICES IN GO: ACCESSING POSTGRESQL (PART 4) - PUTTING IT ALL TOGETHER](https://mariocarrion.com/2021/03/02/tips-building-microservices-in-go-golang-databases-postgresql-conclusion.html)
-
+- [Golang Database Library and ORM Example - Introduction](https://www.gmhafiz.com/blog/golang-database-library-orm-example-intro/)
+- [Golang Database Library Orm Example - Create](https://www.gmhafiz.com/blog/golang-database-library-orm-example-create/)
+- [Golang Database Library Orm Example - List](https://www.gmhafiz.com/blog/golang-database-library-orm-example-list/)
+- [Golang Database Library Orm Example - Where IN](https://www.gmhafiz.com/blog/golang-database-library-orm-example-where-in/)
+- [Golang Database Library Orm Example - Get](https://www.gmhafiz.com/blog/golang-database-library-orm-example-get/)
+- [Golang Database Library Orm Example - Update](https://www.gmhafiz.com/blog/golang-database-library-orm-example-update/)
+- [Golang Database Library Orm Example - Delete](https://www.gmhafiz.com/blog/golang-database-library-orm-example-delete/)
+- [Golang Database Library Orm Example - One to Many](https://www.gmhafiz.com/blog/golang-database-library-orm-example-one-to-many/)
+- [Golang Database Library Orm Example - Many to Many](https://www.gmhafiz.com/blog/golang-database-library-orm-example-many-to-many/)
+- [Golang Database Library Orm Example Dynamic List](https://www.gmhafiz.com/blog/golang-database-library-orm-example-dynamic-list)
+- [Golang Database Library Orm Example Transaction](https://www.gmhafiz.com/blog/golang-database-library-orm-example-transaction/)
+- [Golang Database Library Orm Example Sql Injection](https://www.gmhafiz.com/blog/golang-database-library-orm-example-sql-injection/)
 ## Videos
 - [Design DB schema and generate SQL code with dbdiagram.io](https://www.youtube.com/watch?v=rx6CPDK_5mU)
 - [Golang Microservices: PostgreSQL via sqlc, squirrel](https://www.youtube.com/watch?v=NOevBG0fbKc)
@@ -41,3 +52,5 @@
 - [henvic/pgxtutorial](https://github.com/henvic/pgxtutorial)
 - [MarioCarrion/go-database-postgresql](https://github.com/MarioCarrion/videos/tree/a7bfd52e9b3705aa8510f5709620370a21e2aa81/2021/02/09-go-database-postgresql-part-3)
 - [rafael-piovesan/go-rocket-ride](https://github.com/rafael-piovesan/go-rocket-ride)
+- [gmhafiz/golang-database-library-orm-example](https://github.com/gmhafiz/golang-database-library-orm-example) - Examples of using various popular database libraries and ORM in Go.
+- [gmhafiz/go8](https://github.com/gmhafiz/go8) - Go + Postgres + Chi Router + sqlx + ent + unit testing Starter Kit for API Development

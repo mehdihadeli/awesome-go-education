@@ -108,6 +108,7 @@
 - [wesionaryTEAM/go_clean_architecture](https://github.com/wesionaryTEAM/go_clean_architecture) - Go Clean Architecture Used at @wesionaryTEAM
 - [dipeshdulal/clean-gin](https://github.com/dipeshdulal/clean-gin) - Implementation of clean architecture in Go, Gin with dependency injection.
 - [RealLiuSha/echo-admin](https://github.com/RealLiuSha/echo-admin)
+- [gmhafiz/go8](https://github.com/gmhafiz/go8) - Go + Postgres + Chi Router + sqlx + ent + unit testing Starter Kit for API Development
 ## Recipes
 - [gofiber/recipes](https://github.com/gofiber/recipes) - Examples for 🚀 Fiber
 - [labstack/echox](https://github.com/labstack/echox) - Echo cookbook and website

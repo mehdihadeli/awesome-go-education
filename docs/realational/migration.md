@@ -7,7 +7,8 @@
 ## Libaries
 - [golang-migrate/migrate](http://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [GuiaBolso/darwin](http://github.com/GuiaBolso/darwin)
-
+- [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
+- [ariga/atlas](https://github.com/ariga/atlas) - Atlas: A modern tool for managing database schemas
 ## Videos
 - [How to write & run database migration in Golang](https://www.youtube.com/watch?v=0CYkrGIJkpw)
 - [Golang Tools: database schema migrations](https://www.youtube.com/watch?v=EavdaeUmn64)

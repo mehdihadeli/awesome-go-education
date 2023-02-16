@@ -91,6 +91,8 @@
 - [benweissmann/memongo](https://github.com/benweissmann/memongo) - Easily run an in-memory MongoDB server for your Go unit tests
 - [steinfletcher/apitest](https://github.com/steinfletcher/apitest) - A simple and extensible behavioural testing library for Go. You can use api test to simplify REST API, HTTP handler and e2e tests.
 - [alicebob/miniredis/](https://github.com/alicebob/miniredis/) - Pure Go Redis server for Go unittests
+- [icrowley/fake](https://github.com/icrowley/fake) - Fake data generator for Go (Golang)
+- [jaswdr/faker](https://github.com/jaswdr/faker) - Ultimate fake data generator for Go with zero dependencies
 ## 🚀 Samples
 - [victorsteven/Unit-And-Integration-Testing](https://github.com/victorsteven/Unit-And-Integration-Testing) - A simple approach to understanding Unit and Integration testing in Golang
 - [bozd4g/fb.testcontainers](https://github.com/bozd4g/fb.testcontainers) - A sample Integration Testing with Docker Containers implementation written with Golang.
@@ -105,3 +107,4 @@
 - [testingallthethings/033-go-rest](https://github.com/testingallthethings/033-go-rest) - Demonstrating End to End, Integration & Unit test to create a simple REST API
 - [daopmdean/todoapp-backend](https://github.com/daopmdean/todoapp-backend) - Rest API for todoapp written in Golang, using clean architecture, CI/CD (including unit test and integration test.
 - [thomaslanghorst/testify-tutorial](https://github.com/thomaslanghorst/testify-tutorial)
+- [gmhafiz/go8](https://github.com/gmhafiz/go8)
