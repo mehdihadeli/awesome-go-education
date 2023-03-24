@@ -15,5 +15,7 @@
 - [golang.org/x/exp/slog](https://pkg.go.dev/golang.org/x/exp/slog)
 - [coder/slog](https://github.com/coder/slog) - Minimal structured logging library for Go
 - [chanchal1987/zaphandler](https://github.com/chanchal1987/zaphandler) - zaphandler will help to create slog handler using zap logger
+- [charmbracelet/log](https://github.com/charmbracelet/log) A minimal, colorful Go logging library
+
 ## 🚀 Samples
 - [AkbaraliShaikh/denti](https://github.com/AkbaraliShaikh/denti) - This project is created to demonstrate Go-Lang Clean Architecture/DDD/Hexagonal Architecture, and It show the usage of popular libraries gin, gorm, zap and dig.

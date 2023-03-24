@@ -52,6 +52,8 @@
 - [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go
 - [ThreeDotsLabs/watermill-amqp](https://github.com/ThreeDotsLabs/watermill-amqp) - AMQP Pub/Sub for the Watermill project.
 - [rookie-ninja/rk-boot](https://github.com/rookie-ninja/rk-boot) - Build microservice with rk-boot and let the team take over clean and tidy code.
+- [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications.
+
 ## 🚀 Samples
 - [MarioCarrion/todo-api-microservice-example](https://github.com/MarioCarrion/todo-api-microservice-example) - Go microservice tutorial project using Domain Driven Design and Onion Architecture!
 - [go-kratos/beer-shop](https://github.com/go-kratos/beer-shop) - An online shop application, the complete microservices demo for kratos.

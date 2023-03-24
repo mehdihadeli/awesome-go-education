@@ -12,6 +12,8 @@
 - [markbates/goth](https://github.com/markbates/goth) - Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications.
 - [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
 - [golang/oauth2](https://github.com/golang/oauth2) - Go OAuth2
+- [eko/authz](https://github.com/eko/authz) - 🛡️ Authorization backend that comes with a UI for RBAC and ABAC permissions
+
 ## Samples
 - [JacobSNGoodwin/memrizr](https://github.com/JacobSNGoodwin/memrizr) 
 - [vardius/go-api-boilerplate](https://github.com/vardius/go-api-boilerplate)

@@ -87,10 +87,10 @@ nav:
       - First Class Functions: go-instructions/functions/first-class-functions.md
       - Variadic Functions: go-instructions/functions/variadic-functions.md
       - Defer: go-instructions/functions/defer.md
-    - Relational DB:
-      - Postgres: realational/postgres.md
-      - ORM: realational/orm.md
-      - Migration: realational/migration.md.
+    - Relational Databases:
+      - Postgres: relational/postgres.md
+      - ORM: relational/orm.md
+      - Migration: relational/migration.md
     - NoSQL:
       - MongoDB: no-sql/mongodb.md
     - Init: go-instructions/init.md
@@ -118,9 +118,6 @@ nav:
       - Array: go-instructions/collections/arrays.md
       - Maps: go-instructions/collections/maps.md
       - Slices: go-instructions/collections/slices.md
-  - ORM:
-    - ORM: database/orm/orm.md
-    - gorm: database/orm/gorm.md
   - Logging: logging.md
   - DDD: ddd.md
   - Repository: repository.md
