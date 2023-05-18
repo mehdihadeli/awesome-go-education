@@ -6,6 +6,7 @@
 - [Top 6 Golang Logging Best Practices](https://qvault.io/golang/golang-logging-best-practices/)
 - [Top 6 Golang Logging Best Practices](https://blog.boot.dev/golang/golang-logging-best-practices/)
 - [Logging in Go with slog](https://thedevelopercafe.com/articles/logging-in-go-with-slog-a7bb489755c2)
+- [A Comprehensive Guide to Structured Logging in Go](https://betterstack.com/community/guides/logging/logging-in-go/)
 
 ## 📦 Libraries
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
@@ -21,6 +22,9 @@
 - [neilotoole/slogt](https://github.com/neilotoole/slogt) - Bridge between Go testing.T and slog.
 - [gookit/slog](https://github.com/gookit/slog) - Lightweight, configurable, extensible logging library written in Go. Support multi level, multi outputs and built-in multi file logger, buffers, clean, rotate-file handling
 - [samber/slog-multi](https://github.com/samber/slog-multi) - Design workflows of slog handlers: pipeline, middleware, fanout, failover, load balancing
+- [samber/slog-gin](https://github.com/samber/slog-gin) - Gin middleware for slog logger
+- [samber/slog-echo](https://github.com/samber/slog-echo) - Echo middleware for slog logger
+
 ## Videos
 - [Software Architecture in Golang: Structured Logging using slog (Observability)](https://www.youtube.com/watch?v=htbGdhW3JdQ)
 

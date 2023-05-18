@@ -42,6 +42,8 @@
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - Source code and community space of 📖 100 Go Mistakes.
 - [How To Code in Go - DigitalOcean](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-go)
 - [Libraries you use most of your projects?](https://www.reddit.com/r/golang/comments/yjzeid/libraries_you_use_most_of_your_projects/)
+- [TannerGabriel/learning-go](https://github.com/TannerGabriel/learning-go) - Projects, Algorithms and data structures implemented in Golang with explanations and links to further readings
+
 ## Courses
 - [Go: Getting Started - Pluralsight](https://www.pluralsight.com/courses/getting-started-with-go)
 - [Getting Started With Golang - Academind](https://pro.academind.com/p/golang-the-practical-guide)
@@ -56,6 +58,7 @@
 - [Building Modern Web Applications with Go (Golang) - Udemy](https://www.udemy.com/course/building-modern-web-applications-with-go/)
 - [REST based microservices API development in Golang - Udemy](https://www.udemy.com/course/rest-based-microservices-api-development-in-go-lang/)
 - [Golang - TutorialEdge.net](https://tutorialedge.net/course/golang/)
+- [Go Programming – Golang Course with Bonus Projects](https://www.youtube.com/watch?v=un6ZyFkqFKo)
 
 ## Youtube Channel
 - [GolangCafe](https://www.youtube.com/c/GolangCafe)

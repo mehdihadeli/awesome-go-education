@@ -13,3 +13,4 @@
 - [gojek/heimdall](https://github.com/gojek/heimdall) - An enhanced HTTP client for Go
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic
 - [sethgrid/pester](https://github.com/sethgrid/pester) - Go (golang) http calls with retries and backoff
+- [dghubble/sling](https://github.com/dghubble/sling) - A Go HTTP client library for creating and sending API requests

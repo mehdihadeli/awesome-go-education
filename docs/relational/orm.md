@@ -23,7 +23,7 @@
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) - Generate a Go ORM tailored to your database schema.
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
-
+- [go-jet/jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping
 
 ## Samples
 - [gmhafiz/golang-database-library-orm-example](https://github.com/gmhafiz/golang-database-library-orm-example) - Examples of using various popular database libraries and ORM in Go.

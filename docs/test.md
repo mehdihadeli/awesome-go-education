@@ -37,6 +37,8 @@
 - [Test-driven development with Go](https://bitfieldconsulting.com/golang/tdd)
 - [Test names should be sentences](https://bitfieldconsulting.com/golang/test-names)
 - [Test scripts in Go](https://bitfieldconsulting.com/golang/test-scripts)
+- [Boosting your Kafka integration tests using Redpanda with Go](https://levelup.gitconnected.com/boosting-your-kafka-integration-tests-using-redpanda-with-go-247e4276c61d)
+
 ## 📺 Videos
 - [Writing Microservice Integration Tests in Go (Finally) - GopherCon SG 2019](https://www.youtube.com/watch?v=5iVDYga9ts0)
 - [Testing with golang and testify - tutorial part 1](https://www.youtube.com/watch?v=Su6zn1_blw0)

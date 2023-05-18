@@ -51,6 +51,7 @@
 - [Structured errors in Go](https://www.southcla.ws/go-structured-errors/)
 - [Wrapping errors in Go: A new approach](https://www.southcla.ws/go-error-wrapping/)
 - [ADVANCED GO ERROR HANDLING MADE SIMPLE](https://blog.lobocv.com/posts/richer_golang_errors/)
+
 ## Videos
 - [GopherCon 2016: Dave Cheney - Dont Just Check Errors Handle Them Gracefully](https://www.youtube.com/watch?v=lsBF58Q-DnY)
 - [GopherCon 2019: Marwan Sulaiman - Handling Go Errors](https://www.youtube.com/watch?v=4WIhhzTTd0Y)
@@ -70,3 +71,4 @@
 - [juju/errors](https://github.com/juju/errors) - Common juju errors and functions to annotate errors. Based on juju/errgo
 - [asaskevich/govalidator](https://github.com/asaskevich/govalidator) - Package of validators and sanitizers for strings, numerics, slices and structs
 - [Southclaws/fault](https://github.com/Southclaws/fault) - Go errors but structured and composable. Fault provides an extensible yet ergonomic mechanism for wrapping errors.
+- [samber/oops](https://github.com/samber/oops) - Error handling library with context, stack trace and source fragments
