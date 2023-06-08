@@ -22,6 +22,7 @@
 - [Micro In Action: Error Handling Across Service Boundaries](https://itnext.io/micro-in-action-error-handling-across-services-boundary-2f9f27821bd5)
 - [Micro In Action, Part 1: Getting Started](https://itnext.io/micro-in-action-getting-started-a79916ae3cac)
 - [Micro In Action, Part 2: An Ultimate Guide For Bootstrap](https://itnext.io/micro-in-action-part-2-71230f01d6fb)
+
 ## 📺 Videos
 - [Building Microservices with Go - Nic Jackson - Playlist](https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_)
 - [Golang Microservices: Project Layout and Domain Driven Design](https://www.youtube.com/watch?v=LUvid5TJ81Y)
@@ -30,6 +31,7 @@
 - [Building gRPC Microservices in Go](https://tutorialedge.net/courses/go-grpc-services-course/)
 - [Learn to build microservices: from code to K8s deployment in 60 minutes](https://www.youtube.com/watch?v=unRRnOfxa0s)
 - [Building Microservices with the Go Kit Toolkit](https://www.youtube.com/watch?v=sjd2ePF3CuQ)
+
 ## 📦 Libraries
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [asim/go-micro](https://github.com/asim/go-micro) - A pluggable Go framework for distributed systems development
@@ -73,7 +75,6 @@
 - [hb-chen/micro-starter](https://github.com/hb-chen/micro-starter) 
 - [shijuvar/gokit-examples](https://github.com/shijuvar/gokit-examples) - Examples for building microservices with Go kit (gokit.io)
 - [tinrab/spidey](https://github.com/tinrab/spidey) - Building Distributed Systems and Microservices in Go with NATS Streaming
-- [ebosas/microservices](https://github.com/ebosas/microservices) - A microservices example in Go
 - [xmlking/micro-starter-kit](https://github.com/xmlking/micro-starter-kit) - Cloud Native GoLang Microservices - gRPC, GraphQL
 - [antklim/go-microservices](https://github.com/antklim/go-microservices) - Examples of microservices written in Go using different frameworks
 - [buptmiao/microservice-app](https://github.com/buptmiao/microservice-app) - A microservices architecture app powered by golang.
@@ -107,3 +108,6 @@
 - [jfeng45/order](https://github.com/jfeng45/order) - A Go Event Driven Microservice for Order Service
 - [jxlwqq/blog-microservices](https://github.com/jxlwqq/blog-microservices) - A blog microservices written in Golang, which can be deployed in an Istio-enabled kubernetes cluster.
 - [go-kratos/kratos-layout](https://github.com/go-kratos/kratos-layout) - Kratos Project Template
+- [go-micro/demo](https://github.com/go-micro/demo) - A microservices demo using go-micro
+- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
+- [ThreeDotsLabs/go-event-driven](https://github.com/ThreeDotsLabs/go-event-driven)

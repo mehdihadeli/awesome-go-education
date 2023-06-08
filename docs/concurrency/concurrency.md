@@ -52,6 +52,11 @@
 - [LeakProf: Featherlight In-Production Goroutine Leak Detection ](https://www.uber.com/en-IT/blog/leakprof-featherlight-in-production-goroutine-leak-detection/)
 - [Writing Better Code With Go Concurrency Patterns](https://betterprogramming.pub/writing-better-code-with-go-concurrency-patterns-9bc5f9f73519)
 - [Advanced Concurrency Patterns](https://www.karanpratapsingh.com/courses/go/advanced-concurrency-patterns)
+- [Difference between concurrency and parallelism with Golang code examples](https://levelup.gitconnected.com/difference-between-concurrency-and-parallelism-with-golang-code-examples-83f6b18b3adc)
+- [How to Implement Concurrency and Parallelism in Go](https://levelup.gitconnected.com/how-to-implement-concurrency-and-parallelism-in-go-83c9c453dd2)
+- [A Deep Dive Into Go Concurrency](https://betterprogramming.pub/deep-dive-into-concurrency-of-go-93002344d37b)
+- [Concurrency in Golang, Goroutines, and Channels Explained](https://levelup.gitconnected.com/concurrency-in-golang-goroutines-and-channels-explained-55ddb5e1881)
+- [Concurrency vs Parallelism](https://freecontent.manning.com/concurrency-vs-parallelism/) ⭐
 
 ## 📺 Videos
 - [Concurrency in Go - Steve Hook - Playlist](https://www.youtube.com/playlist?list=PLsc-VaxfZl4do3Etp_xQ0aQBoC-x5BIgJ)

@@ -3,6 +3,7 @@
 ## 📘 Resources
 - [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
 - [Package Oriented Design](https://github.com/ardanlabs/gotraining/tree/master/topics/go/design/packaging)
+
 ## 📕 Articles
 - [Package Oriented Design](https://www.ardanlabs.com/blog/2017/02/package-oriented-design.html)
 - [Go - Project Structure and Guidelines](https://dev.to/jinxankit/go-project-structure-and-guidelines-4ccm)
@@ -43,6 +44,8 @@
 - [Go Program Anatomy (Go Basics #3)](https://www.youtube.com/watch?v=MSB8LXuUjFc)
 - [Go Programming Package Oriented Design](https://www.youtube.com/watch?v=raWGeSom5bE)
 ## 🚀 Samples
+- [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
+- [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
 - [ruslantsyganok/clean_arcitecture_golang_example](https://github.com/ruslantsyganok/clean_arcitecture_golang_example) - Clean Architecture Golang Example (kinda)
 - [selikapro/hexArchGoGRPC](https://github.com/selikapro/hexArchGoGRPC)
 - [codebangkok/golang](https://github.com/codebangkok/golang)

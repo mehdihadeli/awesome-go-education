@@ -38,6 +38,9 @@
 - [Test names should be sentences](https://bitfieldconsulting.com/golang/test-names)
 - [Test scripts in Go](https://bitfieldconsulting.com/golang/test-scripts)
 - [Boosting your Kafka integration tests using Redpanda with Go](https://levelup.gitconnected.com/boosting-your-kafka-integration-tests-using-redpanda-with-go-247e4276c61d)
+- [Mastering Concurrent Programming in Golang: Understanding and Handling Race Conditions](https://levelup.gitconnected.com/mastering-concurrent-programming-in-golang-understanding-and-handling-race-conditions-7501f4ccc394)
+- [Data Race Detector](https://go.dev/doc/articles/race_detector)
+- [Run tests with -race flag in GoLand](https://dev.to/s0xzwasd/run-tests-with-race-flag-in-goland-512j)
 
 ## 📺 Videos
 - [Writing Microservice Integration Tests in Go (Finally) - GopherCon SG 2019](https://www.youtube.com/watch?v=5iVDYga9ts0)

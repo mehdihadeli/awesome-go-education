@@ -134,6 +134,7 @@ nav:
     - Deadlock: concurrency/deadlock.md
     - Select: concurrency/select.md
     - Mutex: concurrency/mutex.md
+    - Concurrency Vs Parallelism: concurrency/concurrency-vs-parallelism.md
   - Error Handling: error-handling.md
   - Best Practices: best-practices.md
   - File: file.md

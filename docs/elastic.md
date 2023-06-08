@@ -1,6 +1,7 @@
 # Elastic Search
 
 ## Articles
+- [Integrating your Go service with ELK Series](https://pmihaylov.com/series-integrating-go-with-elk/)
 - [How to implement Elasticsearch in Go](https://www.freecodecamp.org/news/go-elasticsearch/)
 
 ## Libraries

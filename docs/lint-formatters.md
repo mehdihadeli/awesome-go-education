@@ -8,6 +8,8 @@
 - [Cleaner go code with golines](https://yolken.net/blog/cleaner-go-code-golines)
 - [A Complete Guide to Linting Go Programs](https://freshman.tech/linting-golang/)
 - [How to add a private linter to golangci-lint](https://golangci-lint.run/contributing/new-linters/#how-to-add-a-private-linter-to-golangci-lint)
+- [Sort Go Imports](https://blog.devgenius.io/sort-go-imports-acb76224dfa7)
+
 ## Libraries
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go
 - [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt
@@ -17,6 +19,7 @@
 - [TekWizely/pre-commit-golang](https://github.com/TekWizely/pre-commit-golang) - Pre-commit hooks for Golang with support for monorepos, the ability to pass arguments and environment variables to all hooks, and the ability to invoke custom go tools.
 - [kisielk/errcheck](https://github.com/kisielk/errcheck) - errcheck checks that you checked errors.
 - [dominikh/go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter
+
 ## Samples
 - [Golden config for golangci-lint](https://gist.github.com/maratori/47a4d00457a92aa426dbd48a18776322)
 - [golangci/example-plugin-linter](https://github.com/golangci/example-plugin-linter) - example linter that can be used as a plugin for github.com/golangci/golangci-lint
