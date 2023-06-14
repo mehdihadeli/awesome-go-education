@@ -22,3 +22,5 @@
 - [Building a Web Server in Go](https://thenewstack.io/building-a-web-server-in-go/)
 - [Golang: Handling HTTP Requests](http://www.vernica.net/2020/08/golang-handling-http-requests.html)
 - [How To Make HTTP Requests in Go](https://www.digitalocean.com/community/tutorials/how-to-make-http-requests-in-go)
+- [Which Go router should I use? (with flowchart)](https://www.alexedwards.net/blog/which-go-router-should-i-use)
+- [An Introduction to Handlers and Servemuxes in Go](https://www.alexedwards.net/blog/an-introduction-to-handlers-and-servemuxes-in-go)

@@ -7,6 +7,7 @@
 - [Top 6 Golang Logging Best Practices](https://blog.boot.dev/golang/golang-logging-best-practices/)
 - [Logging in Go with slog](https://thedevelopercafe.com/articles/logging-in-go-with-slog-a7bb489755c2)
 - [A Comprehensive Guide to Structured Logging in Go](https://betterstack.com/community/guides/logging/logging-in-go/)
+- [Logging Interfaces in Go](https://articles.wesionary.team/logging-interfaces-in-go-182c28be3d18)
 
 ## 📦 Libraries
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.

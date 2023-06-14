@@ -37,6 +37,9 @@
 - [Build a REST API with Go - For Beginners](https://dev.to/karanpratapsingh/build-a-rest-api-with-go-for-beginners-3gp)
 - [Build a RESTful API on Go: Fiber, PostgreSQL, JWT and Swagger docs in isolated Docker containers](https://dev.to/koddr/build-a-restful-api-on-go-fiber-postgresql-jwt-and-swagger-docs-in-isolated-docker-containers-475j)
 - [Implement RESTful HTTP API in Go using Gin](https://dev.to/techschoolguru/implement-restful-http-api-in-go-using-gin-4ap1)
+- [Which Go router should I use? (with flowchart)](https://www.alexedwards.net/blog/which-go-router-should-i-use)
+- [An Introduction to Handlers and Servemuxes in Go](https://www.alexedwards.net/blog/an-introduction-to-handlers-and-servemuxes-in-go)
+
 ## 📺 Videos
 - [Let's go with golang - Hitesh Choudhary - Playlist](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa)
 - [Golang Crash Course - Pragmatic Reviews - Playlist](https://www.youtube.com/playlist?list=PL3eAkoh7fypqUQUQPn-bXtfiYT_ZSVKmB)
@@ -44,7 +47,7 @@
 - [Backend master class [Golang, Postgres, Docker]](https://www.youtube.com/playlist?list=PLy_6D98if3ULEtXtNSY_2qN21VCKgoQAE)
 - [Golang Tutorials - CoderVlogger - Playlist](https://www.youtube.com/playlist?list=PLxa49UnOmIzr3Zm8DyzRlOwnXdgiYSJzA)
 - [GO - Clean Architecture](https://www.youtube.com/playlist?list=PL7Bs8ngpweC6KN8g1_LS4Be0bWXB23UKB)
-- [Creating a Go API using an ORM - Tutorial](https://www.youtube.com/watch?v=VAGodyl84OY&list=PLzUGFf4GhXBL4GHXVcMMvzgtO8-WEJIoY&index=6)
+- [Creating a Go API using an ORM - Tutorial](https://www.youtube.com/watch?v=VAGodyl84OY&list=PLzUGFf4GhXBL4GHXVcMMvzgtO8-WEJIoY)
 - [REST API with Go / Gin + Some Simple Tests](https://www.youtube.com/watch?v=LOn1GUsjOF4)
 - [REST API with Go, Chi and Handler Testing](https://www.youtube.com/watch?v=zeme_TmXyBk)
 - [Golang Web Course - Learn To Code](https://www.youtube.com/playlist?list=PLSak_q1UXfPrba68q2afhFq4aBAPVSDbj)

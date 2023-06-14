@@ -41,6 +41,7 @@
 - [Mastering Concurrent Programming in Golang: Understanding and Handling Race Conditions](https://levelup.gitconnected.com/mastering-concurrent-programming-in-golang-understanding-and-handling-race-conditions-7501f4ccc394)
 - [Data Race Detector](https://go.dev/doc/articles/race_detector)
 - [Run tests with -race flag in GoLand](https://dev.to/s0xzwasd/run-tests-with-race-flag-in-goland-512j)
+- [Advanced Testing in Go](https://about.sourcegraph.com/blog/go/advanced-testing-in-go)
 
 ## 📺 Videos
 - [Writing Microservice Integration Tests in Go (Finally) - GopherCon SG 2019](https://www.youtube.com/watch?v=5iVDYga9ts0)
