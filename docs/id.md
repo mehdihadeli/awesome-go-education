@@ -12,3 +12,4 @@
 - [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [sony/sonyflake](https://github.com/sony/sonyflake) - A distributed unique ID generator inspired by Twitter's Snowflake
 - [matoous/go-nanoid](https://github.com/matoous/go-nanoid) - Golang random IDs generator.
+- [jetpack-io/typeid](https://github.com/jetpack-io/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs

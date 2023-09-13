@@ -61,3 +61,5 @@
 - [RealLiuSha/echo-admin](https://github.com/RealLiuSha/echo-admin)
 - [EventStore/training-advanced-go](https://github.com/EventStore/training-advanced-go)
 - [gmhafiz/go8](https://github.com/gmhafiz/go8) - Go + Postgres + Chi Router + sqlx + ent + unit testing Starter Kit for API Development
+- [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.
+- [nikhilnarayanan623/ecommerce-gin-clean-arch](https://github.com/nikhilnarayanan623/ecommerce-gin-clean-arch) - My First Project As Ecommerce Backend Api Using Go Programing Language

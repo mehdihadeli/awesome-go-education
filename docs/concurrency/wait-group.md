@@ -11,6 +11,8 @@
 - [Concurrency in Go - Using Goroutines and WaitGroups](https://www.martincartledge.io/concurrency-in-go-goroutines-and-wait-groups/)
 - [Go (golang) WaitGroup - Signal that a Concurrent Operation is Complete](https://jeremybytes.blogspot.com/2021/02/go-golang-waitgroup-signal-that.html)
 - [WaitGroup](https://dasarpemrogramangolang.novalagung.com/A-waitgroup.html)
+- [Concurrency patterns in Golang: WaitGroups and Goroutines](https://blog.logrocket.com/concurrency-patterns-golang-waitgroups-goroutines/) ⭐
+- [Asynchronous programming with Go](https://medium.com/@gauravsingharoy/asynchronous-programming-with-go-546b96cd50c1) ⭐
 
 ## 📺 Videos
 - [Concurrency in Go - Steve Hook - Playlist](https://www.youtube.com/playlist?list=PLsc-VaxfZl4do3Etp_xQ0aQBoC-x5BIgJ)

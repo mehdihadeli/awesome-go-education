@@ -9,6 +9,7 @@
 - [A Complete Guide to Linting Go Programs](https://freshman.tech/linting-golang/)
 - [How to add a private linter to golangci-lint](https://golangci-lint.run/contributing/new-linters/#how-to-add-a-private-linter-to-golangci-lint)
 - [Sort Go Imports](https://blog.devgenius.io/sort-go-imports-acb76224dfa7)
+- [Setting up VS Code for Golang (2021)](https://medium.com/@rubens.piovesan/setting-up-vs-code-for-golang-2021-4cb6ebdd557c)
 
 ## Libraries
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go

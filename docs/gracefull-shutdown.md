@@ -9,4 +9,6 @@
 - [Graceful shutdown in Go http server](https://medium.com/honestbee-tw-engineer/gracefully-shutdown-in-go-http-server-5f5e6b83da5a)
 - [Graceful shutdown with Go http servers and Kubernetes rolling updates](https://medium.com/over-engineering/graceful-shutdown-with-go-http-servers-and-kubernetes-rolling-updates-6697e7db17cf)
 - [Make Ctrl+C cancel the context.Context](https://medium.com/@matryer/make-ctrl-c-cancel-the-context-context-bd006a8ad6ff)
-- [Proper HTTP shutdown in Go](https://medium.com/@mokiat/proper-http-shutdown-in-go-bd3bfaade0f2)
+- [Proper HTTP shutdown in Go](https://medium.com/@mokiat/proper-http-shutdown-in-go-bd3bfaade0f2) ⭐
+- [Go webserver with graceful shutdown](https://marcofranssen.nl/go-webserver-with-graceful-shutdown)
+- [Improved graceful shutdown webserver](https://marcofranssen.nl/improved-graceful-shutdown-webserver)

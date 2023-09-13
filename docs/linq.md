@@ -11,3 +11,4 @@
 - [jucardi/go-streams](https://github.com/jucardi/go-streams) - Stream Collections for Go. Inspired in Java 8 Streams and .NET Linq
 - [makiuchi-d/linq](https://github.com/makiuchi-d/linq) - LINQ for Go with type parameters
 - [szmcdull/glinq](https://github.com/szmcdull/glinq) - .NET LINQ capabilities in Go
+- [antonmedv/expr](https://github.com/antonmedv/expr) - Expression language and expression evaluation for Go

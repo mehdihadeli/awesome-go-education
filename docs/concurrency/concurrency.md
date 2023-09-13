@@ -57,6 +57,10 @@
 - [A Deep Dive Into Go Concurrency](https://betterprogramming.pub/deep-dive-into-concurrency-of-go-93002344d37b)
 - [Concurrency in Golang, Goroutines, and Channels Explained](https://levelup.gitconnected.com/concurrency-in-golang-goroutines-and-channels-explained-55ddb5e1881)
 - [Concurrency vs Parallelism](https://freecontent.manning.com/concurrency-vs-parallelism/) ⭐
+- [Does Go need async/await?](https://yizhang82.dev/go-and-async-await)
+- [Go vs C#, part 1: Goroutines vs Async-Await](https://alexyakunin.medium.com/go-vs-c-part-1-goroutines-vs-async-await-ac909c651c11)
+- [Concurrency: Comparing Golang's Channels to C#'s Async/Await](https://grantjam.es/concurrency-comparing-golangs-channels-to-c-sharps-asyncawait/)
+- [Concurrency in Go](https://marcofranssen.nl/concurrency-in-go)
 
 ## 📺 Videos
 - [Concurrency in Go - Steve Hook - Playlist](https://www.youtube.com/playlist?list=PLsc-VaxfZl4do3Etp_xQ0aQBoC-x5BIgJ)
@@ -73,10 +77,16 @@
 - [Golang for C# Developers - Concurrency](https://www.youtube.com/watch?v=aEI7nIfvyRU)
 - [Concurrency in Go](https://www.youtube.com/watch?v=LvgVSSpwND8)
 - [Golang / Go Crash Course 05 | Building an API Mashup using Goroutines and Channels](https://www.youtube.com/watch?v=dihX12GkBnc)
+- [Google I/O 2012 - Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs)
+
 ## Libraries
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
 - [modern-go/concurrent](https://github.com/modern-go/concurrent) - concurrency utilities
 - [panjf2000/ants](https://github.com/panjf2000/ants) - ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
+- [Azure/go-asynctask](https://github.com/Azure/go-asynctask) - Simple mimic of async/await for those come from C# world, now you can Cancel(), Wait() on a go routine.
+- [magicdawn/go-co](https://github.com/magicdawn/go-co) - coroutine , async/await for golang
+
 ## Books
 - [Concurrency in Go: Tools and Techniques for Developers](https://www.amazon.com/Concurrency-Go-Tools-Techniques-Developers/dp/1491941197)
+- [Go Concurrency Patterns - Rob Pike (Google I/O 2012)](https://go.dev/talks/2012/concurrency.slide)

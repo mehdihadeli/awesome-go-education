@@ -34,6 +34,8 @@
 - [MaksimDzhangirov/practicalDDD](https://github.com/MaksimDzhangirov/practicalDDD) - Practical DDD in Golang
 - [AntonStoeckl/go-iddd](https://github.com/AntonStoeckl/go-iddd) - showcase project for implementing DDD in Go
 - [EventStore/training-advanced-go](https://github.com/EventStore/training-advanced-go)
+- [gohiei/go-ddd-demo](https://github.com/gohiei/go-ddd-demo) - Implement of Domain-Driven Design and Clean Architecture by Golang
+
 ## 📚 Books
 - [Go with the Domain](https://threedots.tech/go-with-the-domain/) - Free e-book on Building Modern Business Software in Go
 - [Domain-Driven Design with Golang](https://www.packtpub.com/product/domain-driven-design-with-golang/9781804613450)

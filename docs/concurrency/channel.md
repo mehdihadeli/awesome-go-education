@@ -14,3 +14,4 @@
 - [Golang Channels Tutorial](https://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
 - [Building an Unbounded Channel in Go](https://medium.com/capital-one-tech/building-an-unbounded-channel-in-go-789e175cd2cd)
 - [How To Run Multiple Functions Concurrently in Go](https://www.digitalocean.com/community/tutorials/how-to-run-multiple-functions-concurrently-in-go)
+- [Asynchronous programming with Go](https://medium.com/@gauravsingharoy/asynchronous-programming-with-go-546b96cd50c1) ⭐

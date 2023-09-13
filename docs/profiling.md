@@ -8,5 +8,7 @@
 - [Profiling your Golang app in 3 steps](https://coder.today/tech/2018-11-10_profiling-your-golang-app-in-3-steps/)
 - [How I investigated memory leaks in Go using pprof on a large codebase](https://www.freecodecamp.org/news/how-i-investigated-memory-leaks-in-go-using-pprof-on-a-large-codebase-4bec4325e192/)
 - [Profiling Go HTTP service with pprof and expvar](https://rafallorenz.com/go/go-profiling-http-service-with-pprof-and-expvar/)
+- [Profiling Go Applications in the Right Way with Examples](https://abdulsamet-ileri.medium.com/profiling-go-applications-in-the-right-way-with-examples-e784526e9481)
+
 ## Videos
 - [GopherCon 2018: George Tankersley - Micro optimizing Go Code](https://www.youtube.com/watch?v=keydVd-Zn80)
