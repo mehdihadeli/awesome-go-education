@@ -6,3 +6,6 @@
 ## Libraries
 - [ulule/limiter](https://github.com/ulule/limiter) - Dead simple rate limit middleware for Go.
 - [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Go blocking leaky-bucket rate limit implementation
+
+## Samples
+- [ulule/limiter-examples](https://github.com/ulule/limiter-examples/blob/master/echo/main.go)

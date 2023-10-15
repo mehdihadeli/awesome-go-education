@@ -8,3 +8,4 @@
 - [alexsem80/go-mapper](https://github.com/alexsem80/go-mapper) - go-mapper module is designed for automatic types conversion between structs, pointers, maps and slices
 - [rendis/structsconv](https://github.com/rendis/structsconv) - A mapstruct to convert struct from one type to another
 - [jinzhu/copier](https://github.com/jinzhu/copier) - Copier for golang, copy value from struct to struct and more
+- [jeevatkm/go-model](https://github.com/jeevatkm/go-model) - Robust & Easy to use struct mapper and utility methods for Go

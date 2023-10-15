@@ -1,5 +1,8 @@
 # Logging
 
+## Resources
+- [go-slog/awesome-slog](https://github.com/go-slog/awesome-slog)
+
 ## 📕 Articles
 - [Logging - Practical Go Lessons](https://www.practical-go-lessons.com/chap-31-logging)
 - [Logging in Go: Choosing a System and Using it](https://www.honeybadger.io/blog/golang-logging/)
@@ -26,7 +29,7 @@
 - [samber/slog-multi](https://github.com/samber/slog-multi) - Design workflows of slog handlers: pipeline, middleware, fanout, failover, load balancing
 - [samber/slog-gin](https://github.com/samber/slog-gin) - Gin middleware for slog logger
 - [samber/slog-echo](https://github.com/samber/slog-echo) - Echo middleware for slog logger
-
+- [golang-cz/devslog](https://github.com/golang-cz/devslog) - Developing handler for Go's log/slog
 ## Videos
 - [Software Architecture in Golang: Structured Logging using slog (Observability)](https://www.youtube.com/watch?v=htbGdhW3JdQ)
 

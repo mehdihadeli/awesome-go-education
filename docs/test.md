@@ -105,6 +105,7 @@
 - [icrowley/fake](https://github.com/icrowley/fake) - Fake data generator for Go (Golang)
 - [jaswdr/faker](https://github.com/jaswdr/faker) - Ultimate fake data generator for Go with zero dependencies
 - [MarvinJWendt/testza](https://github.com/MarvinJWendt/testza) - Full-featured test framework for Go! Assertions, fuzzing, input testing, output capturing, and much more!
+- [uber-go/mock](https://github.com/uber-go/mock) - GoMock is a mocking framework for the Go programming language.
 
 ## 🚀 Samples
 - [victorsteven/Unit-And-Integration-Testing](https://github.com/victorsteven/Unit-And-Integration-Testing) - A simple approach to understanding Unit and Integration testing in Golang

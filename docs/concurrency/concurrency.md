@@ -61,6 +61,7 @@
 - [Go vs C#, part 1: Goroutines vs Async-Await](https://alexyakunin.medium.com/go-vs-c-part-1-goroutines-vs-async-await-ac909c651c11)
 - [Concurrency: Comparing Golang's Channels to C#'s Async/Await](https://grantjam.es/concurrency-comparing-golangs-channels-to-c-sharps-asyncawait/)
 - [Concurrency in Go](https://marcofranssen.nl/concurrency-in-go)
+- [Concurrency in Go: A Practical Guide with Hands-On Examples](https://dev.to/kittipat1413/concurrency-in-go-a-practical-guide-with-hands-on-examples-37od) ⭐
 
 ## 📺 Videos
 - [Concurrency in Go - Steve Hook - Playlist](https://www.youtube.com/playlist?list=PLsc-VaxfZl4do3Etp_xQ0aQBoC-x5BIgJ)

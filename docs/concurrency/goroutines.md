@@ -19,6 +19,7 @@
 - [LeakProf: Featherlight In-Production Goroutine Leak Detection ](https://www.uber.com/en-IT/blog/leakprof-featherlight-in-production-goroutine-leak-detection/)
 - [Concurrency patterns in Golang: WaitGroups and Goroutines](https://blog.logrocket.com/concurrency-patterns-golang-waitgroups-goroutines/) ⭐
 - [Asynchronous programming with Go](https://medium.com/@gauravsingharoy/asynchronous-programming-with-go-546b96cd50c1) ⭐
+- [Concurrency in Go: A Practical Guide with Hands-On Examples](https://dev.to/kittipat1413/concurrency-in-go-a-practical-guide-with-hands-on-examples-37od) ⭐
 
 ## 📺 Videos
 - [Go Goroutine Tutorial - Concurrency in Go](https://www.youtube.com/watch?v=ARHXmR0_MGY)
