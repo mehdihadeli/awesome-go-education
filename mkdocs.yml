@@ -178,6 +178,7 @@ nav:
   - Package Management: package-management.md
   - Rate Limit: rate-limit.md
   - Libraries: libraries.md
+  - Project Template: project-template.md
   - ID: id.md
   - Tools: tools.md
   - Utils: utils.md

@@ -30,6 +30,8 @@
 - [samber/slog-gin](https://github.com/samber/slog-gin) - Gin middleware for slog logger
 - [samber/slog-echo](https://github.com/samber/slog-echo) - Echo middleware for slog logger
 - [golang-cz/devslog](https://github.com/golang-cz/devslog) - Developing handler for Go's log/slog
+- [remychantenay/slog-otel](https://github.com/remychantenay/slog-otel) - Go slog's Handler implementation to ensure correlation with Open-Telemetry spans.
+
 ## Videos
 - [Software Architecture in Golang: Structured Logging using slog (Observability)](https://www.youtube.com/watch?v=htbGdhW3JdQ)
 

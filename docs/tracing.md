@@ -47,6 +47,7 @@
 - [Golang Microservices: Observability using OpenTelemetry](https://www.youtube.com/watch?v=bytCFQJ43DE)
 - [Introduction to Tracing : OpenTelemetry & Opentracing](https://www.youtube.com/watch?v=idDu_jXqf4E)
 - [OpenTelemetry Deep Dive: Golang](https://www.youtube.com/watch?v=yQpyIrdxmQc)
+- [OpenTelemetry Golang Tutorial (Tracing in Grafana & Kubernetes & Tempo)](https://www.youtube.com/watch?v=ZIN7H00ulQw)
 
 ## Libraries
 - [open-telemetry/opentelemetry-collector/](https://github.com/open-telemetry/opentelemetry-collector/) - OpenTelemetry Collector
@@ -57,6 +58,8 @@
 - [worldline-go/tell](https://github.com/worldline-go/tell) - opentelemetry helper library
 - [uptrace/uptrace-go](https://github.com/uptrace/uptrace-go)
 - [bakins/otel-grpc-statshandler](https://github.com/bakins/otel-grpc-statshandler) - OpenTelemetry traces and metrics for Go grpc
+- [remychantenay/slog-otel](https://github.com/remychantenay/slog-otel) - Go slog's Handler implementation to ensure correlation with Open-Telemetry spans.
+
 ## 🚀 Samples
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ⭐ - OpenTelemetry Community Demo Application
 - [open-telemetry/opentelemetry-collector-contrib/examples/demo](https://github.com/open-telemetry/opentelemetry-collector-contrib/tree/main/examples/demo) ⭐

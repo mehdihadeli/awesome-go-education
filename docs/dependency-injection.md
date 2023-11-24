@@ -18,6 +18,7 @@
 - [Dependency Injection for Golang Developers](https://gopheradvent.com/calendar/2021/dependency-injection-for-golang-developers/) ⭐
 - [What is Golang Dig](https://ruslan.rocks/posts/golang-dig)
 - [Google’s Wire: Automated Dependency Injection in Go](https://betterprogramming.pub/googles-wire-automated-dependency-injection-in-go-4e98864c3dd5)
+- [Dependency Injection in Go using Wire](https://www.mohitkhare.com/blog/go-dependency-injection/)
 
 ## Libraries
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go

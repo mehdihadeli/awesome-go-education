@@ -26,12 +26,12 @@
 - [Go in One Evening](https://threedots.tech/go-in-one-evening)
 - [enocom/gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go
 - [Learn Go: The complete course](https://www.karanpratapsingh.com/courses/go)
-- [karanpratapsingh/go-course](https://github.com/karanpratapsingh/go-course) - Master the fundamentals and advanced features of the Go programming language
+- [karanpratapsingh/go-course](https://github.com/karanpratapsingh/go-course) ⭐ - Master the fundamentals and advanced features of the Go programming language
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
 - [softchris/golang-book](https://github.com/softchris/golang-book) - A book on Go, contains fundamentals but also recipes
 - [blasrodri/spaceship-go](https://github.com/blasrodri/spaceship-go) - Spaceship Go - A journey into the Standard Library
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
-- [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
+- [dariubs/GoBooks](https://github.com/dariubs/GoBooks) ⭐ - List of Golang books
 - [callicoder/golang-tutorials](https://github.com/callicoder/golang-tutorials) - Golang Tutorials. Learn Golang from Scratch with simple examples.
 - [miekg/learninggo](https://github.com/miekg/learninggo) - Learning Go Book in mmark
 - [go101/go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics and runtime related things
