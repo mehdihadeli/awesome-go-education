@@ -107,6 +107,7 @@
 - [MarvinJWendt/testza](https://github.com/MarvinJWendt/testza) - Full-featured test framework for Go! Assertions, fuzzing, input testing, output capturing, and much more!
 - [uber-go/mock](https://github.com/uber-go/mock) - GoMock is a mocking framework for the Go programming language.
 - [jarcoal/httpmock](https://github.com/jarcoal/httpmock) - HTTP mocking for Golang
+- [go-faker/faker](https://github.com/go-faker/faker) - Go (Golang) Fake Data Generator for Struct, previously
 
 ## 🚀 Samples
 - [victorsteven/Unit-And-Integration-Testing](https://github.com/victorsteven/Unit-And-Integration-Testing) - A simple approach to understanding Unit and Integration testing in Golang
