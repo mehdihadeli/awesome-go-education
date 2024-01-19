@@ -73,7 +73,6 @@ nav:
     - Mux & Router :  web/mux-router.md
     - Rate Limiting :  web/rate-limiting.md
     - Response :  web/response.md
-    - Template: web/template.md
     - Versioning :  web/versioning.md
   - Go Instructions:
     - Go: go-instructions/go.md
