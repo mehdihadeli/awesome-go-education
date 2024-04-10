@@ -45,6 +45,7 @@
 - [amukherj/envoygrpc](https://github.com/amukherj/envoygrpc) - Sample grpc services communicating over Envoy.
 - [hellokvn/go-grpc-product-svc](https://github.com/hellokvn/go-grpc-product-svc)
 - [johanbrandhorst/grpc-postgres](https://github.com/johanbrandhorst/grpc-postgres) - An example repo of how I like to use postgres with gRPC
+
 ## 📦 Libraries
 - [lileio/lile](https://github.com/lileio/lile) - Easily generate gRPC services in Go ⚡️
 - [go-masonry/mortar](https://github.com/go-masonry/mortar) - Mortar is a GO framework/library for building gRPC (and REST) web services.
@@ -52,3 +53,4 @@
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [nhatthm/grpcmock](https://github.com/nhatthm/grpcmock) - gRPC Test Utilities for Golang
 - [tokopedia/gripmock](https://github.com/tokopedia/gripmock) - gRPC Mock Server
+- [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.

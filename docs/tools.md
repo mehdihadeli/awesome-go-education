@@ -17,3 +17,4 @@
 - [ofabry/go-callvis](https://github.com/ofabry/go-callvis) - Visualize call graph of a Go program using 
 - [krzysztofreczek/go-structurizr](https://github.com/krzysztofreczek/go-structurizr) - A library for auto-generating C4 diagrams from Go applications
 - [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
